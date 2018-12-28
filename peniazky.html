@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="sk">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta name="format-detection" content="telephone=no" />
+
+  <title>CVČ CVrČek » Peniažky</title>
+  <meta name="description" content="To najlepšie miesto pre deti a mládež">
+  <meta name="keywords" content="CVrČek, CVČ, centrum, voľného, času, Moldava, Moldava nad Bodvou">
+  <meta name="author" content="2 Key Players">
+
+  <meta property="og:title" content="CVČ CVrČek" />
+  <meta property="og:description" content="To najlepšie miesto pre deti a mládež" />
+  <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/cvrcek-logo-social.png" />
+  <meta property="og:url" content="http://www.cvcmoldava.edu.sk/" />
+  <meta property="og:type" content="website" />
+  <meta property="fb:app_id" content="159482424129512" />
+  <!-- <meta name="twitter:card" content="summary_large_image" /> -->
+  <meta name="twitter:card" content="summary" />
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e27837">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="semantic/dist/semantic.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+  <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script> -->
+  <!-- development version, includes helpful console warnings -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
+  <!-- production version, optimized for size and speed -->
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+  <script>
+    $(document).ready(function () {
+
+    });
+  </script>
+</head>
+
+<body>
+
+  <!-- Page Contents -->
+  <div id="app" class="peniazky pusher">
+    <div class="ui top segment">
+      <div class="ui container">
+        <img class="logo" src="obrazky/cvrcek.svg" alt="CVrČek" />
+        <h1 class="ui header">
+          <span class="cvrcek">
+            <span class="centrum">C</span>
+            <span class="volneho">V</span>
+            <span>r</span>
+            <span class="casu">Č</span>
+            <span>e</span>
+            <span>k</span>
+          </span>
+          <span class="cvc">Centrum voľného času</span>
+          <!-- <span class="cvc"><span class="centrum">Centrum</span> <span class="volneho">voľného</span> <span class="casu">času</span></span> -->
+        </h1>
+        <img class="logo zadok" src="obrazky/cvrcek-zadok.svg" alt="CVrČek" />
+      </div>
+    </div>
+
+    <div class="ui kontakt mini modal">
+      <div class="header"><i class="pencil icon"></i> Kontaktík</div>
+      <div class="content">
+        <div class="ui relaxed divided link list">
+          <div class="item">
+            <div class="ui header">
+              <i class="building icon"></i>
+              <div class="content">
+                <div class="sub header">
+                  CVČ CVrČek<br />
+                  Školská 5<br />
+                  Moldava nad Bodvou<br />
+                  045 01
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="ui header">
+              <i class="phone icon"></i>
+              <div class="content">
+                <div class="sub header">
+                  <a href="tel:00421905815083">+421 (905) 815 083</a><br />
+                  <a href="tel:00421554607253">+421 (55) 460 7253</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="ui header">
+              <i class="mail icon"></i>
+              <div class="content">
+                <div class="sub header">
+                  <a href="mailto:cvrcek@cvcmoldava.edu.sk">cvrcek@cvcmoldava.edu.sk</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="actions">
+        <div class="ui ok button">OK</div>
+      </div>
+    </div>
+
+    <div class="ui big borderless main menu">
+      <div class="ui container">
+        <a class="first item" href="index.html"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
+        <a class="second item" href="infosky.html"><i class="info icon"></i><span>Infošky</span></a>
+        <a class="active third item" href="peniazky.html"><i class="euro icon"></i><span>Peniažky</span></a>
+        <a class="fourth item" href="archiv.html"><i class="archive icon"></i><span>Archívček</span></a>
+        <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontaktík</span></a>
+        <div class="right menu">
+          <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"><i class="facebook icon"></i><span>Facebook</span></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui vertical stripe main segment">
+      <div class="ui main container">
+        <a name="poplatky"></a>
+        <h4 class="ui horizontal header divider">
+          <i class="euro icon"></i>
+          Poplatky
+        </h4>
+        <div class="content">
+          <p style="margin-bottom: 2em">Milí rodičia, poplatky za záujmové útvary, ktoré navštevujú vaše deti, môžete
+            uhradiť na číslo účtu
+            <strong>SK73 0200 0000 0017 4487 2754</strong> a do správy pre prijímateľa uveďte <strong>meno dieťaťa</strong>
+            a <strong>názov záujmového útvaru</strong>. Ďakujeme!</p>
+          <table class="ui striped table">
+            <thead>
+              <tr>
+                <th>Platiteľ</th>
+                <th class="poplatokkk collapsing">Úhrada za mesiac v eurách</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Zákonný zástupca dieťaťa, prípadne účastník záujmovej činnosti do 30 rokov veku, s trvalým pobytom
+                  v
+                  Moldave n/B. alebo inej obci, ktorý odovzdal súhlas na započítanie do zberu údajov</td>
+                <td class="poplatokkk center aligned" data-tooltip="Za jeden záujmový útvar v rámci pravidelnej činnosti.">3
+                  &euro;</td>
+              </tr>
+              <tr>
+                <td>Zákonný zástupca dieťaťa, prípadne účastník záujmovej činnosti do 30 rokov veku, s trvalým pobytom
+                  v
+                  Moldave n/B., ktorý neodovzdal súhlas na započítanie do zberu údajov</td>
+                <td class="poplatokkk center aligned" data-tooltip="Za jeden záujmový útvar v rámci pravidelnej činnosti.">6
+                  &euro;</td>
+              </tr>
+              <tr>
+                <td>Zákonný zástupca dieťaťa, prípadne účastník záujmovej činnosti do 30 rokov veku, s trvalým pobytom
+                  v
+                  inej obci, ktorá neposkytne finančné prostriedky na záujmové vzdelávanie</td>
+                <td class="poplatokkk center aligned" data-tooltip="Za jeden záujmový útvar v rámci pravidelnej činnosti.">9
+                  &euro;</td>
+              </tr>
+              <tr>
+                <td>Zákonný zástupca dieťaťa, prípadne účastník záujmovej činnosti do 30 rokov veku z rodiny v HN</td>
+                <td class="poplatokkk center aligned" data-tooltip="Za jeden záujmový útvar v rámci pravidelnej činnosti.">1,5
+                  &euro;</td>
+              </tr>
+              <tr>
+                <td>Iná dospelá osoba (nad 30 rokov)</td>
+                <td class="poplatokkk center aligned" data-tooltip="Za jeden záujmový útvar v rámci pravidelnej činnosti.">10
+                  &euro;</td>
+              </tr>
+              <tr>
+                <td>Členovia CVrČkovho parlamentu</td>
+                <td class="poplatokkk center aligned" data-tooltip="Bez úhrady.">0 &euro;</td>
+              </tr>
+              <tr>
+                <td>Zákonný zástupca dieťaťa alebo dospelá osoba</td>
+                <td class="poplatokkk center aligned" data-tooltip="Za účasť na príležitostnej činnosti. Aktuálny cenník vydá riaditeľ/ka CVČ.">Podľa
+                  cenníka</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <a name="tsz"></a>
+        <h4 class="ui horizontal margined header divider">
+          <i class="folder open icon"></i>
+          Transparentné školské zariadenie
+        </h4>
+        <div class="ui center aligned container">
+          <div class="ui link list">
+            <a class="item" href="http://egov.moldava.sk/default.aspx?NavigationState=778:0:" target="_blank"><i class="linkify icon"></i>Zmluvy</a>
+            <a class="item" href="http://egov.moldava.sk/default.aspx?NavigationState=779:0:" target="_blank"><i class="linkify icon"></i>Dodávateľské
+              faktúry</a>
+            <a class="item" href="http://egov.moldava.sk/default.aspx?NavigationState=781:0:" target="_blank"><i class="linkify icon"></i>Objednávky</a>
+          </div>
+          <div style="text-align: center">
+            <div class="ui pointing label">V menu Organizácia zvoľte položku &quot;Centrum voľného času CVrČek&quot;</a>
+            </div>
+          </div>
+        </div>
+        <!-- <h4 class="ui horizontal margined header divider">
+          <i class="folder open icon"></i>
+          Register objednávok a faktúr
+        </h4>
+        <div class="ui center aligned container">
+          <p>Objednávky</p>
+          <div class="ui horizontal link margined list">
+            <a class="item" href="ekonomika/obj201101.pdf"><i class="file pdf icon"></i>01/2011</a>
+            <a class="item" href="ekonomika/obj201102.pdf"><i class="file pdf icon"></i>02/2011</a>
+            <a class="item" href="ekonomika/obj201103.pdf"><i class="file pdf icon"></i>03/2011</a>
+            <a class="item" href="ekonomika/obj201104.pdf"><i class="file pdf icon"></i>04/2011</a>
+            <a class="item" href="ekonomika/obj201105.pdf"><i class="file pdf icon"></i>05/2011</a>
+            <a class="item" href="ekonomika/obj201106.pdf"><i class="file pdf icon"></i>06/2011</a>
+            <br>
+            <a class="item" href="ekonomika/obj201107.pdf"><i class="file pdf icon"></i>07/2011</a>
+            <a class="item" href="ekonomika/obj201108.pdf"><i class="file pdf icon"></i>08/2011</a>
+            <a class="item" href="ekonomika/obj201109.pdf"><i class="file pdf icon"></i>09/2011</a>
+            <a class="item" href="ekonomika/obj201110.pdf"><i class="file pdf icon"></i>10/2011</a>
+            <a class="item" href="ekonomika/obj201111.pdf"><i class="file pdf icon"></i>11/2011</a>
+            <a class="item" href="ekonomika/obj201112.pdf"><i class="file pdf icon"></i>12/2011</a>
+            <br><br>
+            <a class="item" href="ekonomika/obj201201.pdf"><i class="file pdf icon"></i>01/2012</a>
+            <a class="item" href="ekonomika/obj201202.pdf"><i class="file pdf icon"></i>02/2012</a>
+            <a class="item" href="ekonomika/obj201203.pdf"><i class="file pdf icon"></i>03/2012</a>
+            <a class="item" href="ekonomika/obj201204.pdf"><i class="file pdf icon"></i>04/2012</a>
+            <a class="item" href="ekonomika/obj201205.pdf"><i class="file pdf icon"></i>05/2012</a>
+            <a class="item" href="ekonomika/obj201206.pdf"><i class="file pdf icon"></i>06/2012</a>
+            <br>
+            <a class="item" href="ekonomika/obj201207.pdf"><i class="file pdf icon"></i>07/2012</a>
+            <a class="item" href="ekonomika/obj201208.pdf"><i class="file pdf icon"></i>08/2012</a>
+            <a class="item" href="ekonomika/obj201209.pdf"><i class="file pdf icon"></i>09/2012</a>
+            <a class="item" href="ekonomika/obj201210.pdf"><i class="file pdf icon"></i>10/2012</a>
+            <a class="item" href="ekonomika/obj201211.pdf"><i class="file pdf icon"></i>11/2012</a>
+            <a class="item" href="ekonomika/obj201212.pdf"><i class="file pdf icon"></i>12/2012</a>
+            <br><br>
+            <a class="item" href="ekonomika/obj201301.pdf"><i class="file pdf icon"></i>01/2013</a>
+            <a class="item" href="ekonomika/obj201302.pdf"><i class="file pdf icon"></i>02/2013</a>
+            <a class="item" href="ekonomika/obj201303.pdf"><i class="file pdf icon"></i>03/2013</a>
+            <a class="item" href="ekonomika/obj201304.pdf"><i class="file pdf icon"></i>04/2013</a>
+            <a class="item" href="ekonomika/obj201305.pdf"><i class="file pdf icon"></i>05/2013</a>
+            <a class="item" href="ekonomika/obj201306.pdf"><i class="file pdf icon"></i>06/2013</a>
+            <br>
+            <a class="item" href="ekonomika/obj201307.pdf"><i class="file pdf icon"></i>07/2013</a>
+            <a class="item" href="ekonomika/obj201308.pdf"><i class="file pdf icon"></i>08/2013</a>
+            <a class="item" href="ekonomika/obj201309.pdf"><i class="file pdf icon"></i>09/2013</a>
+            <a class="item" href="ekonomika/obj201310.pdf"><i class="file pdf icon"></i>10/2013</a>
+            <a class="item" href="ekonomika/obj201311.pdf"><i class="file pdf icon"></i>11/2013</a>
+            <a class="item" href="ekonomika/obj201312.pdf"><i class="file pdf icon"></i>12/2013</a>
+            <br><br>
+            <a class="item" href="ekonomika/obj201401.pdf"><i class="file pdf icon"></i>01/2014</a>
+            <a class="item" href="ekonomika/obj201402.pdf"><i class="file pdf icon"></i>02/2014</a>
+            <a class="item" href="ekonomika/obj201403.pdf"><i class="file pdf icon"></i>03/2014</a>
+            <a class="item" href="ekonomika/obj201404.pdf"><i class="file pdf icon"></i>04/2014</a>
+            <a class="item" href="ekonomika/obj201405.pdf"><i class="file pdf icon"></i>05/2014</a>
+            <a class="item" href="ekonomika/obj201406.pdf"><i class="file pdf icon"></i>06/2014</a>
+            <br>
+            <a class="item" href="ekonomika/obj201407.pdf"><i class="file pdf icon"></i>07/2014</a>
+            <a class="item" href="ekonomika/obj201408.pdf"><i class="file pdf icon"></i>08/2014</a>
+            <a class="item" href="ekonomika/obj201409.pdf"><i class="file pdf icon"></i>09/2014</a>
+            <a class="item" href="ekonomika/obj201410.pdf"><i class="file pdf icon"></i>10/2014</a>
+            <a class="item" href="ekonomika/obj201411.pdf"><i class="file pdf icon"></i>11/2014</a>
+            <a class="item" href="ekonomika/obj201412.pdf"><i class="file pdf icon"></i>12/2014</a>
+            <br><br>
+            <a class="item" href="ekonomika/obj201501.pdf"><i class="file pdf icon"></i>01/2015</a>
+            <a class="item" href="ekonomika/obj201502.pdf"><i class="file pdf icon"></i>02/2015</a>
+            <a class="item" href="ekonomika/obj201503.pdf"><i class="file pdf icon"></i>03/2015</a>
+            <a class="item" href="ekonomika/obj201504.pdf"><i class="file pdf icon"></i>04/2015</a>
+            <a class="item" href="ekonomika/obj201505.pdf"><i class="file pdf icon"></i>05/2015</a>
+            <a class="item" href="ekonomika/obj201506.pdf"><i class="file pdf icon"></i>06/2015</a>
+            <br>
+            <a class="item" href="ekonomika/obj201507.pdf"><i class="file pdf icon"></i>07/2015</a>
+            <a class="item" href="ekonomika/obj201508.pdf"><i class="file pdf icon"></i>08/2015</a>
+            <a class="item" href="ekonomika/obj201509.pdf"><i class="file pdf icon"></i>09/2015</a>
+            <a class="item" href="ekonomika/obj201510.pdf"><i class="file pdf icon"></i>10/2015</a>
+            <a class="item" href="ekonomika/obj201511.pdf"><i class="file pdf icon"></i>11/2015</a>
+            <a class="item" href="ekonomika/obj201512.pdf"><i class="file pdf icon"></i>12/2015</a>
+          </div>
+          <p style="margin-top:2em">Odberateľské faktúry</p>
+          <div class="ui horizontal link margined list">
+            <a class="item" href="ekonomika/of201101.pdf"><i class="file pdf icon"></i>01/2011</a>
+            <a class="item" href="ekonomika/of201102.pdf"><i class="file pdf icon"></i>02/2011</a>
+            <a class="item" href="ekonomika/of201103.pdf"><i class="file pdf icon"></i>03/2011</a>
+            <a class="item" href="ekonomika/of201104.pdf"><i class="file pdf icon"></i>04/2011</a>
+            <a class="item" href="ekonomika/of201105.pdf"><i class="file pdf icon"></i>05/2011</a>
+            <a class="item" href="ekonomika/of201106.pdf"><i class="file pdf icon"></i>06/2011</a>
+            <br>
+            <a class="item" href="ekonomika/of201107.pdf"><i class="file pdf icon"></i>07/2011</a>
+            <a class="item" href="ekonomika/of201108.pdf"><i class="file pdf icon"></i>08/2011</a>
+            <a class="item" href="ekonomika/of201109.pdf"><i class="file pdf icon"></i>09/2011</a>
+            <a class="item" href="ekonomika/of201110.pdf"><i class="file pdf icon"></i>10/2011</a>
+            <a class="item" href="ekonomika/of201111.pdf"><i class="file pdf icon"></i>11/2011</a>
+            <a class="item" href="ekonomika/of201112.pdf"><i class="file pdf icon"></i>12/2011</a>
+            <br><br>
+            <a class="item" href="ekonomika/of201201.pdf"><i class="file pdf icon"></i>01/2012</a>
+            <a class="item" href="ekonomika/of201202.pdf"><i class="file pdf icon"></i>02/2012</a>
+            <a class="item" href="ekonomika/of201203.pdf"><i class="file pdf icon"></i>03/2012</a>
+            <a class="item" href="ekonomika/of201204.pdf"><i class="file pdf icon"></i>04/2012</a>
+            <a class="item" href="ekonomika/of201205.pdf"><i class="file pdf icon"></i>05/2012</a>
+            <a class="item" href="ekonomika/of201206.pdf"><i class="file pdf icon"></i>06/2012</a>
+            <br>
+            <a class="item" href="ekonomika/of201207.pdf"><i class="file pdf icon"></i>07/2012</a>
+            <a class="item" href="ekonomika/of201208.pdf"><i class="file pdf icon"></i>08/2012</a>
+            <a class="item" href="ekonomika/of201209.pdf"><i class="file pdf icon"></i>09/2012</a>
+            <a class="item" href="ekonomika/of201210.pdf"><i class="file pdf icon"></i>10/2012</a>
+            <a class="item" href="ekonomika/of201211.pdf"><i class="file pdf icon"></i>11/2012</a>
+            <a class="item" href="ekonomika/of201212.pdf"><i class="file pdf icon"></i>12/2012</a>
+            <br><br>
+            <a class="item" href="ekonomika/of201301.pdf"><i class="file pdf icon"></i>01/2013</a>
+            <a class="item" href="ekonomika/of201302.pdf"><i class="file pdf icon"></i>02/2013</a>
+            <a class="item" href="ekonomika/of201303.pdf"><i class="file pdf icon"></i>03/2013</a>
+            <a class="item" href="ekonomika/of201304.pdf"><i class="file pdf icon"></i>04/2013</a>
+            <a class="item" href="ekonomika/of201305.pdf"><i class="file pdf icon"></i>05/2013</a>
+            <a class="item" href="ekonomika/of201306.pdf"><i class="file pdf icon"></i>06/2013</a>
+            <br>
+            <a class="item" href="ekonomika/of201307.pdf"><i class="file pdf icon"></i>07/2013</a>
+            <a class="item" href="ekonomika/of201308.pdf"><i class="file pdf icon"></i>08/2013</a>
+            <a class="item" href="ekonomika/of201309.pdf"><i class="file pdf icon"></i>09/2013</a>
+            <a class="item" href="ekonomika/of201310.pdf"><i class="file pdf icon"></i>10/2013</a>
+            <a class="item" href="ekonomika/of201311.pdf"><i class="file pdf icon"></i>11/2013</a>
+            <a class="item" href="ekonomika/of201312.pdf"><i class="file pdf icon"></i>12/2013</a>
+            <br><br>
+            <a class="item" href="ekonomika/of201401.pdf"><i class="file pdf icon"></i>01/2014</a>
+            <a class="item" href="ekonomika/of201402.pdf"><i class="file pdf icon"></i>02/2014</a>
+            <a class="item" href="ekonomika/of201403.pdf"><i class="file pdf icon"></i>03/2014</a>
+            <a class="item" href="ekonomika/of201404.pdf"><i class="file pdf icon"></i>04/2014</a>
+            <a class="item" href="ekonomika/of201405.pdf"><i class="file pdf icon"></i>05/2014</a>
+            <a class="item" href="ekonomika/of201406.pdf"><i class="file pdf icon"></i>06/2014</a>
+            <br>
+            <a class="item" href="ekonomika/of201407.pdf"><i class="file pdf icon"></i>07/2014</a>
+            <a class="item" href="ekonomika/of201408.pdf"><i class="file pdf icon"></i>08/2014</a>
+            <a class="item" href="ekonomika/of201409.pdf"><i class="file pdf icon"></i>09/2014</a>
+            <a class="item" href="ekonomika/of201410.pdf"><i class="file pdf icon"></i>10/2014</a>
+            <a class="item" href="ekonomika/of201411.pdf"><i class="file pdf icon"></i>11/2014</a>
+            <a class="item" href="ekonomika/of201412.pdf"><i class="file pdf icon"></i>12/2014</a>
+            <br><br>
+            <a class="item" href="ekonomika/of201501.pdf"><i class="file pdf icon"></i>01/2015</a>
+            <a class="item" href="ekonomika/of201502.pdf"><i class="file pdf icon"></i>02/2015</a>
+            <a class="item" href="ekonomika/of201503.pdf"><i class="file pdf icon"></i>03/2015</a>
+            <a class="item" href="ekonomika/of201504.pdf"><i class="file pdf icon"></i>04/2015</a>
+            <a class="item" href="ekonomika/of201505.pdf"><i class="file pdf icon"></i>05/2015</a>
+            <a class="item" href="ekonomika/of201506.pdf"><i class="file pdf icon"></i>06/2015</a>
+            <br>
+            <a class="item" href="ekonomika/of201507.pdf"><i class="file pdf icon"></i>07/2015</a>
+            <a class="item" href="ekonomika/of201508.pdf"><i class="file pdf icon"></i>08/2015</a>
+            <a class="item" href="ekonomika/of201509.pdf"><i class="file pdf icon"></i>09/2015</a>
+            <a class="item" href="ekonomika/of201510.pdf"><i class="file pdf icon"></i>10/2015</a>
+            <a class="item" href="ekonomika/of201511.pdf"><i class="file pdf icon"></i>11/2015</a>
+            <a class="item" href="ekonomika/of201512.pdf"><i class="file pdf icon"></i>12/2015</a>
+          </div>
+          <p style="margin-top:2em">Dodávateľské faktúry</p>
+          <div class="ui horizontal link margined list">
+            <a class="item" href="ekonomika/df201101.pdf"><i class="file pdf icon"></i>01/2011</a>
+            <a class="item" href="ekonomika/df201102.pdf"><i class="file pdf icon"></i>02/2011</a>
+            <a class="item" href="ekonomika/df201103.pdf"><i class="file pdf icon"></i>03/2011</a>
+            <a class="item" href="ekonomika/df201104.pdf"><i class="file pdf icon"></i>04/2011</a>
+            <a class="item" href="ekonomika/df201105.pdf"><i class="file pdf icon"></i>05/2011</a>
+            <a class="item" href="ekonomika/df201106.pdf"><i class="file pdf icon"></i>06/2011</a>
+            <br>
+            <a class="item" href="ekonomika/df201107.pdf"><i class="file pdf icon"></i>07/2011</a>
+            <a class="item" href="ekonomika/df201108.pdf"><i class="file pdf icon"></i>08/2011</a>
+            <a class="item" href="ekonomika/df201109.pdf"><i class="file pdf icon"></i>09/2011</a>
+            <a class="item" href="ekonomika/df201110.pdf"><i class="file pdf icon"></i>10/2011</a>
+            <a class="item" href="ekonomika/df201111.pdf"><i class="file pdf icon"></i>11/2011</a>
+            <a class="item" href="ekonomika/df201112.pdf"><i class="file pdf icon"></i>12/2011</a>
+            <br><br>
+            <a class="item" href="ekonomika/df201201.pdf"><i class="file pdf icon"></i>01/2012</a>
+            <a class="item" href="ekonomika/df201202.pdf"><i class="file pdf icon"></i>02/2012</a>
+            <a class="item" href="ekonomika/df201203.pdf"><i class="file pdf icon"></i>03/2012</a>
+            <a class="item" href="ekonomika/df201204.pdf"><i class="file pdf icon"></i>04/2012</a>
+            <a class="item" href="ekonomika/df201205.pdf"><i class="file pdf icon"></i>05/2012</a>
+            <a class="item" href="ekonomika/df201206.pdf"><i class="file pdf icon"></i>06/2012</a>
+            <br>
+            <a class="item" href="ekonomika/df201207.pdf"><i class="file pdf icon"></i>07/2012</a>
+            <a class="item" href="ekonomika/df201208.pdf"><i class="file pdf icon"></i>08/2012</a>
+            <a class="item" href="ekonomika/df201209.pdf"><i class="file pdf icon"></i>09/2012</a>
+            <a class="item" href="ekonomika/df201210.pdf"><i class="file pdf icon"></i>10/2012</a>
+            <a class="item" href="ekonomika/df201211.pdf"><i class="file pdf icon"></i>11/2012</a>
+            <a class="item" href="ekonomika/df201212.pdf"><i class="file pdf icon"></i>12/2012</a>
+            <br><br>
+            <a class="item" href="ekonomika/df201301.pdf"><i class="file pdf icon"></i>01/2013</a>
+            <a class="item" href="ekonomika/df201302.pdf"><i class="file pdf icon"></i>02/2013</a>
+            <a class="item" href="ekonomika/df201303.pdf"><i class="file pdf icon"></i>03/2013</a>
+            <a class="item" href="ekonomika/df201304.pdf"><i class="file pdf icon"></i>04/2013</a>
+            <a class="item" href="ekonomika/df201305.pdf"><i class="file pdf icon"></i>05/2013</a>
+            <a class="item" href="ekonomika/df201306.pdf"><i class="file pdf icon"></i>06/2013</a>
+            <br>
+            <a class="item" href="ekonomika/df201307.pdf"><i class="file pdf icon"></i>07/2013</a>
+            <a class="item" href="ekonomika/df201308.pdf"><i class="file pdf icon"></i>08/2013</a>
+            <a class="item" href="ekonomika/df201309.pdf"><i class="file pdf icon"></i>09/2013</a>
+            <a class="item" href="ekonomika/df201310.pdf"><i class="file pdf icon"></i>10/2013</a>
+            <a class="item" href="ekonomika/df201311.pdf"><i class="file pdf icon"></i>11/2013</a>
+            <a class="item" href="ekonomika/df201312.pdf"><i class="file pdf icon"></i>12/2013</a>
+            <br><br>
+            <a class="item" href="ekonomika/df201401.pdf"><i class="file pdf icon"></i>01/2014</a>
+            <a class="item" href="ekonomika/df201402.pdf"><i class="file pdf icon"></i>02/2014</a>
+            <a class="item" href="ekonomika/df201403.pdf"><i class="file pdf icon"></i>03/2014</a>
+            <a class="item" href="ekonomika/df201404.pdf"><i class="file pdf icon"></i>04/2014</a>
+            <a class="item" href="ekonomika/df201405.pdf"><i class="file pdf icon"></i>05/2014</a>
+            <a class="item" href="ekonomika/df201406.pdf"><i class="file pdf icon"></i>06/2014</a>
+            <br>
+            <a class="item" href="ekonomika/df201407.pdf"><i class="file pdf icon"></i>07/2014</a>
+            <a class="item" href="ekonomika/df201408.pdf"><i class="file pdf icon"></i>08/2014</a>
+            <a class="item" href="ekonomika/df201409.pdf"><i class="file pdf icon"></i>09/2014</a>
+            <a class="item" href="ekonomika/df201410.pdf"><i class="file pdf icon"></i>10/2014</a>
+            <a class="item" href="ekonomika/df201411.pdf"><i class="file pdf icon"></i>11/2014</a>
+            <a class="item" href="ekonomika/df201412.pdf"><i class="file pdf icon"></i>12/2014</a>
+            <br><br>
+            <a class="item" href="ekonomika/df201501.pdf"><i class="file pdf icon"></i>01/2015</a>
+            <a class="item" href="ekonomika/df201502.pdf"><i class="file pdf icon"></i>02/2015</a>
+            <a class="item" href="ekonomika/df201503.pdf"><i class="file pdf icon"></i>03/2015</a>
+            <a class="item" href="ekonomika/df201504.pdf"><i class="file pdf icon"></i>04/2015</a>
+            <a class="item" href="ekonomika/df201505.pdf"><i class="file pdf icon"></i>05/2015</a>
+            <a class="item" href="ekonomika/df201506.pdf"><i class="file pdf icon"></i>06/2015</a>
+            <br>
+            <a class="item" href="ekonomika/df201507.pdf"><i class="file pdf icon"></i>07/2015</a>
+            <a class="item" href="ekonomika/df201508.pdf"><i class="file pdf icon"></i>08/2015</a>
+            <a class="item" href="ekonomika/df201509.pdf"><i class="file pdf icon"></i>09/2015</a>
+            <a class="item" href="ekonomika/df201510.pdf"><i class="file pdf icon"></i>10/2015</a>
+            <a class="item" href="ekonomika/df201511.pdf"><i class="file pdf icon"></i>11/2015</a>
+            <a class="item" href="ekonomika/df201512.pdf"><i class="file pdf icon"></i>12/2015</a>
+          </div>
+        </div>
+        <h4 class="ui horizontal margined header divider">
+          <i class="folder open icon"></i>
+          Verejné obstarávanie
+        </h4>
+        <div class="ui center aligned container">
+          <div class="ui link list">
+            <a class="item" href="ekonomika/prvy_stvrtrok_2015.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              1. štvrťrok 2015</a>
+            <a class="item" href="ekonomika/druhy_stvrtrok_2015.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              2. štvrťrok 2015</a>
+            <a class="item" href="ekonomika/treti_stvrtrok_2015.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              3. štvrťrok 2015</a>
+            <a class="item" href="ekonomika/stvrty_stvrtrok_2015.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              4. štvrťrok 2015</a>
+            <a class="item" href="ekonomika/prvy_stvrtrok_2016.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              1. štvrťrok 2016</a>
+            <a class="item" href="ekonomika/druhy_stvrtrok_2016.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              2. štvrťrok 2016</a>
+            <a class="item" href="ekonomika/treti_stvrtrok_2016.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              3. štvrťrok 2016</a>
+            <a class="item" href="ekonomika/stvrty_stvrtrok_2016.pdf"><i class="file pdf icon"></i>Súhrnná správa o
+              zadaní zákaziek nad 1000 Eur PHZ za
+              4. štvrťrok 2016</a>
+          </div>
+        </div>
+        <h4 class="ui horizontal margined header divider">
+          <i class="folder open icon"></i>
+          Register zmlúv
+        </h4>
+        <div class="ui center aligned container">
+          <div class="ui list">
+            <div class="item">01/2004 - Zmluva č. TP 5012172535911 o poskytovaní verejných služieb - T-COM</div>
+            <div class="item">01/2005 - Zmluva č. A 1745469 o poskytovaní verejných služieb - ORANGE</div>
+            <div class="item">02/2007 - Zmluva o dielo č. R-02738/2007 uzavretá na základe § 536 Obchodného zákonníka s
+              IVeS, organizácia pre informatiku verejnej správy</div>
+            <div class="item">02/2009 - Zmluva o vedení mzdovej agendy - podľa § 269 ods.2. Obchodného zákonníka s
+              mestom Moldava n/B.</div>
+            <div class="item">09/2011 - Zmluva o službách č.3/2011 - služby TPO, ABT a CO</div>
+            <div class="item">09/2011 - Zmluva o dielo - hudobná produkcia v rámci ETM</div>
+            <div class="item">10/2011 - Zmluva o elektronickej komunikcii - Dôvera, zdravotná poisťovňa</div>
+            <div class="item">04/2012 - Zmluva o finančnom zabezpečení súťaží v roku 2012 - obvodné kolá</div>
+            <div class="item">04/2012 - Darovacia zmluva o poskytnutí vecného daru - Atos IT Solutions and Services
+              s.r.o.</div>
+            <div class="item">06/2012 - Zmluva o výpožičke - mobilný telefón s mestom Moldav n/B.</div>
+            <div class="item">04/2013 - Dodatok k zmluve o poskytovaní verejných služieb (TP501217255911) - Slovak
+              Telekom</div>
+            <div class="item">07/2013 - Zmluva o nájme nebytových priestorov - ETP Slovensko - Centrum pre udržateľný
+              rozvoj</div>
+            <div class="item">01/2014 - Zmluva o poskytovaní služieb (refakturácia nákladov za elektinu od dodávateľa)</div>
+            <div class="item">02/2014 - Zmluva č. 87/014/5028 o finančnom a organizačnom zabezpečení súťaží uvedených v
+              čl.I</div>
+            <div class="item">04/2014 - Dohoda č.76/§52a/2014/ŠR na vykonávanie aktivačnej činnosti formou
+              dobrovoľníckej služby</div>
+            <div class="item">04/2014 - Zmluva o poskytnutí účtovníckych služieb podľa §269 ods.2 Obchodného zákonníka
+              s mestom Moldava n/B.</div>
+            <div class="item">04/2014 - Zmluva o výpožičke nehnuteností s mestom Moldava n/B.</div>
+            <div class="item">07/2014 - Zmluva o poskytnutí finannčného príspevku č. 201402068</div>
+            <div class="item">07/2014 - Zmluva o účasti na projekte č.0010/26120130025</div>
+            <div class="item">09/2014 - Zmluva o prenájme priestorov CVČ, Holcim a.s.</div>
+            <div class="item">02/2015 - Zmluva o poskytovaní stravy so ZŠ ČSA 15 zo dňa. 28.01.2015</div>
+            <div class="item">02/2015 - Zmluva č.54/015/5028 o finančnom a organizačnom zabezpečení súťaží uvedených v
+              čl.I (Ministerstvo vnútra SR, OÚ Košice, odbor školstva)</div>
+            <div class="item">02/2015 - Zmluva o poskytovaní technickej služby č.TS201500004 (Bari Electronic, s.r.o.)</div>
+            <div class="item">02/2015 - Zmluva o zabezpečení vzdelávania č.IU/KNPP/2015/002</div>
+            <div class="item">02/2015 - Zmluva o výpožičke nehnuteností s mestom Moldava n/B.</div>
+            <div class="item">02/2015 - Zmluva o spracovaní a vedení mzdovej agendy s mestom Moldava n/B.</div>
+            <div class="item">03/2015 - Dohoda č.112/§52a/2015/NP VAOTP-5 s ÚPSVaR zo dňa19. marca 2015</div>
+            <div class="item">03/2015 - Zmluva č.P-3554423600 o využívaní elektronických služieb s Union ZP zo dňa
+              23.03.2015</div>
+            <div class="item">03/2015 - Poistná zmluva č.1813058 - Úrazové poistenie -102 - krátkodobé - dobrovoľnícka
+              služba s Union poisťovňou, a.s.</div>
+            <div class="item">06/2015 - Zmluva o poskytovaní verejných služieb - balík služieb so Slovak Telekom, a.s.
+              zo dňa 02.06.2015</div>
+            <div class="item">09/2015 - Dohoda č.237/§52a/2015/ŠR na vykonávanie aktivačnej činnosti formou
+              dobrovoľníckej služby</div>
+            <div class="item">10/2015 - Poistná zmluva č.1813116 - Úrazové poistenie -102 - krátkodobé - dobrovoľnícka
+              služba s Union poisťovňou, a.s.</div>
+            <div class="item">10/2015 - Zmluva o nájme nebytového priestoru ZŠ Severná</div>
+            <div class="item">01/2016 - Zmluva č.21/016/5028 o finančnom a organizačnom zabezpečení súťaží uvedených v
+              čl.I (Ministerstvo vnútra SR, OÚ Košice, odbor školstva)</div>
+          </div>
+        </div-->
+      </div>
+    </div>
+
+    <div class="ui vertical secondary footer segment">
+      <div class="ui center aligned container">
+        <div class="ui stackable inverted divided grid">
+          <div class="eight wide column">
+            <h4 class="ui header">Kontakt</h4>
+            <div class="ui kontakt list">
+              <div class="item">
+                <div class="content">
+                  <div class="title"><i class="building icon"></i></div>
+                  CVČ CVrČek
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title">&nbsp;</div>
+                  Školská 5
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title">&nbsp;</div>
+                  Moldava nad Bodvou
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title">&nbsp;</div>
+                  045 01
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title"><i class="marker icon"></i></div>
+                  <a href="https://www.google.com/maps/place/Centrum+Voľného+Času/@48.6127937,20.9976012,16z/data=!4m12!1m6!3m5!1s0x0:0xcab51584d69de972!2zQ2VudHJ1bSBWb8S-bsOpaG8gxIxhc3U!8m2!3d48.6127976!4d20.9988956!3m4!1s0x0:0xcab51584d69de972!8m2!3d48.6127976!4d20.9988956"
+                    target="_blank">48.6127937,
+                    20.9976012</a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title"><i class="phone icon"></i></div>
+                  <a href="tel:00421905815083">+421 (905) 815 083</a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title">&nbsp;</div>
+                  <a href="tel:00421554607253">+421 (55) 460 7253</a>
+                </div>
+              </div>
+              <div class="item">
+                <div class="content">
+                  <div class="title"><i class="mail icon"></i></div>
+                  <a href="mailto:cvrcek@cvcmoldava.edu.sk">cvrcek@cvcmoldava.edu.sk</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="eight wide column">
+            <h4 class="ui header">Dôležité údaje</h4>
+            <div class="ui informacie list">
+              <div class="item">
+                <div class="content">
+                  <div class="title"><strong>IBAN</strong></div>
+                  SK73 0200 0000 0017 4487 2754
+                </div>
+              </div>
+              <div class="item">
+                <div class="title"><strong>IČO</strong></div>
+                35544236
+              </div>
+              <div class="item">
+                <div class="title"><strong>DIČ</strong></div>
+                2021638630
+              </div>
+              <div class="item">
+                <img src="obrazky/cvrcek-mini.svg" class="ui centered tiny image" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="ui section divider"></div>
+        <div class="ui horizontal small centered list">
+          <div class="autori item">
+            <p><i class="code icon"></i> <a href="http://2keyplayerscom">2 Key Players</a>
+              <span style="padding-left:1em"></span>
+              <i class="settings icon"></i> <a href="https://vuejs.org">Vue.js</a> + <a href="https://semantic-ui.com">Semantic
+                UI</a></p>
+            <p><i class="copyright icon"></i>2004-2018 <a href="http://www.cvcmoldava.edu.sk">CVČ CVrČek</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

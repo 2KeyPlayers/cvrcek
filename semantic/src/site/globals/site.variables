@@ -1,0 +1,8 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName          : 'Muli';
+
+@googleFontRequest : '@{googleFontName}:@{googleFontSizes}';
+@googleFontSizes   : '400,700';
