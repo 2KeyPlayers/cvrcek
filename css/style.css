@@ -314,10 +314,10 @@ div.margined, .ui.margined.cards {
 .ui.card>.extra, .ui.cards>.card>.extra {
   color: rgba(0,0,0,.68);
 }
-/* .ui.cards .dummy.card, .ui.cards .dummy.card:hover {
-  -webkit-box-shadow: none;
-  box-shadow: none;
-} */
+.ui.card>.extra a:not(.ui), .ui.cards>.card>.extra a:not(.ui),
+.ui.card>.extra a:not(.ui):hover, .ui.cards>.card>.extra a:not(.ui):hover {
+  color: rgba(0,0,0,.68);
+}
 
 .register {
   display: flex;

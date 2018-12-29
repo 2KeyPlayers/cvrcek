@@ -3,19 +3,88 @@
     "id": "mt",
     "prezyvka": "Teta Marika",
     "meno": "Mgr. Mária Tóthová",
-    "pozicia": "riaditeľka"
+    "pozicia": "riaditeľka",
+    "kredity": [
+      {
+        "nazov": "Koordinátor drogovej prevencie (špecializačné vzdelávanie)",
+        "pocet": 39
+      },
+      {
+        "nazov": "Program kontinuálneho vzdelávania v oblasti využívania IKT pre začiatočníkov (aktualizačné vzdelávanie)",
+        "pocet": 10
+      },
+      {
+        "nazov": "Program kontinuálneho vzdelávania v oblasti využívania IKT pre pokročilých (aktualizačné vzdelávanie)",
+        "pocet": 12
+      },
+      {
+        "nazov": "Tvorba vzdelávacieho programu kontinuálneho vzdelávania (aktualizačné vzdelávanie)",
+        "pocet": 10
+      },
+      {
+        "nazov": "Inovačné vzdelávanie vychovávateľov školskýc výchovno-vzdelávacích zariadení",
+        "pocet": 21
+      },
+      {
+        "nazov": "Aktivizujúce metódy vo výchove (inovačné vzdelávanie)",
+        "pocet": 24
+      },
+      {
+        "nazov": "Školské projekty a medzinárodné partnestvá cez internet (aktualizačné vzdelávanie)",
+        "pocet": 8
+      },
+      {
+        "nazov": "Kurz Základy sociálnej práce s mládežou - Osvedčenie s celoštátnou platnosťou"
+      },
+      {
+        "nazov": "Tvorivosť vo výchove v čase mimo vyučovania - Potvrdenie"
+      },
+      {
+        "nazov": "Kurz prvej pomoci - Potvrdenie"
+      },
+      {
+        "nazov": "Tréning Identifikácia obetí obchodovania a ľuďmi - Certifikát"
+      }
+    ]
   },
   {
     "id": "kb",
     "prezyvka": "Teta Katka",
     "meno": "Katarína Brúgóšová",
-    "pozicia": "vychovávateľka"
+    "pozicia": "vychovávateľka",
+    "kredity": [
+      {
+        "nazov": "Aktivizujúce metódy vo výchove (inovačné vzdelávanie)",
+        "pocet": 24
+      },
+      {
+        "nazov": "Interaktívna tabuľa a multimédiá vo vzdelávaní (inovačné vzdelávanie)",
+        "pocet": 15
+      },
+      {
+        "nazov": "Vstupný vzdelávací program pre pracovníkov s mládežou - Štartér - Osvedčenie s celoštátnou platnosťou"
+      },
+      {
+        "nazov": "Kurz prvej pomoci - Potvrdenie"
+      }
+    ]
   },
   {
     "id": "dd",
     "prezyvka": "Teta Diana",
     "meno": "Mgr. Diana Dókušová",
-    "pozicia": "vychovávateľka"
+    "pozicia": "vychovávateľka",
+    "kredity": [
+      {
+        "nazov": "Gamifikacia - nová metóda vo vzdelávaní - YOUYHPASS"
+      },
+      {
+        "nazov": "Kurz prvej pomoci - Potvrdenie"
+      },
+      {
+        "nazov": "Rozhodca atletiky I. stupňa - Osvedčenie"
+      }
+    ]
   },
   {
     "id": "rm",
@@ -35,7 +104,6 @@
     "meno": "Mária Hiblárová",
     "pozicia": "upratovačka"
   },
-
   {
     "id": "pf",
     "prezyvka": "Ujo Peťo",

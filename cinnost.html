@@ -134,7 +134,7 @@
           <i class="calendar check icon"></i>
           Pravidelná činnosť
         </h4>
-        <div class="ui four doubling stackable green cinnosti cards">
+        <div class="ui four doubling stackable green cinnosti cards" style="margin-bottom: 4em">
 
           <div v-if="prazdnePole(kruzky)" class="ui active centered inline big loader"></div>
           <kruzok v-for="(data, index) in kruzky" v-bind:data="data" v-bind:key="index"></kruzok>

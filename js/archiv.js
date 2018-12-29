@@ -72,7 +72,7 @@ var app = new Vue({
     nahravam: false
   },
   methods: {
-    prazdnePole: function(pole) {
+    prazdnePole: function (pole) {
       return !pole || pole.length == 0;
     },
     zobrazitDalsie: function () {

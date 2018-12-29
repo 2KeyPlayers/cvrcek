@@ -62,7 +62,7 @@ var app = new Vue({
     kruzky: null
   },
   methods: {
-    prazdnePole: function(pole) {
+    prazdnePole: function (pole) {
       return !pole || pole.length == 0;
     }
   }

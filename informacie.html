@@ -43,6 +43,7 @@
     $(document).ready(function () {
 
       $('.cards .card .content').popup();
+      $('.cards .card .kredity.extra.content').popup();
       $('.colors .label').popup();
 
     });
@@ -115,6 +116,29 @@
       </div>
     </div>
 
+    <!-- <div class="ui cas modal">
+        <div class="header"><i class="graduation cap icon"></i> {{ zamestnanec.meno }}</div>
+        <div class="content">
+          <table class="ui table">
+            <thead>
+              <tr>
+                <th>Vzdelávanie</th>
+                <th class="collapsing">Kredity</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="(data, index) in zamestnanec.kredity" v-bind:data="data" v-bind:key="index">
+                <td>{{ data.nazov }}</td>
+                <td>{{ (data.pocet ? data.pocet : '-') }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="actions">
+          <div class="ui ok button">OK</div>
+        </div>
+      </div> -->
+
     <div class="ui big borderless main menu">
       <div class="ui container">
         <a class="first item" href="index.html"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
@@ -174,7 +198,7 @@
           <div class="center aligned content">Interní</div>
         </div>
         <div class="ui four doubling green zamestnanci cards">
-          
+
           <div v-if="prazdnePole(interni)" class="ui active centered inline big loader"></div>
           <zamestnanec v-for="(data, index) in interni" v-bind:data="data" v-bind:key="index"></zamestnanec>
 
@@ -186,7 +210,7 @@
 
           <div v-if="prazdnePole(externi)" class="ui active centered inline big loader"></div>
           <zamestnanec v-for="(data, index) in externi" v-bind:data="data" v-bind:key="index"></zamestnanec>
-  
+
         </div>
         <div style="text-align: center; padding-top: 2em">
           <div class="ui pointing label">Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a>
