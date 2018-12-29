@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mt",
+    "prezyvka": "Teta Marika",
+    "meno": "Mgr. Mária Tóthová",
+    "pozicia": "riaditeľka"
+  },
+  {
+    "id": "kb",
+    "prezyvka": "Teta Katka",
+    "meno": "Katarína Brúgóšová",
+    "pozicia": "vychovávateľka"
+  },
+  {
+    "id": "dd",
+    "prezyvka": "Teta Diana",
+    "meno": "Mgr. Diana Dókušová",
+    "pozicia": "vychovávateľka"
+  },
+  {
+    "id": "rm",
+    "prezyvka": "Teta Radka",
+    "meno": "Radka Maňovská",
+    "pozicia": "vychovávateľka"
+  },
+  {
+    "id": "np",
+    "prezyvka": "Ujo Norbi",
+    "meno": "Bc. Norbet Pecze",
+    "pozicia": "vychovávateľ"
+  },
+  {
+    "id": "mh",
+    "prezyvka": "Teta Mária",
+    "meno": "Mária Hiblárová",
+    "pozicia": "upratovačka"
+  },
+
+  {
+    "id": "pf",
+    "prezyvka": "Ujo Peťo",
+    "meno": "Peter Fazekaš",
+    "pozicia": "vedúci záujmového útvaru Break dance",
+    "ext": 1
+  },
+  {
+    "id": "ms",
+    "prezyvka": "Teta Marcela",
+    "meno": "Mgr. Marcela Štarková",
+    "pozicia": "vedúca záujmového útvaru Poľovníček",
+    "ext": 1
+  },
+  {
+    "id": "mn",
+    "prezyvka": "Teta Mia",
+    "meno": "Bc. Milena Nográdi",
+    "pozicia": "vedúca záujmového útvaru Folklórny súbor CVrČek",
+    "ext": 1
+  },
+  {
+    "id": "jh",
+    "prezyvka": "Ujo Jano",
+    "meno": "Ing. Ján Heinrich",
+    "pozicia": "vedúci záujmového útvaru Šach",
+    "ext": 1
+  }
+]

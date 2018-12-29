@@ -153,23 +153,18 @@
 }
 
 .first.item, .first:hover {
-  /* color:#2185d0 !important; */
   color:#00b5ad !important;
 }
 .second.item, .second:hover {
-  /* color:#21ba45 !important; */
   color:#b5cc18 !important;
 }
 .third.item, .third:hover {
-  /* color:#db2828 !important; */
   color:#db2828 !important;
 }
 .fourth.item, .fourth:hover {
-  /* color:#f2711c !important; */
   color:#f2711c !important;
 }
 .fifth.item, .fifth:hover {
-  /* color:#a333c8 !important; */
   color:#2185d0 !important;
 }
 .facebook.item {
@@ -184,9 +179,6 @@
   padding: 5em 0em;
 }
 
-/* .ui.main.segment {
-  padding-top: 5em;
-} */
 .ui.main.container {
   font-size: 1.14285714rem;
 }
@@ -261,15 +253,12 @@ span.icon {
   color: #db2828 !important;
 }
 .ui.list > .cinnost.item .header, .ui.list > .cinnost.item .header .icon {
-  /* color: #9c6946; */
   color: #b5cc18;
 }
 .ui.list > .cas.item .header, .ui.list > .cas.item .header .icon {
   color: #2185d0;
-  /* color: #a333c8; */
 }
 .ui.list > .odkazy.item .header, .ui.list > .odkazy.item .header .icon {
-  /* color: #9c6946; */
   color: #3b5998;
 }
 .ui.list > .keyplayers.item .header, .ui.list > .keyplayers.item .header .icon {
@@ -306,18 +295,12 @@ h4.ui.header.divider {
   padding-top: 1em;
   text-transform: uppercase;
 }
-/* h4.ui.first.header.divider {
-  margin-top: -.14285714em;
-} */
 .ui.horizontal.header.divider > .icon {
   font-size: 1em;
 }
-.ui.horizontal.margined.header.divider {
-  margin-top: 5em;
-}
-/* div.margined, .ui.margined.cards {
+div.margined, .ui.margined.cards {
   margin-bottom: 5em;
-} */
+}
 
 .ui.cards {
   margin-top: 1em;
@@ -331,10 +314,10 @@ h4.ui.header.divider {
 .ui.card>.extra, .ui.cards>.card>.extra {
   color: rgba(0,0,0,.68);
 }
-.ui.cards .dummy.card, .ui.cards .dummy.card:hover {
+/* .ui.cards .dummy.card, .ui.cards .dummy.card:hover {
   -webkit-box-shadow: none;
   box-shadow: none;
-}
+} */
 
 .register {
   display: flex;
@@ -438,9 +421,9 @@ h4.ui.header.divider {
     font-size: 2em;
   }
 
-  .ui.cards .dummy.card {
+  /* .ui.cards .dummy.card {
     display: none;
-  }
+  } */
 
 }
 
@@ -501,7 +484,7 @@ h4.ui.header.divider {
 
 }
 
-@media only screen and (min-width:320px) and (max-width:374px) {
+@media only screen and (max-width:374px) {
 
   .ui.top.segment img.logo {
     height: 80px;

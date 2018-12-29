@@ -1,12 +1,11 @@
 Vue.component('cvrckovina', {
   props: ['data'],
   template: `<div class="item">
-    <div class="image"><img v-bind:src="obrazok(data.obrazok)" /></div>
+    <div class="image" v-if="data.obrazok"><img v-bind:src="obrazok(data.obrazok)" /></div>
     <div class="content">
       <div class="header" v-html="data.nazov"></div>
       <div class="meta">
-        <span class="datum" v-if="data.datum"><i class="calendar alternate icon"></i>
-          {{ data.datum }}</span>
+        <span class="datum" v-if="data.datum"><i class="calendar alternate icon"></i> {{ data.datum }}</span>
         <span class="autor"><a v-bind:href="linkAutora(data.autor)"><i class="user icon"></i> {{ menoAutora(data.autor) }}</a></span>
         <span class="fotka" v-for="fotka in data.fotky"><a v-bind:href="fotka"><i class="camera icon"></i></a></span>
         <span class="priloha" v-for="priloha in data.prilohy"><a v-bind:href="priloha"><i class="paperclip icon"></i></a></span>
@@ -24,11 +23,11 @@ Vue.component('cvrckovina', {
     },
     linkAutora: function (autor) {
       if (!autor || autor == 'cvc') {
-        return 'infosky.html#zamestnanci';
+        return 'informacie.html#zamestnanci';
       } else if (autor == '2kp') {
         return 'http://2keyplayers.com';
       } else {
-        return 'infosky.html#' + autor;
+        return 'informacie.html#' + autor;
       }
     },
     menoAutora: function (autor) {
@@ -46,8 +45,12 @@ Vue.component('cvrckovina', {
         return 'Teta Radka';
       } else if (autor == 'np') {
         return 'Ujo Norbi';
+      } else if (autor == 'pf') {
+        return 'Ujo Peťo';
       } else if (autor == 'ms') {
         return 'Teta Marcela';
+      } else if (autor == 'mn') {
+        return 'Teta Mia';
       } else if (autor == 'jh') {
         return 'Ujo Jano';
       } else {
@@ -65,7 +68,7 @@ var app = new Vue({
     starsie: null,
     zobrazene: 0,
     pocet: 5,
-    dalsie: true,
+    dalsie: false,
     nahravam: false
   },
   methods: {
@@ -73,9 +76,6 @@ var app = new Vue({
       return !pole || pole.length == 0;
     },
     zobrazitDalsie: function () {
-      // this.zobrazene = Math.min(this.pocet, this.starsie.length);
-      // this.cvrckoviny = this.cvrckoviny.concat(this.starsie.splice(0, this.zobrazene));
-      // this.dalsie = this.starsie.length > 0;
       this.nahravam = true;
       var self = this;
       setTimeout(function() {

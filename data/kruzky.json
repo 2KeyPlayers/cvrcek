@@ -1,0 +1,137 @@
+[
+  {
+    "nazov": "Aerobkáčik",
+    "veduci": "dd",
+    "kedyKde": [ "Pondelok 16:00, Cvičebňa" ]
+  },
+  {
+    "nazov": "Atletika",
+    "veduci": "np",
+    "kedyKde": [ "Pondelok 14:00, Areál ZŠ ČSA", "Utorok 14:00, Cvičebňa", "Streda 14:00, Areál ZŠ ČSA", "Štvrtok 14:00, Areál ZŠ ČSA" ]
+  },
+  {
+    "nazov": "Bábkové divadlo",
+    "veduci": "mt",
+    "kedyKde": [ "Pondelok 14:00, Bábkovňa", "Utorok 14:00, Bábkovňa", "Piatok 14:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Break dance",
+    "veduci": "pf",
+    "kedyKde": [ "Utorok 16:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "CVrČkov parlament",
+    "veduci": "kb",
+    "kedyKde": [ "Utorok 14:00, Herňa" ]
+  },
+  {
+    "nazov": "Cvrlikanie pre ZŠ",
+    "veduci": "cvc",
+    "kedyKde": [ "Piatok 10:00, Klubovňa" ]
+  },
+  {
+    "nazov": "Dielnička",
+    "veduci": "mt",
+    "kedyKde": [ "Streda 14:00, Herňa" ]
+  },
+  {
+    "nazov": "Detská atletika",
+    "veduci": "dd",
+    "kedyKde": [ "Štvrtok 16:00, Telocvičňa ZŠ s VJM" ]
+  },
+  {
+    "nazov": "Drobček",
+    "veduci": "dd",
+    "kedyKde": [ "Piatok 16:00, Herňa" ]
+  },
+  {
+    "nazov": "Flórbal",
+    "veduci": "np",
+    "kedyKde": [ "Pondelok 16:00, Telocvičňa ZŠ ČSA" ]
+  },
+  {
+    "nazov": "Folklórny súbor Cvrček",
+    "veduci": "mn",
+    "kedyKde": [ "Utorok 16:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Gazdinky",
+    "veduci": "kb",
+    "kedyKde": [ "Pondelok 14:00, Herňa" ]
+  },
+  {
+    "nazov": "Gymnastika",
+    "veduci": "dd",
+    "kedyKde": [ "Štvrtok 14:00, Cvičebňa" ]
+  },
+  {
+    "nazov": "Hip hop",
+    "veduci": "kb",
+    "kedyKde": [ "Pondelok 16:00, Bábkovňa", "Štvrtok 14:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Mažoretky",
+    "veduci": "kb",
+    "kedyKde": [ "Streda 14:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Malí vedci",
+    "veduci": "dd",
+    "kedyKde": [ "Piatok 14:00, Herňa" ]
+  },
+  {
+    "nazov": "Moderné dievčatá",
+    "veduci": "kb",
+    "kedyKde": [ "Piatok 14:00, Klubovňa" ]
+  },
+  {
+    "nazov": "Montessori",
+    "veduci": "dd",
+    "kedyKde": [ "Streda 16:00, Klubovňa" ]
+  },
+  {
+    "nazov": "Piloxing",
+    "veduci": "dd",
+    "kedyKde": [ "Pondelok 14:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Pohybovka",
+    "veduci": "dd",
+    "kedyKde": [ "Utorok 16:00, Telocvičňa ZŠ ČSA" ]
+  },
+  {
+    "nazov": "Poľovníček",
+    "veduci": "ms",
+    "kedyKde": [ "Utorok 14:00, Klubovňa" ]
+  },
+  {
+    "nazov": "Plávanie",
+    "veduci": "np",
+    "kedyKde": [ "Štvrtok 14:00, Plaváreň Šaca", "1x mesačne, ZŠ Buzica" ]
+  },
+  {
+    "nazov": "Rybárik",
+    "veduci": "np",
+    "kedyKde": [ "Utorok 16:00, Herňa" ]
+  },
+  {
+    "nazov": "strEtKO pre ZŠ",
+    "veduci": "cvc",
+    "kedyKde": [ "Štvrtok 10:00, Klubovňa" ]
+  },
+  {
+    "nazov": "Šach",
+    "veduci": "jh",
+    "kedyKde": [ "Pondelok 14:00, Klubovňa", "Štvrtok 14:00, Klubovňa" ]
+  },
+  {
+    "nazov": "Tancujúce nôžky",
+    "veduci": "kb",
+    "kedyKde": [ "Streda 16:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Volejbal",
+    "veduci": "np",
+    "kedyKde": [ "Streda 16:30, Telocvičňa ZŠ ČSA", "Štvrtok 18:00, Telocvičňa ZŠ ČSA", "Piatok 16:30, Telocvičňa ZŠ ČSA" ]
+  }
+]

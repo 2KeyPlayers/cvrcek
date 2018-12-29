@@ -8,7 +8,7 @@
   <meta name="format-detection" content="telephone=no" />
   <meta property="og:title" content="CVČ CVrČek" />
 
-  <title>CVČ CVrČek » Infošky</title>
+  <title>CVČ CVrČek » Informácie</title>
   <meta name="description" content="To najlepšie miesto pre deti a mládež">
   <meta name="keywords" content="CVrČek, CVČ, centrum, voľného, času, Moldava, Moldava nad Bodvou">
   <meta name="author" content="2 Key Players">
@@ -18,7 +18,6 @@
   <meta property="og:url" content="http://www.cvcmoldava.edu.sk/" />
   <meta property="og:type" content="website" />
   <meta property="fb:app_id" content="159482424129512" />
-  <!-- <meta name="twitter:card" content="summary_large_image" /> -->
   <meta name="twitter:card" content="summary" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -52,8 +51,7 @@
 
 <body>
 
-  <!-- Page Contents -->
-  <div id="app" class="infosky pusher">
+  <div id="app" class="informacie pusher">
     <div class="ui top segment">
       <div class="ui container">
         <img class="logo" src="obrazky/cvrcek.svg" alt="CVrČek" />
@@ -67,14 +65,13 @@
             <span>k</span>
           </span>
           <span class="cvc">Centrum voľného času</span>
-          <!-- <span class="cvc"><span class="centrum">Centrum</span> <span class="volneho">voľného</span> <span class="casu">času</span></span> -->
         </h1>
         <img class="logo zadok" src="obrazky/cvrcek-zadok.svg" alt="CVrČek" />
       </div>
     </div>
 
     <div class="ui kontakt mini modal">
-      <div class="header"><i class="pencil icon"></i> Kontaktík</div>
+      <div class="header"><i class="pencil icon"></i> Kontakt</div>
       <div class="content">
         <div class="ui relaxed divided link list">
           <div class="item">
@@ -121,10 +118,10 @@
     <div class="ui big borderless main menu">
       <div class="ui container">
         <a class="first item" href="index.html"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
-        <a class="active second item" href="infosky.html"><i class="info icon"></i><span>Infošky</span></a>
-        <a class="third item" href="peniazky.html"><i class="euro icon"></i><span>Peniažky</span></a>
-        <a class="fourth item" href="archiv.html"><i class="archive icon"></i><span>Archívček</span></a>
-        <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontaktík</span></a>
+        <a class="active second item" href="informacie.html"><i class="info icon"></i><span>Informácie</span></a>
+        <a class="third item" href="peniaze.html"><i class="euro icon"></i><span>Peniaze</span></a>
+        <a class="fourth item" href="archiv.html"><i class="archive icon"></i><span>Archív</span></a>
+        <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontakt</span></a>
         <div class="right menu">
           <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"><i class="facebook icon"></i><span>Facebook</span></a>
         </div>
@@ -173,115 +170,23 @@
           <i class="users icon"></i>
           Zamestnanci
         </h4>
-        <p style="text-align: center">Interní</p>
+        <div class="ui fluid green card">
+          <div class="center aligned content">Interní</div>
+        </div>
         <div class="ui four doubling green zamestnanci cards">
-          <div class="card">
-            <a name="mt"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/mt.svg" />
-            </div>
-            <div class="content" data-content="Mgr. Mária Tóthová">
-              <div class="header">Teta Marika</div>
-              <div class="meta">riaditeľka</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="kb"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/kb.svg" />
-            </div>
-            <div class="content" data-content="Katarína Brúgóšová">
-              <div class="header">Teta Katka</div>
-              <div class="meta">vychovávateľka</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="dd"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/dd.svg" />
-            </div>
-            <div class="content" data-content="Mgr. Diana Dókušová">
-              <div class="header">Teta Diana</div>
-              <div class="meta">vychovávateľka</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="rm"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/rm.svg" />
-            </div>
-            <div class="content" data-content="Radka Maňovská">
-              <div class="header">Teta Radka</div>
-              <div class="meta">vychovávateľka</div>
-            </div>
-          </div>
+          
+          <div v-if="prazdnePole(interni)" class="ui active centered inline big loader"></div>
+          <zamestnanec v-for="(data, index) in interni" v-bind:data="data" v-bind:key="index"></zamestnanec>
+
+        </div>
+        <div class="ui fluid green card" style="margin-top: 5em">
+          <div class="center aligned content">Externí</div>
         </div>
         <div class="ui four doubling green cards">
-          <div class="dummy card"></div>
-          <div class="card">
-            <a name="np"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/np.svg" />
-            </div>
-            <div class="content" data-content="Bc. Norbet Pecze">
-              <div class="header">Ujo Norbi</div>
-              <div class="meta">vychovávateľ</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="mh"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/mh.svg" />
-            </div>
-            <div class="content" data-content="Mária Hiblárová">
-              <div class="header">Teta Mária</div>
-              <div class="meta">upratovačka</div>
-            </div>
-          </div>
-          <div class="dummy card"></div>
-        </div>
-        <p style="text-align: center; margin-top: 4em">Externí</p>
-        <div class="ui four doubling green cards">
-          <div class="card">
-            <a name="pf"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/pf.svg" />
-            </div>
-            <div class="content" data-content="Peter Fazekaš">
-              <div class="header">Ujo Peťo</div>
-              <div class="meta">vedúci záujmového útvaru Break dance</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="ms"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/ms.svg" />
-            </div>
-            <div class="content" data-content="Mgr. Marcela Štarková">
-              <div class="header">Teta Marcela</div>
-              <div class="meta">vedúca záujmového útvaru Poľovníček</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="mn"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/mn.svg" />
-            </div>
-            <div class="content" data-content="Bc. Milena Nográdi">
-              <div class="header">Teta Milena</div>
-              <div class="meta">vedúca záujmového útvaru Folklórny súbor CVrČek</div>
-            </div>
-          </div>
-          <div class="card">
-            <a name="jh"></a>
-            <div class="image">
-              <img src="obrazky/zamestnanci/jh.svg" />
-            </div>
-            <div class="content" data-content="Ing. Ján Heinrich">
-              <div class="header">Ujo Jano</div>
-              <div class="meta">vedúci záujmového útvaru Šach</div>
-            </div>
-          </div>
+
+          <div v-if="prazdnePole(externi)" class="ui active centered inline big loader"></div>
+          <zamestnanec v-for="(data, index) in externi" v-bind:data="data" v-bind:key="index"></zamestnanec>
+  
         </div>
         <div style="text-align: center; padding-top: 2em">
           <div class="ui pointing label">Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a>
@@ -315,7 +220,7 @@
             <div class="item"><strong>Mária Hiblárová</strong> - volený zástupca nepedagogických zamestnancov</div>
             <div class="item"><strong>Mária Šimková</strong> - volený zástupca rodičov</div>
             <div class="item"><strong>Zdenka Valkovská</strong> - volený zástupca rodičov</div>
-            <div class="item"><strong>Bc. Erika Čajkovská</strong> - delegovaný zástupca zriaďovateľa</div>
+            <div class="item"><strong>Ing. Ján Csala</strong> - delegovaný zástupca zriaďovateľa</div>
           </div>
         </div>
       </div>
@@ -356,7 +261,7 @@
           <i class="folder icon"></i>
           Správy o činnosti
         </h4>
-        <div class="ui center aligned container">
+        <div class="ui center aligned margined container">
           <div class="ui horizontal link list">
             <a class="item" href="prilohy/soc_2018.pdf"><i class="file pdf icon"></i>2018</a>
             <a class="item" href="prilohy/soc_2017.pdf"><i class="file pdf icon"></i>2017</a>
@@ -374,7 +279,7 @@
           </div>
         </div>
         <a name="dokumenty"></a>
-        <h4 class="ui horizontal margined header divider">
+        <h4 class="ui horizontal header divider">
           <i class="folder icon"></i>
           Dokumenty
         </h4>
@@ -506,6 +411,8 @@
       </div>
     </div>
   </div>
+
+  <script src="js/informacie.js"></script>
 
 </body>
 
