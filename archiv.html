@@ -14,19 +14,20 @@
 
   <meta property="og:title" content="CVČ CVrČek" />
   <meta property="og:description" content="To najlepšie miesto pre deti a mládež" />
-  <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/cvrcek-logo-social.png" />
-  <meta property="og:url" content="http://www.cvcmoldava.edu.sk/" />
-  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.cvcmoldava.edu.sk" />
+  <meta property="og:image:width" content="279" />
+  <meta property="og:image:height" content="279" />
+  <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/og-image.jpg" />
   <meta property="fb:app_id" content="159482424129512" />
   <meta name="twitter:card" content="summary" />
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#666666" />
+  <meta name="msapplication-TileColor" content="#00aba9" />
+  <meta name="theme-color" content="#ffffff" />
 
   <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -44,6 +45,15 @@
 
       if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
         $('#app').addClass('touch');
+      }
+
+      var href = window.location.href;
+      var url = new URL(href);
+      var id = url.searchParams.get("id");
+      if (id) {
+        $('html, body').animate({
+          scrollTop: parseInt($('#' + id).offset().top)
+        });
       }
 
     });
@@ -120,7 +130,7 @@
       <div class="ui container">
         <a class="first item" href="index.html"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
         <a class="second item" href="informacie.html"><i class="info icon"></i><span>Informácie</span></a>
-        <a class="third item" href="peniaze.html"><i class="euro icon"></i><span>Peniaze</span></a>
+        <a class="third item" href="financie.html"><i class="euro icon"></i><span>Financie</span></a>
         <a class="active fourth item" href="archiv.html"><i class="archive icon"></i><span>Archív</span></a>
         <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontakt</span></a>
         <div class="right menu">
@@ -133,7 +143,7 @@
       <div class="ui stackable main grid container">
         <div class="row">
           <div class="twelve wide column">
-            <a name="najnovsie"></a>
+            <a id="najnovsie" name="najnovsie"></a>
             <h4 class="ui horizontal header divider">
               <i class="calendar icon"></i>
               2018
@@ -146,7 +156,7 @@
             </div>
           </div>
           <div class="four wide column">
-            <a name="roky"></a>
+            <a id="roky" name="roky"></a>
             <h4 class="ui horizontal mobile header divider">
               <i class="history icon"></i>
               Roky
@@ -269,7 +279,7 @@
             <div class="content">
               <div class="date">27.6.2001</div>
               <div class="extra text">
-                Udelenie pomenovania <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek
+                Udelenie <a class="pomenovanie" href="prilohy/Pomenovanie.pdf">pomenovania <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek <i class="pdf file icon"></i></a>
               </div>
             </div>
           </div>
@@ -336,7 +346,7 @@
 
     <div class="ui vertical stripe segment">
       <div class="ui text container">
-        <a name="starsie"></a>
+        <a id="starsie" name="starsie"></a>
         <h4 class="ui horizontal header divider">
           <i class="calendar icon"></i>
           2018
@@ -387,7 +397,7 @@
               </div>
               <div class="item">
                 <div class="content">
-                  <i class="marker icon"></i>
+                  <i class="map marker alternate icon"></i>
                   <a href="https://www.google.com/maps/place/Centrum+Voľného+Času/@48.6127937,20.9976012,16z/data=!4m12!1m6!3m5!1s0x0:0xcab51584d69de972!2zQ2VudHJ1bSBWb8S-bsOpaG8gxIxhc3U!8m2!3d48.6127976!4d20.9988956!3m4!1s0x0:0xcab51584d69de972!8m2!3d48.6127976!4d20.9988956"
                     target="_blank">48.6127937,
                     20.9976012</a>

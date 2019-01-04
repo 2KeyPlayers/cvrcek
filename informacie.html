@@ -13,20 +13,22 @@
   <meta name="keywords" content="CVrČek, CVČ, centrum, voľného, času, Moldava, Moldava nad Bodvou">
   <meta name="author" content="2 Key Players">
 
+  <meta property="og:title" content="CVČ CVrČek" />
   <meta property="og:description" content="To najlepšie miesto pre deti a mládež" />
-  <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/cvrcek-logo-social.png" />
-  <meta property="og:url" content="http://www.cvcmoldava.edu.sk/" />
-  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.cvcmoldava.edu.sk" />
+  <meta property="og:image:width" content="279" />
+  <meta property="og:image:height" content="279" />
+  <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/og-image.jpg" />
   <meta property="fb:app_id" content="159482424129512" />
   <meta name="twitter:card" content="summary" />
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#e27837">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#666666" />
+  <meta name="msapplication-TileColor" content="#00aba9" />
+  <meta name="theme-color" content="#ffffff" />
 
   <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -43,8 +45,16 @@
     $(document).ready(function () {
 
       $('.cards .card .content').popup();
-      $('.cards .card .kredity.extra.content').popup();
       $('.colors .label').popup();
+
+      var href = window.location.href;
+      var url = new URL(href);
+      var id = url.searchParams.get("id");
+      if (id) {
+        $('html, body').animate({
+          scrollTop: parseInt($('#' + id).offset().top)
+        });
+      }
 
     });
   </script>
@@ -116,34 +126,34 @@
       </div>
     </div>
 
-    <!-- <div class="ui cas modal">
-        <div class="header"><i class="graduation cap icon"></i> {{ zamestnanec.meno }}</div>
-        <div class="content">
-          <table class="ui table">
-            <thead>
-              <tr>
-                <th>Vzdelávanie</th>
-                <th class="collapsing">Kredity</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr v-for="(data, index) in zamestnanec.kredity" v-bind:data="data" v-bind:key="index">
-                <td>{{ data.nazov }}</td>
-                <td>{{ (data.pocet ? data.pocet : '-') }}</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-        <div class="actions">
-          <div class="ui ok button">OK</div>
-        </div>
-      </div> -->
+    <div class="ui vzdelavanie modal">
+      <div class="header"><i class="graduation cap icon"></i> {{ zamestnanec.meno }}</div>
+      <div class="content">
+        <table class="ui table">
+          <thead>
+            <tr>
+              <th>Vzdelávanie</th>
+              <th class="collapsing">Kredity</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr v-for="kredit in zamestnanec.kredity">
+              <td>{{ kredit.nazov }}</td>
+              <td class="pocettt">{{ (kredit.pocet ? kredit.pocet : '-') }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="actions">
+        <div class="ui ok button">OK</div>
+      </div>
+    </div>
 
     <div class="ui big borderless main menu">
       <div class="ui container">
         <a class="first item" href="index.html"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
         <a class="active second item" href="informacie.html"><i class="info icon"></i><span>Informácie</span></a>
-        <a class="third item" href="peniaze.html"><i class="euro icon"></i><span>Peniaze</span></a>
+        <a class="third item" href="financie.html"><i class="euro icon"></i><span>Financie</span></a>
         <a class="fourth item" href="archiv.html"><i class="archive icon"></i><span>Archív</span></a>
         <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontakt</span></a>
         <div class="right menu">
@@ -154,7 +164,7 @@
 
     <div class="ui vertical stripe main segment">
       <div class="ui main container">
-        <a name="onas"></a>
+        <a id="onas" name="onas"></a>
         <h4 class="ui horizontal header divider">
           <i class="comment alternate icon"></i>
           O nás
@@ -189,7 +199,7 @@
           <p style="text-align: right">Mgr. Mária Tóthová, riaditeľka <span class="centrum">C</span><span class="volneho">V</span>r<span
               class="casu">Č</span>ka</p>
         </div>
-        <a name="zamestnanci"></a>
+        <a id="zamestnanci" name="zamestnanci"></a>
         <h4 class="ui horizontal header divider">
           <i class="users icon"></i>
           Zamestnanci
@@ -200,7 +210,7 @@
         <div class="ui four doubling green zamestnanci cards">
 
           <div v-if="prazdnePole(interni)" class="ui active centered inline big loader"></div>
-          <zamestnanec v-for="(data, index) in interni" v-bind:data="data" v-bind:key="index"></zamestnanec>
+          <zamestnanec v-on:zobraz-zamestnanca="zobrazZamestnanca" v-for="(udaje, index) in interni" v-bind:udaje="udaje" v-bind:key="udaje.id"></zamestnanec>
 
         </div>
         <div class="ui fluid green card" style="margin-top: 5em">
@@ -209,7 +219,7 @@
         <div class="ui four doubling green cards">
 
           <div v-if="prazdnePole(externi)" class="ui active centered inline big loader"></div>
-          <zamestnanec v-for="(data, index) in externi" v-bind:data="data" v-bind:key="index"></zamestnanec>
+          <zamestnanec v-on:zobraz-zamestnanca="zobrazZamestnanca" v-for="(udaje, index) in externi" v-bind:udaje="udaje" v-bind:key="udaje.id"></zamestnanec>
 
         </div>
         <div style="text-align: center; padding-top: 2em">
@@ -233,7 +243,7 @@
 
     <div class="ui vertical stripe main segment">
       <div class="ui text container">
-        <a name="rada"></a>
+        <a id="rada" name="rada"></a>
         <h4 class="ui horizontal header divider">
           <i class="users icon"></i>
           Rada školy
@@ -280,7 +290,7 @@
 
     <div class="ui vertical stripe main segment">
       <div class="ui text container">
-        <a name="spravy"></a>
+        <a id="spravy" name="spravy"></a>
         <h4 class="ui horizontal header divider">
           <i class="folder icon"></i>
           Správy o činnosti
@@ -302,7 +312,7 @@
             <a class="item" href="prilohy/soc_2006.pdf"><i class="file pdf icon"></i>2006</a>
           </div>
         </div>
-        <a name="dokumenty"></a>
+        <a id="dokumenty" name="dokumenty"></a>
         <h4 class="ui horizontal header divider">
           <i class="folder icon"></i>
           Dokumenty
@@ -373,7 +383,7 @@
               </div>
               <div class="item">
                 <div class="content">
-                  <div class="title"><i class="marker icon"></i></div>
+                  <div class="title"><i class="map marker alternate icon"></i></div>
                   <a href="https://www.google.com/maps/place/Centrum+Voľného+Času/@48.6127937,20.9976012,16z/data=!4m12!1m6!3m5!1s0x0:0xcab51584d69de972!2zQ2VudHJ1bSBWb8S-bsOpaG8gxIxhc3U!8m2!3d48.6127976!4d20.9988956!3m4!1s0x0:0xcab51584d69de972!8m2!3d48.6127976!4d20.9988956"
                     target="_blank">48.6127937,
                     20.9976012</a>

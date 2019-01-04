@@ -9,7 +9,34 @@
     "facebook": [ "" ],
     "prilohy": [ "" ],
     "detaily": [ "" ]
-  },   
+  },
+  {
+    "id": 205,
+    "obrazok": "medovnik.png",
+    "nazov": "Rozprávkový karneval",
+    "autor": "dd",
+    "datum": "27.1.2019",
+    "text": [ "Pripravujte masky, milí priatelia! Pozývame vás na náš CVrČkov karneval, ktorý sa bude konať 27.1.2019 v telocvični ZŠ ČSA v čase od 14:00 do 16:00! Každá vstupenka sa zmení na tombolový lístok! Čaká na Vás veľa zábavy a krásne ceny. Oceníme aj maskované rodinné tímy! Tešíme se na Vás!", " PS: Chceme poprosiť všetkých účastníkov karnevalu, aby NEZABUDLI NA PREZUVKY!!! Ďakujeme!" ],
+    "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2055598781184524/?type=3&theater" ]
+  },
+  {
+    "id": 204,
+    "obrazok": "snehuliak.jpg",
+    "nazov": "Zimné prázdniny",
+    "autor": "dd",
+    "datum": "4.1.2019",
+    "text": [ "Počas zimných prázdnin, od 2. do 4. januára 2019, sme zorganizovali pre deti tvorivú dieľňu a korčuľovanie na klzisku pri Amfiteátri." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2055557931188609/?type=3&theater",  "https://www.facebook.com/cvcmoldava/photos/a.263097147101372/2052797004798035/?type=3&theater" ]
+  },
+  {
+    "id": 203,
+    "obrazok": "PF2019.png",
+    "nazov": "Novoročná motlitba",
+    "autor": "mt",
+    "datum": "1.1.2019",
+    "text": [ "Aby dobrých ľudí bolo dosť, aby sme žili iným pre radosť, aby deti netrpeli, aby mladí neumreli, aby zdravie zvíťazilo, aby sme sa správali k sebe milo, aby sme mali veľa síl, aby sme zažili veľa pekných chvíľ, aby sme vedeli pomocnú ruku dať a aby sme sa nezabudli smiať." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2049244605153275/?type=3&theater&notif_t=page_post_reaction&notif_id=1546353101694084" ]
+  },  
   {
     "id": 202,
     "obrazok": "cinemax.jpg",
@@ -28,7 +55,6 @@
     "text": [ "Prvý deň Rozprávkových prázdnin sme začali prehliadkou ľadovej krásy v parku pri spievajúcej fontáne a hľadaním smajlíko na budove chrámu. Odtiaľ sme sa vybrali do Bábkového divadla a pozreli si rozprávku Hľadá sa snehuliak. Tvorcovia rozprávky do nej zakomponovali množstvo súčasných odkazov – bezdomovcov, recykláciu, zimnú olympiádu či hľadanie špinavého snehuliaka. Nechýbalo dobrodružstvo na Snehuliackych ostrovoch, stretnutie so Snehozemštanmi a s Yetim. Nádherná rozprávka, vtipná a veselá a zároveň plná posolstiev s perfektným obsadením a bravúrnymi výkonmi. Potom sme sa rozdelili do dvoch skupín. Na tých, čo sa chceli túlať a spoznávať Košice a tých, čo sa vybrali do Auparku. Potulkári spoznali príbeh Alžbety Uhorskej, zistili že veže na chráme Svätej Alžbety nie sú rovnako vysoké a dozvedeli sa, aká sa k nim viaže povesť a koho podobizeň schováva ženská socha, vysoko na južnej veži. Spoznali sa so staviteľom chrámu a pozreli si aj krásny Betlehem. Už vedia, že v Urbanovej veži straší Urban, ktorý dáva pozor, aby sa Košičanom nič zlé nestalo a vedia tiež, prečo je na tejto veži socha dvoch chlapcov. Vypočuli si legendu o Žobrákovom dome na Hlavnej ulici a o tom, kto je pochovaný pod Immaculatou – morovým stĺpom. Nakupujúci zatiaľ skvelo nakúpili. Potom sme sa stretli v Auparku a vybrali sme sa domov. Prvý deň Rozprávkových prázdnin bol naozaj rozprávkový." ],
     "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2043171159093953&__xts__%5B0%5D=68.ARACK310jV_LapINbnAnNMfbWSRChQYfv_8P8VhHbeORSh0YcC4zR-DnPtyAMa7r2oQHMMsTMok2Gx2n4fpYwdRzU2Hs5QYNOwy03WflTmrAt8g7sMo3A1dP7vyk4EtVNYj4SomHGBvRvOOEqZDCNZdA_WKhcyaqPmvjMlmd-RY0p4E3gke8AaZdXwMYah2kP65jlmGdGMU1wf5o2wegYcQ0cZg09EL5aXlaoFsI1qiKpcqfveFYL-K-8zA7vzhI2fdJvml7-sxUJSiwRYVsrEDmLgZUBjt_64Y2I1tAso5qST66EnEbSUE6Wzoitoi0q9pPwNwol1skqOBmgjP4POyRjZTNRBprGNqCD2bL1HOhIbfdsE4TmtUKh0iV5y8hethXGS0qEJX4xZCL1guMhiZDd3RhocdaEDm4rJkRVzqrAlED4xkEsq6weMgbhyO6bQTnWklK52N2hVJzc5yA&__tn__=-UC-R" ]
   },
-  
   {
     "id": 200,
     "obrazok": "darcek.jpg",

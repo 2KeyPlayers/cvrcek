@@ -23,11 +23,11 @@ Vue.component('cvrckovina', {
     },
     linkAutora: function (autor) {
       if (!autor || autor == 'cvc') {
-        return 'informacie.html#zamestnanci';
+        return 'informacie.html?id=zamestnanci';
       } else if (autor == '2kp') {
         return 'http://2keyplayers.com';
       } else {
-        return 'informacie.html#' + autor;
+        return 'informacie.html?id=' + autor;
       }
     },
     menoAutora: function (autor) {
@@ -75,7 +75,10 @@ var app = new Vue({
     prazdnePole: function (pole) {
       return !pole || pole.length == 0;
     },
-    zobrazitDalsie: function () {
+    zobrazitDalsie: function (pauza) {
+      if (pauza == undefined) {
+        pauza = 1000;
+      }
       this.nahravam = true;
       var self = this;
       setTimeout(function() {
@@ -83,7 +86,7 @@ var app = new Vue({
         self.cvrckoviny = self.cvrckoviny.concat(self.starsie.splice(0, self.zobrazene));
         self.dalsie = self.starsie.length > 0;
         self.nahravam = false;
-      }, 1000);
+      }, pauza);
     }
   }
 })
@@ -96,6 +99,6 @@ $.getJSON('/data/cvrckoviny.json', function (json) {
   if (app.najnovsie.length > 2) {
     app.starsie = app.najnovsie.splice(2);
     app.cvrckoviny = [];
-    app.zobrazitDalsie();
+    app.zobrazitDalsie(0);
   }
 });

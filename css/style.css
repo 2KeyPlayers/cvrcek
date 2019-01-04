@@ -318,6 +318,9 @@ div.margined, .ui.margined.cards {
 .ui.card>.extra a:not(.ui):hover, .ui.cards>.card>.extra a:not(.ui):hover {
   color: rgba(0,0,0,.68);
 }
+.kredity.extra.content {
+  cursor: pointer;
+}
 
 .register {
   display: flex;
@@ -349,6 +352,15 @@ div.margined, .ui.margined.cards {
   color: rgba(0,0,0,.3);
   padding: 0;
   font-size: 1.2em;
+}
+.ui.feed a.pomenovanie {
+  color: rgba(0,0,0,.87);
+}
+.ui.feed a.pomenovanie .icon {
+  color: rgba(0,0,0,.3);
+}
+.ui.feed a.pomenovanie:hover .icon {
+  color: rgba(0,0,0,.87);
 }
 /* .ui.feed > .event:first-child {
   border-top: 0px;
@@ -429,7 +441,7 @@ div.margined, .ui.margined.cards {
 
 @media only screen and (max-width:767px) {
 
-  .centrummm {
+  .centrummm, .pocettt {
     color: #00b5ad !important;
   }
   .volnehooo {

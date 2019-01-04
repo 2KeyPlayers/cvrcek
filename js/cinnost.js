@@ -23,9 +23,9 @@ Vue.component('kruzok', {
     },
     linkVeduceho: function (veduci) {
       if (!veduci || veduci == 'cvc') {
-        return 'informacie.html#zamestnanci';
+        return 'informacie.html?id=zamestnanci';
       } else {
-        return 'informacie.html#' + veduci;
+        return 'informacie.html?id=' + veduci;
       }
     },
     menoVeduceho: function (veduci) {
