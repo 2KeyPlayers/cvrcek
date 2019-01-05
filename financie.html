@@ -43,6 +43,8 @@
   <script>
     $(document).ready(function () {
 
+      $('span.copyright').html('2004-' + new Date().getFullYear());
+
       var href = window.location.href;
       var url = new URL(href);
       var id = url.searchParams.get("id");
@@ -306,7 +308,7 @@
               <span style="padding-left:1em"></span>
               <i class="settings icon"></i> <a href="https://vuejs.org">Vue.js</a> + <a href="https://semantic-ui.com">Semantic
                 UI</a></p>
-            <p><i class="copyright icon"></i>2004-2018 <a href="http://www.cvcmoldava.edu.sk">CVČ CVrČek</a></p>
+            <p><i class="copyright icon"></i><span class="copyright"></span> <a href="http://www.cvcmoldava.edu.sk">CVČ CVrČek</a></p>
           </div>
         </div>
       </div>
