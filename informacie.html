@@ -206,19 +206,19 @@
           <i class="users icon"></i>
           Zamestnanci
         </h4>
-        <div class="ui fluid green card">
+        <div class="ui fluid olive card">
           <div class="center aligned content">Interní</div>
         </div>
-        <div class="ui four doubling green zamestnanci cards">
+        <div class="ui four doubling olive zamestnanci cards">
 
           <div v-if="prazdnePole(interni)" class="ui active centered inline big loader"></div>
           <zamestnanec v-on:zobraz-zamestnanca="zobrazZamestnanca" v-for="(udaje, index) in interni" v-bind:udaje="udaje" v-bind:key="udaje.id"></zamestnanec>
 
         </div>
-        <div class="ui fluid green card" style="margin-top: 5em">
+        <div class="ui fluid olive card" style="margin-top: 5em">
           <div class="center aligned content">Externí</div>
         </div>
-        <div class="ui four doubling green cards">
+        <div class="ui four doubling olive cards">
 
           <div v-if="prazdnePole(externi)" class="ui active centered inline big loader"></div>
           <zamestnanec v-on:zobraz-zamestnanca="zobrazZamestnanca" v-for="(udaje, index) in externi" v-bind:udaje="udaje" v-bind:key="udaje.id"></zamestnanec>
