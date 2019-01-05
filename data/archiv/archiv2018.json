@@ -1,72 +1,557 @@
 [
   {
-    "id": 8,
+    "obrazok": "cinemax.jpg",
+    "nazov": "Rozprávkové prázdniny 2",
+    "autor": "mt",
+    "datum": "28.12.2018",
+    "text": [
+      "Rozprávkové prázdniny dnes pokračovali v obchodnom centre Optima v Košiciach nakupovaním. Bez neho by výlet ani nebol výletom. A potom to prišlo! O 11:00 sa kinosála G, v kine CINEMAX, zmenila na CVrČkovo rozprávkové kráľovstvo. Nikým nerušení, zasadli deti a dospeláci z CVrČka, do vyhradenej sály a užívali si krásnu Vianočnú rozprávku Grinch. Príbeh o večne namrzenom zelenom chlpatom stvorení, ktoré nenávidí Vianoce s krásnym koncom, zaujal všetkých. Nikomu sa nechcelo odísť. Krátko sme sa potom pohrali na interiérovom ihrisku a vrátili sa domov. Takéto rozprávkové prázdniny si určite zopakujeme."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2044806975597038&__xts__%5B0%5D=68.ARClcMkouWKvk8hq4jHQCFymREm9N9ckBVTg_pqeaZ9unHivtiLJtdWZZK9oFVHxDG8EjayS2zNaHKtHRFmezafPOUBqareoUHJ6KsMypfl-oYpugiS4CJ7YPmrcFfEyT_XOeGtUlCLWrp_8baBwykzA8yxdJFoKJdZ4yrIGwv5R-AEE007i-vYFa0E7QZhLvZnUyVWDdgpX0dbGLL2I6fKxUXXKXqwrKHEO_ZAUUxcksWf5YNlfxF5MVcf3_vJLR9Q-0yd67L1ii4oR97ButprTGy3tXImtbt58EcBFq9ste2PNJuOp9FdOzmswCZswp0V-AnQFZpIyX0G5sBNYHoJuZ22Yd56Xe-avDFUEhOmgkzD2oiu7aPaVfoV4ofWuaWKs0874yWjNmopqzj1-SZOz7XgoQWUtGwRxNofGzIiPAxQPY2PTB7q5kr6vzabmyl6xa-YPwNeUS_UGv--ssh_oIL9r9KLsStqKJpdsYOEbhvIJbOUhbfMFfsEgUONlg14NhbUpJAqU8MwRS9YbC4bWJ6TyJjhS-U3OroUygw&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "babkovedivadlo.jpg",
+    "nazov": "Rozprávkové prázdniny 1",
+    "autor": "mt",
+    "datum": "27.12.2018",
+    "text": [
+      "Prvý deň Rozprávkových prázdnin sme začali prehliadkou ľadovej krásy v parku pri spievajúcej fontáne a hľadaním smajlíko na budove chrámu. Odtiaľ sme sa vybrali do Bábkového divadla a pozreli si rozprávku Hľadá sa snehuliak. Tvorcovia rozprávky do nej zakomponovali množstvo súčasných odkazov – bezdomovcov, recykláciu, zimnú olympiádu či hľadanie špinavého snehuliaka. Nechýbalo dobrodružstvo na Snehuliackych ostrovoch, stretnutie so Snehozemštanmi a s Yetim. Nádherná rozprávka, vtipná a veselá a zároveň plná posolstiev s perfektným obsadením a bravúrnymi výkonmi. Potom sme sa rozdelili do dvoch skupín. Na tých, čo sa chceli túlať a spoznávať Košice a tých, čo sa vybrali do Auparku. Potulkári spoznali príbeh Alžbety Uhorskej, zistili že veže na chráme Svätej Alžbety nie sú rovnako vysoké a dozvedeli sa, aká sa k nim viaže povesť a koho podobizeň schováva ženská socha, vysoko na južnej veži. Spoznali sa so staviteľom chrámu a pozreli si aj krásny Betlehem. Už vedia, že v Urbanovej veži straší Urban, ktorý dáva pozor, aby sa Košičanom nič zlé nestalo a vedia tiež, prečo je na tejto veži socha dvoch chlapcov. Vypočuli si legendu o Žobrákovom dome na Hlavnej ulici a o tom, kto je pochovaný pod Immaculatou – morovým stĺpom. Nakupujúci zatiaľ skvelo nakúpili. Potom sme sa stretli v Auparku a vybrali sme sa domov. Prvý deň Rozprávkových prázdnin bol naozaj rozprávkový."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2043171159093953&__xts__%5B0%5D=68.ARACK310jV_LapINbnAnNMfbWSRChQYfv_8P8VhHbeORSh0YcC4zR-DnPtyAMa7r2oQHMMsTMok2Gx2n4fpYwdRzU2Hs5QYNOwy03WflTmrAt8g7sMo3A1dP7vyk4EtVNYj4SomHGBvRvOOEqZDCNZdA_WKhcyaqPmvjMlmd-RY0p4E3gke8AaZdXwMYah2kP65jlmGdGMU1wf5o2wegYcQ0cZg09EL5aXlaoFsI1qiKpcqfveFYL-K-8zA7vzhI2fdJvml7-sxUJSiwRYVsrEDmLgZUBjt_64Y2I1tAso5qST66EnEbSUE6Wzoitoi0q9pPwNwol1skqOBmgjP4POyRjZTNRBprGNqCD2bL1HOhIbfdsE4TmtUKh0iV5y8hethXGS0qEJX4xZCL1guMhiZDd3RhocdaEDm4rJkRVzqrAlED4xkEsq6weMgbhyO6bQTnWklK52N2hVJzc5yA&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "darcek.jpg",
+    "nazov": "CVrČkov vianočný darček",
+    "autor": "2kp",
+    "datum": "24.12.2018",
+    "text": [
+      "CVrČek dnes dostal darček. Dúfame, že sa bude páčiť nielen jemu, ale hlavne vám všetkým :)"
+    ]
+  },
+  {
+    "obrazok": "pes1.png",
+    "nazov": "Vianoce pre &quot;útulkáčikov&quot;",
+    "autor": "kb",
+    "text": [
+      "Členovia CVrČkovho detského parlamentu vyhlasujú Vianočnú zbierku pre utulkáčikov. Ak môžte, pomôžte! Ďakujeme!",
+      "Ďakujeme pani riaditeľke Spojenej školy, PaedDr. Annamárii Roobovej a celému kolektívu školy, za štedrý príspevok pre psíkov do naše výzvy &quot;Vianoce pre útulkáčikov&quot;."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/1989534784457591/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2012439315500471/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "vianocnesrdce.jpg",
+    "nazov": "Vianočné prázdniny",
+    "autor": "cvc",
+    "datum": "30.12.2018",
+    "text": [
+      "CVrČek počas Vianočných prázdnin plánuje výlety:<br />27. decembra 2018 - do bábkového divadla v Košiciach na rozprávku Hľadá sa snehuliak<br />28. decembra 2018 - do kina v Košiciach na rozprávku Grinch",
+      "Prihlásiť sa môžete do 30. novembra 2018. Viac informácií pod lupou a v CVrČkovi.",
+      "Tešíme sa!"
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/1996357070442029?__xts__[0]=68.ARCXzPvGEzf7L8EbTR0mqT_FAuG7hzeNCuwuZFLrF5599KaKxi8JDdaMyJ_9TaI6g6k9_qtvDpuNgYWNbrQhFYH9Q2UqZIu602tKjhwNGK0YRGjPLPAvwLOvdGrtOscq_y1X9fwl7JJX_Vxce-edxRTjzo-gK8sx8jP1rxlkeurg3etrxFwiP0A-oWhESkPDwRaKHxUkw42lK-SBJiMYnbYZzbE-WsrCp925ucl8PnlusVjl74E7aoiIx4ojQErEqK_9bLb9Yr20QYkSnZI9vyiZORifSvJ1oo9bwpyeY7bkr43CVYRjHanUa0AHJbR0soRqfohKeNIDnRrL00ueUDm45g&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/15m.jpg",
+    "nazov": "19. december 2018",
+    "autor": "mt",
+    "datum": "19.12.2018",
+    "text": [
+      "Dnes Dielničkári netvorili z papiera, či z textilu... Vyrobili si chutné obložené chlebíky, vyzdobené slávnostnou sviečkou a vianočnými guľami :-) K tomu im vyhrávala Vianočná hudba a svoje chutné &quot;výtvory&quot; spapali na pódiu, kde im teta Marika čítala Vianočné rozprávky. A tak sa Vianoce pomaly, ale isto usídlili aj v ich srdiečkach a tie zašepkali: Vitajte Vianoce! Tešíme sa na Vás!",
+      "Dnešné posledné stretnutie v roku 2018 sme venovali vtáčikom. Dozvedeli sme sa užitočné informácie o tom, ako ich kŕmiť a prečo je dôležité, aby sme sa o ne starali (aj) v zimných mesiacoch. Od dnes zdobí nášho Cvrčka aj krásna &qout;hand made&quot; vtáčia búdka, ktorú sme dnes spoločne prichystali všetkým hladným vtáčikom - letáčikom."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2032155643528838&__xts__%5B0%5D=68.ARAzoO7SRCaM5MkhPCip03jC3UcvAgA8cuPYaDkshWUzZGG1m5gp-erzd81Wvp9zWcAy2Hpzzhv_NZXdiPhkkI1xBOi0qCoFGRqvhtzRCGjmHsIRrMn06uWOCYIocfOiE0iVtsTIvHNEo6fwba-un6lrxEOcVqChCTTkpnFPzeQ_NYO711k7jBqM2aPIbE6hAG_V7KOCImtDABqHtZXyirx5jcHyeiE-e1PSxzHo6WkWgnWTmE3NKYndOchaAyOwhYHyBFFCy_6a0Zh8xnhgDfUJJKCP4IBvw_JdB_nX4cfI9BtZYhY8qnp_ywdCJaUDuI0yjh7iTI5pq3038jUPZ6_Y5A6d9S3_vdQimPgq1IP8epfw-XHllQ8Ud9TRw-P2afQ5QFuQOBTclnpUEYKKi9dkQLcNWheS5nE2hKfoZfW-7ZdwHLwX5aqYwdudDRG-I67q8UWwBGnE64cNADv9&__tn__=-UC-R",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2032095633534839&__xts__%5B0%5D=68.ARC33HUdK3gPPOlVzf6oDeEygLNaKW-NA578z074xkC-tNOEQPXJJJXeiADyKT5QS1-eu9Co9zAdOuFdLGkH4MfJPkephMIVO3REXAXSnpHJNmSXoiqWjmgiauRQaJcHRS-6qGCLADtDkN3vVED-BymyHkBzgPxtr0tzNKUCaJtOUrcgsI20WTs65ypQKVx_o6N7QtfcDpNLOt-X9zwZroXr_xBkqwmqq6-mUTjgKr1WMigFhIQJiQEGYn8nLy9tNNQesCaYnk7hyp5IVyYojNG577IvB0YGGHXs6MkJIkAsRwfVu5OI823UHSg_vXEdup5XE-muse6Es7d_CSlwhkm-7p54F6QtXF-PfWKakEuG2hWQlEy6AP4WeAWP1FJCCdiqSdw3a4yaR0l6MtkP7KemOJc1FBfNlo0WqgKHChCPcmenda5r04KvvsZ1knU10yNILQTg0MokL3LtXzgJumkhGhbW88c8_pFTTI2SDIS1e5lSIYG6qOs2XkevnDVQxQQ2hs8RWyAK7l91ZgjPRmE7kiaofQ7HoQYYlz93jQ&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "polovnik.jpg",
+    "nazov": "Poľovníček",
+    "autor": "jh",
+    "datum": "18.12.2018",
+    "text": [
+      "Naši Poľovníčkovia dnes dokončili svoje krásne Vianočné darčeky."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2030745523669850?__xts__[0]=68.ARA_DQBKlHiFHzfmXCFOQWf5Sk9TVx1D-4GgnuAiLgJzPvc60Fk8k-1FqjSs7gjWFcEc1i_QSyuE9zZ54E7CjElP0craNogODQkgIFRNMN0RCjv035fdlXCyjHUJew9pdqjVeBJ4xt4ALFrYrkyXM5mPvVud801GehfTdp7KEcqWJ9xUAYcNP-9elRc4yxAEXBJ4RGvmvoS128sTDtGsoRIiiU0v_Y2TUEKou4cSBRmUK_QoYg729QSJtpkhqtKPbDJvUAYhzqmspDnGv_yc7Jz3u7amp0rwLpWvDi0vc8jXdGjGI95LiPqL902x8WYnZSUqioueTNgC2VnNiL18tImCPg&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "oznam.jpg",
+    "nazov": "Oznamy",
+    "autor": "cvc",
+    "text": [
+      "Oznamujeme deťom a rodičom, že dňa 21. decembra 2018 krúžky nebudú, CVrČek bude otvorený od 10:00 do 16:00. Deti, ktoré budú mať voľno a chuť, môžu tento čas stráviť s tetou Dindy.",
+      "CVČ CVrČek s ľútosťou oznamuje deťom a rodičom, že Folklórny súbor pod vedením pani Mileny Nográdi, dnes ukončil svoju činnosť a v novom roku nebude pracovať. Ďakujeme našej tete Mii za čas, venovaný našim deťom!",
+      "CVrČek oznamuje rodičom, že od januára 2019, bude záujmový útvar Break dance pracovať v UTOROK od 16:00 pod vedením trénera, Petra Fazekaša. Tešíme sa na brejkerov 8. januára 2019."
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/3m.jpg",
+    "nazov": "Dobrovoľnícka služba",
+    "autor": "cvc",
+    "text": [
+      "CVrČek hľadá spolupracovníkov na Dobrovoľnícku službu cez ÚPSVaR, ktorí spĺňajú niektoré z troch kritérií, stanovených ÚPSVaR. Záujemcovia sa môžu prihlásiť na mailovej adrese: cvrcek@cvcmoldava.edu.sk. Išlo by o prácu na 4 hodiny za cca 200 eur. Ďalšie podrobnosti sa môžete dozvedieť prostredníctvom mailovej komunikácie. Tešíme sa, že posilníte naše rady."
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/10m.jpg",
+    "nazov": "17. december 2018",
+    "autor": "kb",
+    "datum": "17.12.2018",
+    "text": [
+      "Vonku nasnežilo a mrzne, tak sme si na Gazdinkách urobili snehuliakov z vajíčka :-) a k tomu ešte krásneho Deda mráza zo servítky. Ku deťom z Gazdiniek sa cez Vianoce oplatí prísť, budú mať pre vás pripravené kreatívne občerstvenie a krásnu servítku.",
+      "Deň plný pohybu a zábavy: takýto bol pondelkový deň u nás v Cvrčku aj dnes, 17. decembra 2018.",
+      "Zopár záberov z dnešného flórbalu. PS: Zabudnutá flórbalová hokejka bude čakať na svojho majiteľa v CVrČkovi."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2029348503809552?__xts__[0]=68.ARDcAQHJ-A9UvrvgMUXCVuVTaSE-W428cDZTwLgvSyzJN1-gWHyMEHCdaTms34m4tHY8XKMCy6qZ9lkcOl1DJnG1WMCF5XyRbVIHiQp70zTnnA8xWDPWKdep0wYco_3LencvDOt75cqpuxMRFjO2nVnxVat95dDpbTcURsdOvYZ4JKtdKBGHj0GHOke590-3ovyyM7p8uGoyP8hxspnxRKiRXQ_GhRB66kLnLDa1bQw_7s73L1vM3BJQ4Vo9LXCx1yAxfG0ZbAz5__CvLHonTn3wVBTQ9hYmbiNaNr6U-zeX3ekPZSfJYUcBK46kPksDUnuriDSMEfLfoXBS7zInwO0fjw&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2029279803816422/?type=3&theater",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2029155417162194&__xts__%5B0%5D=68.ARA_7qSR-1tJP8kvHUscNBL4kVMpJ4xvmprYylnq4FcqYCP9TsWBfN1iPJDqhqfJcifdpGrXm03oozn8Qi-kZhxwUugK5rrRTornic6hR70qQ0O_4D5e_Jk15m2OorNJgvhzIIyKzCyt5Gmn962xSfweck2NZ9AQwV3gfcdcXYTzkCQjmPl9_D_JrKBZp5NNroD22gpBGLana26an1OblGdpUZDK7NCjgwzrVfozhcbCOaeItyAPKLP6JmzY_fwkaPzo0RfGZptOAQ9MhN9mK8pkbsP04yGnH7lq75RQKU3vhEhWYkSvdcZTZ_hWTE56QnXzMQAulY1sCy8_5RLEJCRncNe1Dk4-Ikg43vU1FzHI2_ootzBBintgufZd-YG1Dg_Ej_fkTSmlVp6B9hcXPgROp_Da5jByEcZJT9L6F9cdSLgg-k90nKBk6NiyRTeXFjiGcrm26rudyIDb01y5j6LlDXSZL_g-L8JpwKKx0hrD9ojgSKbbtFReTqhUtRNO4RAlKEchJSD15s4HvszTjYtQN3_4YxvqBhlGKE6pjw&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "osobneudaje.jpg",
+    "nazov": "Cvrlikanie 6",
+    "autor": "mt",
+    "datum": "14.12.2018",
+    "text": [
+      "Dnešným dňom sme ukončili Cvrlikania v roku 2018 s tematikou Osobných údajov. Dnes, 14. decembra 2018 nás navštívili deti ZŠ na ulici Severná, aby sa tiež oboznámili s dôležitými pokynmi pri poskytovaní osobných údajov v bežnom živote. Tešíme sa na Vás aj nabudúce."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/1996357070442029?__xts__[0]=68.ARCXzPvGEzf7L8EbTR0mqT_FAuG7hzeNCuwuZFLrF5599KaKxi8JDdaMyJ_9TaI6g6k9_qtvDpuNgYWNbrQhFYH9Q2UqZIu602tKjhwNGK0YRGjPLPAvwLOvdGrtOscq_y1X9fwl7JJX_Vxce-edxRTjzo-gK8sx8jP1rxlkeurg3etrxFwiP0A-oWhESkPDwRaKHxUkw42lK-SBJiMYnbYZzbE-WsrCp925ucl8PnlusVjl74E7aoiIx4ojQErEqK_9bLb9Yr20QYkSnZI9vyiZORifSvJ1oo9bwpyeY7bkr43CVYRjHanUa0AHJbR0soRqfohKeNIDnRrL00ueUDm45g&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2024454590965610/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/5m.jpg",
+    "nazov": "14. december 2018",
+    "autor": "kb",
+    "datum": "14.12.2018",
+    "text": [
+      "Dnes nás bolo na Moderných dievčatách iba málo (asi kvôli vystúpeniu ZŠ ČSA). Ale kto prišiel, vyrobil si s tetou Marikou krásnu maľovanú tašku, do ktorej sa môžu dať darčeky. Takú veru v obchode nekúpite, to je domáca/cvrčkovská výroba! :-)",
+      "PS: Potom dievčatá pomáhali tete Marike pri práci, veselo jej vyhrávali."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2024927634251639&__xts__%5B0%5D=68.ARDvx0IPEyh1iJirO8PsL4WNUY3EMutYQw35GZk5vZwRcWHJvC1PTKHwNk0PzenIdsBmp7JOOx9jw5DDCu_vhBE4GE8vvmtyDiSxjFfIs0FKybstU25MSOn6kNmVWViuM6VibfDBLHpN1P_fyuvQkD-1RSJXnMlWbQuxajBo-IhxML6a-C-3KEmYRVECkTJK5n0MEx_LV3NBlfayhxsczzeMUHC8ADNKx3STioxCcvpIZK1xxzcNQPd0IafTPso9FYJrnTWmRGMWruDhK4Z2TLSfPpIxAZZu-Gf8bObMTmCCrhPy2qbEZBZXYlAscMh4lDLT61Z2m931wKwFPW8yzxx-mMp0STDom5V_wcx51QoR5FXeqNYPAS71rxTj5poFjtd9WpfiaR7jhlHRtNiargO5TgwgErBieZnWWwcNmOb3UUFuv_NIn2kXt2EzrwcEaOEo2gKPQnFb7p4M9UWpSG1aVlSFNkA6CmJwggUGDjHcBLHBhbqhz3DsmCOWbdUacUysXv4JCvNbDH3qpdQmaCKba4DMY26X_cztKbJZZw&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/7m.jpg",
+    "nazov": "13. december 2018",
+    "autor": "jh",
+    "datum": "13.12.2018",
+    "text": [
+      "Šach je podľa Wikipédie kráľovská strategická hra s úplnou informáciou pre dvoch hráčov, v ktorej o výsledku rozhodujú taktické a strategické schopnosti hráčov a ich pozornosť a sústredenie. Cieľom hry je dať súperovi mat. Má v sebe prvky umenia, vedy a športu. Šach rozvíja logické myslenie a cvičí pamäť. Dúfame, že k tomu všetkému prispeje našim šachistom aj nová demonštračná tabuľa.",
+      "Naši malí atléti si dnes,13. decembra 2018 vyšportovali krásne Vianočné hviezdičky. Pohyb nám robí radosť a preto si aj táto hviezdička zaslúži mať miesto na sviatočnom stromčeku."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2023483601062709/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2023483601062709/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/6m.jpg",
+    "nazov": "12. december 2018",
+    "autor": "mt",
+    "datum": "12.12.2018",
+    "text": [
+      "Dnešné popoludnie v Montessori sme venovali hrám s geometrickými tvarmi. Spájali sme tvary, ako kruh, štvorec, trojuholník a obdĺžnik s predmetmi a prirovnávali sme si ich. Učíme sa hravou formou každý týždeň a veľmi nás to baví. Z geometrických tvarov sme si pripravili aj krásny zimný obrázok.",
+      "V Dielničke sme už niekoľko krát tvorili a tešili sa na Vianoce a tak sme sa na tej dnešnej pripravovali s tetou Marikou na Nový rok. :-) Každý šikovný dielničkár vyhotovil pre svoju rodinu krásny darček! Vlastnoručne vyrobený, ručne maľovaný kalendár na rok 2019. Tak nech nám ten nový rok prinesie veľa tvorivých, skvelých nápadov, z ktorých by sme mali radosť všetci."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2022154847862251&__xts__%5B0%5D=68.ARDm1GXpSxoueeUQWJc0ITftzHvp-o8b8RWF9DG_DqIjKirKz9S6hlGdLj1JHEmzpCc2DtSfIyj-Nu1ZfpIMD9XM-uegvoSYWuuDijKAPz1tSJEWIH_2I_nH-rC4BE-obk6mvrtfik9bNEVjN0CzIA_WfFuPe6ett33aCMfSFPVSb0m4h_aLE3Y_TrpStR_Sm7jrleJcng1Xb6FG41ScAvrrDp2YXsQ9ouG_-SMcOdpVl7Ch6yLqE-Cd36RofjClCyNZj9gZViuR_TLwmyB-bBG8X2Y3XTsumgHLqRAK_PNNvzrQe4hja_8fKr0l0jAUff3zfNT_sxLuja08R6A1oWj2P6NcDFSl_uVaij08FH1RFvQUw7S49f3CYVaYxuVD-JRyjmNHVmuRzJN53cTcb7ilrvS4PfVRuL-V9F-BarJPc1qjJIlO90JfBKiqAgxw0JJM_lr_ouq3gqCHD4q4q3xG5a3ydT-z6PhhCFEd7y3mH0uuwBxpwuKwPh4OJxxLL2Yu9kjT2KdCRo4c9AaIHyoFSv8qJ4l5Cl-o2mZEew&__tn__=-UC-R",
+      "https://www.facebook.com/cvcmoldava/posts/2022146411196428?__xts__[0]=68.ARCZh7yJYMPlHSEhjQHFKWgSeDshHvBVQYe8xMzCid3MfKocQyEE7CFRVMk57MxHDWFb18KqJDDn0j9JsvHG-FkG3rGlDKZRHtQ2hLVDcqRnpxOY64TEKzqM0pXdP7JwP5ykg17SQQR-VE_sxSR5zBS5laNDBCtSF3OIWBfyuOVwYeAxchSDqMtGwWRY4U5S_wcjgaQOkKRCJdUYtrt_eE-KDPvC-SIMfInguH2gfWOK8MI4enD3itV5JHGkX6TkP2HzIvRB9vbGi514VyRP945wqd_6_i0m0yhMJZ0LvgxWi5tT6sjfffMrUDxgiBvczG28rbkAZlgks84X-PvF15cHzO0_eTqSEC1R2ne_W8ErTu7czAMh00myDVdFvuDTQ6iMl6yGT9dX-FwUgAdxMtMBJV-0jQv1dhNzzb0btXJiJaMfUan8N5Efxx9fx27MMnWS1GUFelr84b79lIVx&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "pero.jpg",
+    "nazov": "Napísali o nás",
+    "autor": "mt",
+    "datum": "12.11.2018",
+    "text": [
+      "Na internetovej stránke ZŠ ČSA o nás napísali :-) ZIMNÁ KRAJINA TRADIBÁB Umelecké diela od pradávna formujú tradíciu bielej zimy a bielych Vianoc ako ideálu, po ktorom všetci túžime. Hra s bábkovým divadlom je jedným z takýchto umení, ktoré nám predstavuje nadchádzajúce sviatky v bielej podobe. Okrem toho rozvíja u detí predstavivosť, fantáziu a tvorivosť. Dňa 10.12.2018 sa deti všetkých oddelení ŠKD zúčastnili vianočného vystúpenia bábkohercov s názvom „Zimná krajina Tradibáb“ v bábkovej sále CVČ. Bábkoherci, ktorí si touto formou zdokonaľujú slovnú zásobu, predviedli rôzne bábkové inscenácie. Mali sme možnosť vidieť tradičné bábkové rozprávky: Opustený domček, O snehuliakovi s horúcim srdcom, Vlk a kozľa. Žiaci ŠKD sa stretli s netradičnými vianočnými príbehmi, ktoré nám rozpovedali šikovné ruky bábkohercov vo veku od 9 do 13 rokov. Očarujúce boli nielen divadelné paravány, ale aj široká škála ručne vyrobených divadelných bábok. Jedným slovom zaujímavá bola scéna, bábky i rekvizity. Ďakujeme vedeniu CVČ, že nás pozvali na netradičné vianočné popoludnie a v jednej osobe Mgr. Márii Tóthovej, ktorá deti pripravila na vianočné vystúpenie.",
+      "Na internetovej stránke ZŠ Severná o nás napísali :-) BÁBKOVÉ DIVADLO V CVČ Dňa 11.12.2018 sme sa s deťmi zo ŠKD zúčastnili bábkového predstavenia v CVČ CVrČek pod názvom &quot;Zimná krajina Tradibáb&qout;. Toto predstavenie bolo zložené z troch krátkych rozprávok, a to : Opustený domček, O snehuliakovi s horúcim srdcom a Vlk a kozľa. Deti rozprávky zaujali a páčili sa im. Ďakujeme členom ZÚ Bábkové divadlo aj p. riaditeľke CVČ Márii Tóthovej za krásny kultúrny zážitok.",
+      "Na internetovej stránke spoločnosti GlobalLogic: GlobalLogic Slovakia a Centrum voľného času CVrČek v Moladave nad Bodvou vyhlásili výtvarnú súťaž pre základné školy. Témou, ktorú zadali dizajnéri z GL bola Hračka budúcnosti. Deti ju museli nakresliť pomocou digitálneho softvéru. Súťažilo sa vo viacerých kategóriach a tí najšikovnejší boli ocenení krásnymi cenami od Globallogic (nás :)).",
+      "Tešíme sa! #podporujemekreativitu #podporujememladetalenty"
+    ],
+    "facebook": [
+      "http://www.cvcmoldava.edu.sk/GlobalLogic%20Slovakia"
+    ]
+  },
+  {
+    "obrazok": "koleda.jpg",
+    "nazov": "Zimná Krajina TRADIBÁB 2",
+    "autor": "mt",
+    "datum": "11.12.2018",
+    "text": [
+      "Dnes vystupovali CVrČkove bábkové záujmové útvary, ktoré pracujú pod vedením pani riaditeľky Márie Tóthovej, aj pre svojich kamarátov zo školského klubu na Severnej ulici. Hrali s radosťou a zanietením a bolo to vidno aj na ich výkonoch. Ich vystúpenie bolo na jednotku s hviezdičkou :-) PS: A to im chýbali tri kamarátky, bábkoherečky pre chorobu. Ale oni ich zastúpili a zvládli to. :-)",
+      "Na bábkohercov čakala za skvelý výkon, skvelá odmena! Pochutnali si na výbornej pizze a teplom čajíku v reštaurácii Margerita.",
+      "Každý rok je pre bábkohercov a tetu Mariku najmilším vystúpením to posledné, ktoré hrajú pre rodičov, priateľov CVrČka a sympatizantov bábkového divadla. Rodičia sa úprimne tešia z hereckých výkonov svojich detí, sú na nich pyšní, nešetria potleskom. Napečú svojim deťom chutné koláče, posedia, podebatujú a hneď je ten svet krajší, láskavejší a rozprávkovejší. Milí rodičia a priatelia, tešíme sa, že vás máme a že ste s nami dnes večer strávili zopár krásnych chvíľ.",
+      "Zahrali sme rozprávky O opustenom domčeku, O snehuliačikovi s horúcim srdcom a Vlk a kozľa. Bolo super!"
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/1986577981419938?__xts__[0]=68.ARCEXE3_y6-4IWd_hLGe_Eq9xLKZayIR14w5T7XZz-fm-wTfvItlCY1jVvlh-o0Siawt7u8MIK5Yt4UuMjvVxW_YZ5gFs3JuDBVjmEwjfvLwFuE_ulSH1gum6Rj1zRuuQeXeuYYBkYIC5t6ARFX6opi7YQqswlMA63hU1lpeDRPeBgsdtU5wI5yD9HCDAsFrOBl5H5xXQl_JneopQtT7PKYDVe-ojE5mXB-q07CeDl8oxtHIxPevoYo682PKVJ7SV2gSYtj5B-Za1ovkLaf7W_aHA7rCHqhtOEySQ2hGHZdyXAYjbHAKSCLLxIwHfRMq03AYvnHdiVPHG1Qa1IZcLDy-_g&__tn__=-R",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2020656708012065&__xts__%5B0%5D=68.ARBGlGRSZAdC0dZGz6Koz_bXcBiMTYjOpCqUVP0bFn2eO-Bv_mA9aw5mE7mOBSQy2Fgx1o4q7JCIqzDptonXxqaHgmsG2seW36VdC0C7bqkfhXF4tQW-Hzts4KuiJbnKi10_gCHwfpALZgIwx7Td5pJzUwwQnixRmtfRS-QJpfPTGG2fRdJO757fZ9KKQpjL35ADkdFf1lEy1mLilP8G_RcMHS8myZVqnuY2Et8NfUVGnKJ7LJ3WGbFxKrJ1gGWL8Gjijk_UC8o485e7AZhDhYL8I8yJ32VOU4-XnDguLzF18lPxRacjG-I4PSZgnsQ9yU_oiGMUWfW9r0uLr52i3RSFePCjdVH2T3Tw4a4I-79nMq5cYRot5YdlN3AnyoZnHpmdAKLS4jUKHYljAqQzRHdNIHhPbujC7bmp7kbcXOqjXrbaGyPt7nwjE5dKbJQ1mINUbERpNA1H4Dr-pOuouDNvteLmGWAVncNODkMxXzNkKc8Klzq99Uk5YAsnlThc6Kmcit-P3r8M_woBSqz5GL6llC79FqCQSo7VEYD6KA&__tn__=-UC-R",
+      "https://www.facebook.com/cvcmoldava/posts/2020668664677536?__xts__[0]=68.ARCTIrtytF2jY5yJdQTtNt_PtiinaR2PnnS5-0KOp-O04JOMlrT2aT66UF7_SGWSoajWD_BKDQ1OPz8ZcHyvDHOBlGwk-kz3vhxHa2ak57Qmo4tkAKKLG2Z-ywyqPJ4kfwyJlqzDn0Pj2gIxvJG7TJV-vo8oXL8a8IBhMAlujy8TajLs0jiHcxCLHR7d4sF-BhBXDdFtL6wg-bzlRM9axnQ8pl7U3y3f4Oijx0uKMFq94ecMuwamx0ZtTTv6QZd5LX5hxcEyYccczvZi8IIx_JARgHiRvnszpdSS980t0h5oRhvln-E2U-pEWws_VuvpkLAo0-Ov4_6wxavoXK9JaUZeXw&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/posts/2020679431343126?__xts__[0]=68.ARDACAso1u10lfIruolYwyZQ6n-Bn3igBE19Cr_CGZRgbZaZ2x-1Uwm0_NquwBaKTGef5oVxO_HIn0nfc6JNeT5rS5ola_QJWn-QCvC3xuPkc1reIu-YZXEkAIjmKpLNTOjSCWgHSD39cmb_G7XWaPFhrcRaj6keO-K7fxpGcYJlJmrN37-JcJE4BSAR8JQ3ep1KdAasocN5M3u8_Hvow7UuTb_lnPMwVhMIx0TPalc7NIqTyPUPdGv_tVLYWEv5P_J1IBny8Aaw_xv4w0B4IdFzVvayoNa0CljAm_a3XdR4IhF6wd4KJ6DWDPKCi7s7PcJn9dptM9XauL6P_0NShs5h9w&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "robot.png",
+    "nazov": "Hračka budúcnosti - vyhodnotenie",
+    "autor": "mt",
+    "datum": "11.12.2018",
+    "text": [
+      "Naše CVČ CVrČek v spolupráci s GlobalLogic Slovakia v Košiciach, vyhlásilo pre deti tradičnú súťaž v tvorbe obrázkov na počítači. Jej cieľom bolo osloviť deti so zaujímavou témou na kreslenie a rozvíjať ich zmysluplné trávenie voľného času pri aktívnom tvorení výtvarných prác. Téma súťaže, ktorú sme dnes vyhodnocovali, vznikla podľa slov pani Zuzany, dizajnérky GlobalLogic-u, nasledovne: &quot;Poradili sme sa všetci dizajnéri dokopy a veľmi by sa nám páčila téma zaoberajúca sa budúcnosťou, keďže ide o IT sektor. Máme nápad, ktorý by mohol baviť deti a bol zároveň zaujímavý aj pre Globallogic. Naša téma je - Hračka budúcnosti&quot;. Do súťaže bolo nominovaných 279 prác v štyroch kategóriách. Ceny víťazom priniesli a odovzdali pán riaditeľ spoločnosti GlobalLogic, Štefan Lacko a pani dizajnérka, Zuzana Petrovičová. Svojou prítomnosťou nás poctili aj pani riaditeľky základných škôl, Jolana Liszkaiová a Alena Ujcová a pani vedúca odboru školstva pri MsÚ, Tatjana Volková. Ďakujeme im, že prijali naše pozvanie, že priniesli krásne odmeny pre víťazov a že s nami strávili príjemné predpoludnie. Ďakujeme aj všetkým súťažiacim a ich pani učiteľkám, že sa do našej súťaže zapojili.",
+      "PS: Za krásne fotografie patrí vďaka Radke M."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2010046262406443?__xts__[0]=68.ARAvBYazIclhHNxbzerxnb36ZraHPXH7C4K9u5kx8OwLrf7PY3w2D0OsPK4yBNwinM-Zfi8xpiD9EWRMT6upv-Pwbe5-F6jKikdRCm2NfUP_x1UVSlfAhv_m7vwN7G9kmfhzRLDCYWHvY1rn6LAsocwtOkeoWaT6pMK3om63UxO9S80lClb4JTBYk2M11sz8mt3BtVMGs1IQnBv-NHU5tWVquMKNbe6sBHfy5EXVnj0ZM4cyCNAc1fw3s191puPYfVvufZQCWy4Tk7xb5xrPDRmRFZSTScUMsr_yKI_WWjefh3Zq6FAroaJ1JawtgZMUcP6MUIV1Umn4FqITz0uXvBmyepetZ1OH337UJT8BlASs-vPz5WU4GSyxdV6ppUT2MMqUrkMpexu0aMrF8pMMUUHUcd351Yusw-z9iM1o1YzL1JAXpLOE-6amp8CI7PuahAzilI0JoCWlCrGJx0mKtL1WfR1IOqffTVcuAUT9c9fHrp79_09DdUAtefRIGnY33cAkRxQ6-sAvN38cQpzzUD3PN1ryTwOPqN5idKcCTC8&__tn__=-R",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2020770348000701&__xts__%5B0%5D=68.ARDLKhPvtxjtIvCK-Eccv2v6qsu6Y-bdx8VfDmLXtW4LpKNxY70YYQiIjpEJXxmzNP2Kt5K8DgrJ5alT9s81QDnFhi9FgSXuz08Zk_x0yMmFGkC9P1vEtbS7-EZ3wEhG-mELgqmothOggH0s9jLj2wbBJM706RZiybu_gGWH1egBxutNuH9ruBhju10cUwIH0qPs5XPr85AO278dbAv3ECbUclRCXY5gGLdPwLf6c9jcwTSqT1f6LuudGINgyCIEWjGIqGYIHbuh1Uac_ewPDRYyxWie7bvk6kRe2Evb8xEsW9y_x5h4gd96H352-mP-RlHBrrB1RQAut0EqE4c92cjT_ASmvdTPf0RvotlOLOvtQGNhbK03twLsBSJQxTujErxZvM9G906hF6g3fX6YTqYOrZWs7h_2LbRW54RJP6cn99-K14tP0dKQ7coDzsYgMd_whOC70fvDUy2HKKmBA3yIYgLd-nPfMsDQg4GYZiHANf9QrHKveXb5pz2nJWRCviCSUuakPZolyjwjVpYSQNqbJL_Mw6U_ARZpTj6l3g&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "koleda.jpg",
+    "nazov": "Zimná Krajina TRADIBÁB 1",
+    "autor": "mt",
+    "datum": "10.12.2018",
+    "text": [
+      "Krajina TRADIBÁB - krajina TRADIčného BÁBkového divadla, ožila dnes celkom tri krát. Deti, pod vedením pani riaditeľky, Mariky Tóthovej, zahrali svojim kamarátom rozprávku O opustenom domčeku, ktorá sa im veľmi páčila, lebo bola plná veselej hudby a zvieratiek. V rozprávke O snehuliakovi s horúcim srdcom sa deti spoznali so snehuliakom, ktorý mal dobré srdiečko. Také dobré, že vedel robiť iba dobré skutky a pomáhať svojim kamarátom. Okrem iného daroval veveričke metlu na od-metanie snehu, zajačikovi mrkvu, aby jeho rodina nezahynula od hladu a krtkovi uhlíky z kabáta, aby mal čím kúriť. A keď na začiatku jari nemali cibuľky snežienok dosť vlahy, srdce snehuliaka sa rozbúšilo a on sa roztopil, aby mohli snežienky vykuknúť spod snehu. Je to príbeh pre všetky deti a dospelých, ktorí vedia, že to, čo je krásne, sa skrýva vo vnútri. Na záver im zahrali zmenenú verziu známej rozprávky o vlkovi a kozliatku. V nej musel vlk čítať kozičkám rozprávky. Vystúpenie sa nám vydarilo, ctenému obecenstvu sa páčilo a my sme sa tešili zo svojho úspechu."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/1986577981419938?__xts__[0]=68.ARCEXE3_y6-4IWd_hLGe_Eq9xLKZayIR14w5T7XZz-fm-wTfvItlCY1jVvlh-o0Siawt7u8MIK5Yt4UuMjvVxW_YZ5gFs3JuDBVjmEwjfvLwFuE_ulSH1gum6Rj1zRuuQeXeuYYBkYIC5t6ARFX6opi7YQqswlMA63hU1lpeDRPeBgsdtU5wI5yD9HCDAsFrOBl5H5xXQl_JneopQtT7PKYDVe-ojE5mXB-q07CeDl8oxtHIxPevoYo682PKVJ7SV2gSYtj5B-Za1ovkLaf7W_aHA7rCHqhtOEySQ2hGHZdyXAYjbHAKSCLLxIwHfRMq03AYvnHdiVPHG1Qa1IZcLDy-_g&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/posts/2018470564897346?__xts__[0]=68.ARAsCZwRl7YKN3FJ1q_qUv98lH46EXYGULgmgGiid_aNXj8bcgvP01sn7JHvCyvHciYWr-nNbWkpN70s7jD7kAFHbOL2Uzi2SgB5lf-qORB9H1QuXFtoX1WykEfEBNiHJO-ZoW18rIhOMmUpheICg6Mdnb188pgIQoqaUQwvXNFMdBjP0TY5nscLX2AvAub-cAJWuddExBZxP7blWwXKidiTLAQdcBK_kssDGgh3NR2f9POGoAZoAiisdtVmZ7ePJxBwykgcWaE1UBQHmDV38RRemHFP9r6_Hr0DTmtxxvkY9sGuw5DiMMqk2hKDo8ODKcjMpjWqcbEQqrC9jHCoLVV1Ng&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/posts/2018470564897346?__xts__[0]=68.ARAsCZwRl7YKN3FJ1q_qUv98lH46EXYGULgmgGiid_aNXj8bcgvP01sn7JHvCyvHciYWr-nNbWkpN70s7jD7kAFHbOL2Uzi2SgB5lf-qORB9H1QuXFtoX1WykEfEBNiHJO-ZoW18rIhOMmUpheICg6Mdnb188pgIQoqaUQwvXNFMdBjP0TY5nscLX2AvAub-cAJWuddExBZxP7blWwXKidiTLAQdcBK_kssDGgh3NR2f9POGoAZoAiisdtVmZ7ePJxBwykgcWaE1UBQHmDV38RRemHFP9r6_Hr0DTmtxxvkY9sGuw5DiMMqk2hKDo8ODKcjMpjWqcbEQqrC9jHCoLVV1Ng&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "vianocnystrom.jpg",
+    "nazov": "Vianočné pozdravy zo sveta",
+    "autor": "dd",
+    "datum": "7.12.2018",
+    "text": [
+      "Dnes, 7.12.2018 sme mali v CVrČkovi veľkú radosť. Dostali sme prekrásny Vianočný pozdrav, ktorý nám pripravili a poslali deti z Chorvátska. Gesto si veľmi vážime a samozrejme sa aj odvďačíme. Pozdravy očakávame aj z ďalekého Turecka, Poľska, Španielska a aj zo Švajčiarska. Už sa na ne nesmierne tešíme. Projekt sa uskutočňuje v rámci programu eTwinning = partnerstvá škôl v Európe. CVrČek dostal dalšie krásne Vianočné pozdravy cez medzinárodný projekt eTwinning. Tentokrát nás prekvapili detičky materských škôl z Polska a z Talianska. Učiteľka materskej školy v Taliansku nám dodala aj krásne video o tom, ako pripravovali Vianočné pozdravy. Veľmi sa tešíme a fotografiu o krásnych pozdravoch tiež pripájame."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/1996357070442029?__xts__[0]=68.ARCXzPvGEzf7L8EbTR0mqT_FAuG7hzeNCuwuZFLrF5599KaKxi8JDdaMyJ_9TaI6g6k9_qtvDpuNgYWNbrQhFYH9Q2UqZIu602tKjhwNGK0YRGjPLPAvwLOvdGrtOscq_y1X9fwl7JJX_Vxce-edxRTjzo-gK8sx8jP1rxlkeurg3etrxFwiP0A-oWhESkPDwRaKHxUkw42lK-SBJiMYnbYZzbE-WsrCp925ucl8PnlusVjl74E7aoiIx4ojQErEqK_9bLb9Yr20QYkSnZI9vyiZORifSvJ1oo9bwpyeY7bkr43CVYRjHanUa0AHJbR0soRqfohKeNIDnRrL00ueUDm45g&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/photos/p.2023086417769094/2023086417769094/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2014266638651072/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/7m.jpg",
+    "nazov": "7. december 2018",
+    "autor": "cvc",
+    "datum": "7.12.2018",
+    "text": [
+      "Piatkový, &quot;Mikulášsky happy end deň&quot; vyzeral takto: najskôr sme si všetci vyskúšali pokus s cukrom. Zistili sme, že cukor je savá látka. Nasledovne sme dostali pozvanie na Bábkové vystúpenie, ktoré sa nám veľmi páčilo. Prezradíme Vám, že pozvaní hostia na Vianočné vystúpenie Tradibáb sa majú na čo tešiť. Nakoniec sme otvorili malú dielničku a každý si pripravil Vianočného anjelika. Máme za sebou opäť úspešný týždeň plný radosti a detského smiechu. :-)",
+      "Naše mladé volejbalistky poctivo trénujú. Pozrite si fotografie."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.1094145967329815/2014380361973033/?type=3&theater",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2014235041987565&__xts__%5B0%5D=68.ARCJttEeC22QydZZOLFnHaSUSTg3gOUaWwZPoiWRkJJO6Upq6fTfzrXBew9jwAOjghif7Rw3zRLsK5SkUZLBEPF3AFvkXBd9uuovxwQPtTC9TSEHOTPY1Cpn8YKDHPK-IV6TZArdB0Qi5BGMCvVjrvmHJr2s3oc07Q3rdQ5awPHCI6ucgls2ts6pqSxXavlpFIkWCn1K6dD-3dDGk4A9ZroGqDdtMODhvAfZEJopYMjjIvj71zaPjRVdwou2SrHW1anjUuqLhPxeGWRHarIyf9Zi95MUB0K8mbDYSLNc7LOHKZnnmfE0qQQFdkgLQGmLmUXjy_Nags3d1gGYFmejumizTpynLIcOImyz4elaA8BTV0aYEVnPXaMm5hennO15by0tdYU7fDrwtuQvgvYrHFdYoejAqdxJDeBqBVKLdxqg2OY8oBfU4_WTSiajobZhAM1QM4jGrN_QRH6CERABOc-Hp1vvrnTQL_5iK3ykcyymcIp_HELvbhsy8KJqsHregiXyNtEwrv4y8S0bx1VQIpRcdDGEd4k2FdJ30aXDPQ&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "osobneudaje.jpg",
+    "nazov": "Cvrlikanie 5",
+    "autor": "cvc",
+    "datum": "7.12.2018",
+    "text": [
+      "Cvrlikanie zo dňa 7. decembra 2018 bolo opäť úspešné a náučné pre každého z nás. Žiaci ZŠ na ulici Severná dnes debatili s pánom vychovávateľom o osobných údajoch, respektíve o ich ochrane. Na pamiatku sme si pripravili aj krásnu predvianočnú fotografiu."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/1973560029388400?__xts__[0]=68.ARBM0wi7dLuzD2EOKVZNciAnq9qGlrqI1tO0YOnKx94A6iZXRcsTQIcRBvUcbFD1xV0zn6SRrbtRVBTLy8NfnCdg2_g1PgD9oRSCsOqcffWwIRriV1DNro7z5Vb-XdXKvnG-mfmFhI-OHCdJy4f8SxU3zBhlHI9MLxrDf0POKpxb_xx1SOVU0zksLZyRgDzLMj346caYsWzj3HsS3dw3ayoH_woEh8LZAtAtXARZyOKChOJn98HWDBAGnj1w2a5gdE2H1lZNl6uft2T2JX77IkBF1KyjGOePFOqT4KzZmz5eGTmHchLU0xhVA-rIXDTkQhpTBR7j5qD6Kd5wUtSC9VqKDw&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2013953675349035/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/7m.jpg",
+    "nazov": "6. december 2018",
+    "autor": "cvc",
+    "datum": "6.12.2018",
+    "text": [
+      "Naši usilovní šachisti aj dnes poctivo trénovali. Pripravujú sa na súťaž, ktorá bude už túto sobotu.",
+      "Na Hip -hope sa dnes tancovalo, relaxovalo a potom sa písal list Ježiškovi.",
+      "Gymnastiku dnes zastupoval ujo Norbi. Dievčatká mu predviedli, čo všetku už v tomto športe dokážu."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2012786532132416/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/posts/2012791228798613?__xts__[0]=68.ARA1nhBQJHqa322unJXfsKXtSFW-DlNT05tkpaWYK9bXFQJlutWRWVyJ1Z0wGo0SndVhukf47jeHIIvZ6xVqLP-sl92FbT-DaClY5HrXVkAXWrOXYsklkESkW1RL2YgOTBrGmmenZu2Hs3NIZvnDPLQYBad1EFMCsTWG4fXkXvzfv3YKciCFF0wsccYYTi4HCC7jNAV5pqOlH7RNymTRJKPzZA3ucTojTNw-WHJJAssxoLN5ye5FxXf5dxP49mcEdlXmolc6iDQ4uBqbIOrkaF5w39QLwF2S81aZ-ONLg5Atbr6ss8EiIDbCVqVEUs2AYNxcibYX9p9hJ_zpIcbVmscS4Q&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/posts/2012795278798208?__xts__[0]=68.ARAPSWW36c4BRaX4vu8F2VTnV2k6rJan2Pp3Mz8GilG2-DZC0Ba8EyZBOnUy8UHXyP-HNA3-A4EXQj59rFSW2KPwqGGPlBZR1YYoXQCy_tWsANzgAoi6ZT4bpRnujVwRi9CWqZkjBU-nlg5_w6sgsJBdFtlmr6y4x4qfSFbcVnUZbCkQXRUYaTRd_cfRT0RKBcE2EohcICjfPcuYwPgL873nqieu7uZpgoOCAiU3zS4uqms_yZQlkomTx9-o6z1l9DK3mSYZgztOX1vZL8USh9lmRwkUU9rfboo21BWxOg-xacu6IQzHDgn0dB5zYE3BIHEik43deaqexCL0RA7uS_PIXQ&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "denzeme1.jpg",
+    "nazov": "9. strEtKO - žlté",
+    "autor": "mt",
+    "datum": "6.12.2018",
+    "text": [
+      "Svoje Žlté environmentálne strEtkO zažili aj šikovné deti zo 4. A triedy zo ZŠ Severná. Bolo výnimočné, lebo bolo Mikulášske. Pani riaditeľka im ukázala, ako súťažili deti pre 15 rokmi, keď nebol dataprojektor, ani počítače a všetko kreslila na kartičky ručne."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/pcb.1963836407027429/1963835067027563/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/posts/2012453878832348?__xts__[0]=68.ARB0uH7P8Tim_S3aKpHOkcD30lDs0_GUGSf3mQQCLXJlPdHbzO24X3w36yvUzDBA9NjZjouwNsaz5yJUO9Y0WZcJcojiwx38WvSMTt9Kx3-UJZrYKLKVOa3woMSg0tKD5NjBY656fALn5LdGp4dn7bJbW98Pf4s05kSDpaR3J7A_kiXJ4gCw7MZXeFoYYqESw8WdHx701iL6LTHGHLE_OfMF9gX0AsBERM-jKH8xGKfYztioUVgXCnLsxAs1YtYOKohBjYQmSZWMvMurjVeB4X5SvRTUgmVUZpD_sU-_NhHy305bsM69pjLCQYVOeFY2knWwqd5nV6DISVq6m6iVrXrANw&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "robot.png",
+    "nazov": "Hračka budúcnosti",
+    "autor": "mt",
+    "datum": "5.12.2018",
+    "text": [
+      "Naša súťaž, Hračka budúcnosti, má svojich víťazov! Tím dizajnérov, na čele s pani Zuzanou Petrovičovou zo spoločnosti GlobalLogic, rozhodli. Podľa slov pani Zuzany &quot;bolo neuveriteľne veľa pekných prác&quot;, preto okrem troch prvých miest vybrali aj práce, ktoré si zaslúžia pochvalu. Ďakujeme a tešíme sa na osobné stretnutie, 11. decembra 2018 o 10:00 v Bábkovej sále CVrČka!",
+      "Víťazi I. kategória:<br />1. miesto - Miško P. - ZŠ Paňovce<br />2. miesto - Sofia O. - ZŠ ČSA Moldava n/B.<br />3. miesto - Štefan B. - ZŠ Paňovce",
+      "Pochvala I. kategória:<br />Vanesa Z. a Ivana N. - ZŠ Paňovce",
+      "Víťazi II. kategória:<br />1. miesto - Noémi A. - ZŠ ČSA Moldava n/B.<br />2. miesto - Lukáš M. - ZŠ Paňovce<br />3. miesto - Juraj P. - ZŠ Paňovce",
+      "Pochvala II. kategória:<br />Daniel N. - ZŠ Severná Moldava n/B, Daniel, S. - ZŠ Severná Moldava n/B, Martin I. - ZŠ Paňovce, Norbert H. - ZŠ ČSA Moldava n/B., Štefan H. - ZŠ Severná",
+      "Víťazi III. kategória:<br />1. miesto - Viktória H. - ZŠ ČSA Moldava n/B.<br />2. miesto - Sofia D. - ZŠ ČSA Moldava n/B.<br />3. miesto - Daniel D. - ZŠ ČSA Moldava n/B.",
+      "Pochvala III. kategória:<br />Roland K., Tomáš T., Bettina B., Dávid P., Zuzana J. - všetci ZŠ ČSA Moldava n/B.",
+      "Víťazi IV. kategória:<br />1. miesto - Sandra M. - ZŠ ČSA Moldava n/B.<br />2. miesto - Ivana M. - ZŠ ČSA Moldava n/B.<br />3. miesto - Daniel D. - ZŠ ČSA Moldava n/B.",
+      "Pochvala IV. kategória:<br />Patrik S., Natália M. - ZŠ ČSA Moldava n/B.",
+      "Víťazom srdečne blahoželáme a tešíme sa na stretnutie!"
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2010046262406443?__xts__[0]=68.ARAvBYazIclhHNxbzerxnb36ZraHPXH7C4K9u5kx8OwLrf7PY3w2D0OsPK4yBNwinM-Zfi8xpiD9EWRMT6upv-Pwbe5-F6jKikdRCm2NfUP_x1UVSlfAhv_m7vwN7G9kmfhzRLDCYWHvY1rn6LAsocwtOkeoWaT6pMK3om63UxO9S80lClb4JTBYk2M11sz8mt3BtVMGs1IQnBv-NHU5tWVquMKNbe6sBHfy5EXVnj0ZM4cyCNAc1fw3s191puPYfVvufZQCWy4Tk7xb5xrPDRmRFZSTScUMsr_yKI_WWjefh3Zq6FAroaJ1JawtgZMUcP6MUIV1Umn4FqITz0uXvBmyepetZ1OH337UJT8BlASs-vPz5WU4GSyxdV6ppUT2MMqUrkMpexu0aMrF8pMMUUHUcd351Yusw-z9iM1o1YzL1JAXpLOE-6amp8CI7PuahAzilI0JoCWlCrGJx0mKtL1WfR1IOqffTVcuAUT9c9fHrp79_09DdUAtefRIGnY33cAkRxQ6-sAvN38cQpzzUD3PN1ryTwOPqN5idKcCTC8&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/4m.jpg",
+    "nazov": "5. december 2018",
+    "autor": "cvc",
+    "datum": "5.12.2018",
+    "text": [
+      "Detičky dnes pripravili darček Mikulášovi, veď oni už veľmi dobre vedia, že radosť nie je len dostávať, ale aj darovať. Sme si istý, že Mikuláš sa vlastnoručne vytvoreným ozdôbkam poteší a smelo obdaruje všetky šikovné detičky s dobrým srdiečkom.",
+      "Aj na Dielničke vládla dnes mikulášska nálada. Teta Marika naučila deti vyrobiť si krásneho Mikuláša zo šišky. A pretože dielničkári sú šikovní a jedna úloha im nestačí, vytvorili si aj roztomilý stromček. Obe ozdôbky môžu použiť aj na výzdobu svojho Vianočného stromčeka."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2011391372271932",
+      "https://www.facebook.com/cvcmoldava/posts/2011362192274850?__xts__[0]=68.ARB7mEh3vb9_1mCzi-YyCNIXMFagj6jaHU7gBfbE8ti6aHCYt1dabQdCA_jBKYtQsuICDuJrQ21RNgUoSJITFifdDD-wXOyd1lvk_eftC2D5FxARQtvkfihRMwTW3lz3np2BwWeks7GDYdCcPTjSbwiMjCY94FmNW96Wi9TZrqE3h_o7EPSVgLUhoZs_z-9Ga_XWeuZyuW_fv-phoimCtmJfNJuYzISI7k6XsqKh5I24_aMH626VbTuHaZ77mD76H3Ak3I6_6tqlppQ-XXhpDyd4MMTqiitChdPz55jCQV6TxVyFoXcBuMm3A-gf2wzWfFp2OlSRMWyY9LWlhvazsG8xwHuzy6SvUYiM7SgMG61caFnP0FDlGeiB4SjBzzfBC1IpWXYqLi5OnKmy1Gh3YkIKsk-2XZGtLSgZJDH9FWchKw0V-ezcgq-N9_qXEyrXu6bqgY4lX0GClyh2M7gn&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/3m.jpg",
+    "nazov": "4. december 2018",
+    "autor": "cvc",
+    "datum": "4.12.2018",
+    "text": [
+      "Aj na záujmovom útvare Poľovníček vládol nevídaný ruch. Deti s tetou Marcelou vyrábali Vianočné ozdoby.",
+      "CVrČkovi &quot;Miklulášikovia&quot; - folkloristi.",
+      "Ozajstného Mikuláša zažili aj chlapci zo záujmového útvaru Rybárik. Dnes si mohli nakúpiť rybárske potreby. Bolo že to radosti. Lovu zdar, chlapci!"
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2009886375755765/?type=3&theater",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2009887749088961&__xts__%5B0%5D=68.ARBBkdVm5Q8TGoXroDO8xmmmA5IrXl-_uPVw-_r8hCuMV8IlaHZmmfmgGvs8_Rft6E2yfCZo8_OEOQxYb-ETQRbwvxiAkFiJD75_qgDXb-VTSq9IefBYA_1suUHKtdFPem-yEz-BLk0QpriwMnxG-TbctmNmInJFDYsaiJgPuSBNyPeN1uQ0oPNjNRE95w7Z9zDP5X1ySeQFWYLmfkvoOLVqOfaYDGdeHJete4AHRA_2uT41AmHibXWyOYQav4mvK5svFchS3U_wuZz7cUSvjGNaMehdUdgftSh-OwluWDWQhJ2sTVtyLV8LFr6vdJpxpOBjl2elbdobLwFySnNi2o8BPenWKNhGHTgpIUkDBJUotIdhrcWcdm14RxsV8WdCDmJ_HLwWmWf9N-l3BrMYzXe8wO8tJ7qw9dHvdhSbZ70dmHRF-GidJsKfzyiqgKehOSkLFvVdlERB91AtXkTsTpaX-MSqvu9F-muNbqgHPtSZ3p7j4PH57oeTCy7VWZJT4aY2qQKBn73vT9vNmOpJJqg7-KtXdp2XSCd5r4l9IA&__tn__=-UC-R",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2009884769089259/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "sach.png",
+    "nazov": "Šachový turnaj",
+    "autor": "jh",
+    "datum": "3.12.2018",
+    "text": [
+      "Prinášame vám krátku reportáž z dnešného krajského kola v zrýchlenom šachu žiakov základných a stredných škôl. Až štyria žiaci z Moldavy nad Bodvou si vybojovali minulý týždeň postup z okresného kola, z nich dvaja navštevujú šachový krúžok v CVČ CVrČek. Želiezkom v ohni v kategórii žiakov ZŠ bol Patrik H. (GŠM Moldava nad Bodvou), ktorý sa venuje šachu iba dva mesiace. Patrik dnes vo veľmi ťažkej konkurencii získal 2.5 bodov zo 7 kôl a zaznamenal ďalší pekný výsledok. V kategórii žiačok ZŠ dnes zažiarila Beátka O.(ZŠ Severná Moldava nad Bodvou), keď obsadila vynikajúce 5. miesto spomedzi 21 účastníčok turnaja! Beátka siahala v poslednom kole na senzačný postup do celoslovenského finále v Topoľčanoch (postupovali prví traja), avšak nepresnosť v poslednom kole ju pripravila o túto métu!",
+      "Dodávame, že víťazkou kategórie študentiek stredných škôl sa stala bývalá žiačka ZŠ ČSA a bývalá členka CVČ CVrČek, Veronika U. (toho času študentka Gymnázia na Šrobárovej ulici v Košiciach). Všetkým odchovancom moldavského šachu srdečne blahoželáme!"
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2008465619231174?__xts__[0]=68.ARDFrKy580ToIc1bTpPv0PXvXzeTf-efK_TeaEzZytDXTzzKeJ1_URvOcDI2yKGxjBMpjIXm9utnYM9v9vW_iBLuTrfnrKUpY1BFbOit42Ihi0dlJYznL05WPsXjwLtbBgnOz31-lTv8VDxpfPLNYUbZeWFy2teDZSh-4ZroBF9AmsqxQkhaz0LYIxYaXdsEpQfUZXORvgha4badydQHVBc5FM8XZWplNKxpTLGNlrkM71nRnCrhOCiTA6RWdzjEOedq6vH2beD2Z7Mzb6RPB3ZscK0nD431fnS-nIpq-dnhZUZ8QvlEYeFrokhS0doH_HAG&__tn__=-R-R"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/15m.jpg",
+    "nazov": "3. december 2018",
+    "autor": "cvc",
+    "datum": "3.12.2018",
+    "text": [
+      "My už tiež ladíme na Vianoce. Dnes sme mali takýto krásny sviatočný Piloxing.",
+      "Aj Gazdinky vyrábali Mikulášske občerstvenie.",
+      "Aj na Bábkovom divadle bolo &quot;Mikulášovo&quot;."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2008270975917305/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/posts/2008270592584010?__xts__[0]=68.ARAxgKT0VG-4USs0sQOySGPSi7165fJvEojhFvZOBWcL13Md8idlbz6PL4Y7jqB6eHy6jetkm-sbIysXjvnEotkOae3-4cT3eJ34JMa1Z1bBoehKczV5uGf1IvoW12gI2D7uQd_2okPB5VDvTxyY16pigiU7F-bQW3t4V5V3cuMh5goe2GScZGUuDFAbuM9g91LbvZiHaIc2qKzNJ2lr0kl7mDxn_6LdmbiTOZixfYFHNydSaAzpRDwrNS5CJpUHVEB2RpJnCeBPPEGdU6PFkw-tRWLFqJfGq423pv9jYR4Q673OxNdGlt082VrziRD8I43JRijthsam6ugpcwDWsdC8gw&__tn__=-R",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2008250532586016&__xts__%5B0%5D=68.ARBZ4C5rztkm71Pu9-tPgSKk9l5QJZGkS6VxFzsdTMrUs5a6fTubiG4qDC5zQ-Vz1638d09_iCqIHeutcMONrdms_POgUOVx1AG2kRh44UDEkn9ZJKqQ8lUQuyPxJ-_YwosaVc3kzh-Ob1IQ5XHLPaFQitsJY-PJ8O9su6dsH1UEBq5aGQCthL6k5i95M4cC0fmZd0XNlFYyJveh7vsO6ncmlDO2GwKGaaNZ6pgx4RiS10e8soWD55IWkTx4_msjXooKDhHooG_telKvaaXhI6ez_x0KAvEaEDrpbkFLItPQEauv_B1v4VAAVED2uUSXF0syQjWEntXNjFCE6X2SWXWDQ-YuH01mD-UJ80r553WzWWUq1nNvXYU6PiJKGcVf-tzL1ytjk_uW42y10bE8yqFbQEiUWy6Ksw2iPu85SXeZu1Fkmbb5Rp7FCKRqhKE4m8aCzh32vvguGzsq0voy&__tn__=-UC-R"
+    ]
+  },
+  {
+    "obrazok": "cvrcek.png",
+    "nazov": "Narodeniny",
+    "autor": "mt",
+    "datum": "1.12.2018",
+    "text": [
+      "Dnes je to 54. rokov, keď 1. decembra 1964 v našom meste založili Dom pionierov. A tak náš CVrČek dnes oslavuje narodeniny. My mu želáme skvelých a zanietených vychovávateľov, šťastné a spokojné deti a rodičov, priateľov, ktorí ho budú podporovať a pomáhať mu, vždy dostatok financií, odvahy, elánu a spokojnosti. &quot;Živio!&quot;"
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2003465359731200/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/8m.jpg",
+    "nazov": "30. november 2018",
+    "autor": "cvc",
+    "datum": "30.11.2018",
+    "text": [
+      "Šikovné bábkoherečky dnes zahrali svoje divadielko o Vlkovi a kozliatku pred obecenstvom. To tvorili všetky deti, ktoré mali popoludní krúžok. Divadielko sa divákom veľmi páčilo a tak boli všetci spokojní. Na záver sa spolu zahrali na pódiu.",
+      "Aj na krúžku Moderné dievčatá sa tvorilo a začalo s prípravami na Vianoce. Krásne Vianočné ikebany potešili malých aj veľkých.",
+      "Piatkový deň patrí aj experimentovaniu. Dnes, 30.11.2019 mali Malí vedci veľkú radosť. Namiesto jedného pokusu ich čakali dva. Experimenty sa nám podarili a tak sme úspešne vyčistili naše staré mince a podarilo sa nám vyhotoviť aj zelený bublajúci odvar.",
+      "Hop sem, hop tam .... piatkový deň sme ukončili pohybovými aktivitami na zlepšenie kondičných a koordinačných schopností detí. Naši najmenší boli veľmi šikovní. Vlastnoručne si vyhotovili aj zaujímavú dráhu na skákanie."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2004006526343750&__xts__%5B0%5D=68.ARB5KnKfryslMZwT6GPYl0_5vfFZbL6_QTDFMeU0HGZGkZlXUSn2AphHY3b4msixXnU37S_h4cbpKoOPhb8STCmM4iXSYzSULk7Q5kMmUYNjU80Eu1yi2z8QJWvoQVpOls9pkhUnqkwGSU9QpA0lNBdCclltE4PYlNSFSNjhyD0WlvWTRdEZlqe7hkcFGjEioAWgwGDguH0PsCNfR7NcJjjE8idgRFYaxGEgiAlC-0X8JH4XSQxencgH3wLGFEqCRZJRnmus6TpRUxr7Ur1xfD7vAwtRpuhR-ECwIahLiOeAsMXa_tC75bj5aYVcfUyOirPFw8pGY4g1Uq01b-982BBjHW_1jArFSsINeYB6n-kn8zchUTaiNRk8U7YIEjnq5j_zUwKMicqfO7mCPrO4EvkBH7ufRBgwKUDBi13U8ixjb2zwu1FA_cd7wp-XE_RuDOcEWIuXWImtb3GwWGiW&__tn__=-UC-R",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2003991723011897&__xts__%5B0%5D=68.ARCdCD4f1MaE8QNIOeryhN3bIrct1tGqy9c41RKpjVMgqQUmGMzgXROkLVdWPSEvsbywWVWybU5Oaa3SRNPkt4I6yo1Fj2Ze9i3QmIH3U9UaaZ4gcNHf96ky6aYpeihHUkeeWkq8MQgq6CMMLMGBUbOLiEov1zPhOaGgDJvwBVpuy4du04C-8XNTBFljaomqwz4jEExKb5Dg1C7dp_T2Zb3iywfd87kd5QjiLmAX4WoRx1sJHgDof0lz0pYbsHTe6yRqfq6CjUk78m9X8Fzq_x135ozjSSCd5S2hvot3FC4aJDEgcCfROznHFLjQD8uTCajQm_yQX5KFSZJKN-NYBi9s5nB_f048b3SasM_javYdfy0KPK5FwWa0_Kp6-I0MtSNo-4MdP2ozZbxVhWUwMFQgIoZlXhaKoxtCJNjS1GMOFETdP92v6VKSLAAghuMXLzlXWoAko5dlU6ihoPdj&__tn__=-UC-R",
+      "https://www.facebook.com/cvcmoldava/posts/2003856179692118?__xts__[0]=68.ARDNrBFRRi81_3KeqxS70TdXMZxLKCpZUZ9_RC9hEMjHMJFcaMzOu2-lZaYJzzmVH-teg631rUSy5cKejOgJP4gwS52hR9j2qT9uwA55dH-XIE79ee41f4n3X98Xo3jLymoc60gZyTBzYGuNgQ_TSLaJjSZA4E3Wm9AkyyQvS7Msdql434lDOTYGnOG9RJNBrKQypZLZsniaEb3v4K4-1Lg8SfK9WgJJv9JMy60N6hVp_gfKFD-ZTmPnafXdqzDS8HKiGn79fMsuJyjPBVhgpVSezZd0cUIbBzNXRcasDOHhc80jN6csgnGnbxRTkkEw1lYY-e_2inNP0jKI_FEn0eJdUA&__tn__=-R",
+      "https://www.facebook.com/cvcmoldava/posts/2003852939692442?__xts__[0]=68.ARBtAj9u2baqZwFYxqn9c4Q5wPt0DNlQQLKxoFM_BlLFh3zNftD6hdvPid-mr5brLxNpF8H9l49CsE306Usy59dN6KNcGWiRAf1k1Rx_JVfDWhU61MDNAn2jDYzkDIQYwYCsXi9F5lhDkP43lDH6AHIiSp2AtXGEghyctsNPYjH2WAjeeH2D_rdSq5n7zvuYYZaoK4n4zab6qGso57ulctAzbu2sXOBQdMXpu2KOrCNq4dRYqI6Az8heiVaZzCLJvWXyHOIgx441ttm_YjVdJjnkEvXmTLJO7vLW63dUAffvmVOofw08vz_sIB67p3bMhver4EmkKuNgqKrnspEjFCzGOw&__tn__=-R"
+    ]
+  },
+  {
+    "obrazok": "kniha1.gif",
+    "nazov": "Cvrlikanie 4",
+    "autor": "mt",
+    "datum": "30.11.2018",
+    "text": [
+      "Žiaci zo ZŠ s VJM boli dnes predpoludním u nás na Cvrlikaní na tému &quot;Motivácia ku vzdelaniu&quot;. V rámci aktivity si pozreli filmy, ktoré natočila organizácia &quot;Človek v tiesni&quot; v neďalekých Kecerovciach. Filmy s názvom &quot;Ži svoj sen&quot; a &quot;Denisa a jej diabli&quot;, nahrali rómski herci a námet čerpajú priamo zo života Rómov."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/pcb.1963836407027429/1963835283694208/?type=3&theater",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2003465359731200/?type=3&theater"
+    ]
+  },
+  {
+    "obrazok": "../najcvrcek/17m.jpg",
+    "nazov": "29. november 2018",
+    "autor": "cvc",
+    "datum": "29.11.2018",
+    "text": [
+      "Niekoľko fotografií zo záujmového útvaru Volejbal.",
+      "Aj tento štvrtok, 29. novembra 2018, si boli deti zo záujmového krúžku Plávanie zaplávať v Šaci."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2003783803032689&__xts__%5B0%5D=68.ARBi1DcJe_hsB61SL7XZupJpOJxicsf5ZMwkrdJ3z1TtwBpn0mcCgbSfOQB3Dm2DCa755bji-TTZTyvWs5p-ztfJfQTjTUpHL3USeRI6EHqMux0dWWS0gW57F0NSNNUwDGC6gLhXLbV4Vx3SSqS-TAyXcvCtnegd0cs7Qqqp09II3-OQIUPDjHJpAPYgPqGFX2qgwIaFDWgvpAB5KI549gAUwFW-lKhoOUW9B5dspkSEUcIyshCMbbt2NJpgq8z8tWNJ2_wfkEHMuvIYExOcRAmRkAvTXO035qFpVeKBMcwg9Mcc-v0izan8vEEf-fvx9AxubZXxdyGc4hUi944TQ54F92uPdhznk3cAA5NNSqDX2-CNGF2SC3OXvOvfL8EZZpJgPotq9ooaNP0qJG8aC07vXxwMZe_KKIEZOXJ6_OyI7PUERqh28yuk4B5uebdz6nXOmPnypq5_TcD_SUCZnJCckrbtl1h5kJtywwoJg3qdzONYfbaAt2NwZyPeKaADB7V7FMkBWZwbkWQlhrm65lwLimXEL3PjHzYytbPsgQ&__tn__=-UC-R",
+      "https://www.facebook.com/cvcmoldava/posts/2003782913032778?__xts__[0]=68.ARDi0bEKkExUPnhoqnMO3CAi00Tj_llyM8MJk5TqSnB-ERDTslfZDYeK9yhRIcRT2qpcvZfEfDL2RtQoqn2m2JDORkGcjh6oRFa2GDkFBVIS6gB-7Wl4m9cZWZ-uSg_OYddRuEi7RxqscgSgBnCFroJlydPINewUCODUrpgEDEd1IXFj3lM6WGIorCQ73Hpn9Mqm7JD2Pwl5_mbgrY57JAogBcisbzjPApRzM-ReVMM1yBgYVl_iVZ8lTqXgmjPyk5igVDF7o3S872X6rt1c9CdJ0MNmM4rLcffz8DAje5VnX9snArlFYO4xsLyiZzaFcqqgRp03wlyihHHNoooof_lE0w&__tn__=-R"
+    ]
+  },
+  
+  {
     "obrazok": "../najcvrcek/14m.jpg",
     "nazov": "12. január 2018",
     "autor": "cvc",
     "datum": "12.1.2018",
-    "text": [ "Dievčatá si na minulom stretnutí vybrali z knižnice knižku, rozprávku a dnes prezentovali scenár k svojej scénke, s ktorou vystúpia v júni pred svojimi rodičmi. Hlavnou scenáristkou je naša Lili. To sú novinky z Bábkového divadla 3.", "Dynamická hudba, rýchle nohy a perfektná nálada, to je to, čo spája našich brejkerov.", "Pozrite si stolných tenistov v akcii.", "Moderné dievčatá vyrábali krásne šperkovničky.", "Pozrite si fotografie :-)" ]
+    "text": [
+      "Dievčatá si na minulom stretnutí vybrali z knižnice knižku, rozprávku a dnes prezentovali scenár k svojej scénke, s ktorou vystúpia v júni pred svojimi rodičmi. Hlavnou scenáristkou je naša Lili. To sú novinky z Bábkového divadla 3.",
+      "Dynamická hudba, rýchle nohy a perfektná nálada, to je to, čo spája našich brejkerov.",
+      "Pozrite si stolných tenistov v akcii.",
+      "Moderné dievčatá vyrábali krásne šperkovničky.",
+      "Pozrite si fotografie :-)"
+    ]
   },
   {
-    "id": 7,
     "obrazok": "../najcvrcek/13m.jpg",
     "nazov": "11. január 2018",
     "autor": "cvc",
     "datum": "11.1.2018",
-    "text": [ "Chlapci z Graffiti sa dnes venovali abstraktnému umeniu a veľmi sa im to páčilo.", "Prinášame vám zábery z gymnastivkých záujmových útvarov z celého týždňa." ],
-    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1534357313308676", "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1534363383308069/?type=3&theater" ]
+    "text": [
+      "Chlapci z Graffiti sa dnes venovali abstraktnému umeniu a veľmi sa im to páčilo.",
+      "Prinášame vám zábery z gymnastivkých záujmových útvarov z celého týždňa."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1534357313308676",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1534363383308069/?type=3&theater"
+    ]
   },
   {
-    "id": 6,
     "obrazok": "../najcvrcek/17m.jpg",
     "nazov": "10. január 2018",
     "autor": "cvc",
     "datum": "10.1.2018",
-    "text": [ "Pozrite si, ako nacvičovali prvýkrát v roku 2018 naše usmiate Mažoretky.", "Parlamentáci už vedia, že koncom mesiaca nás čaká jedna úžasná Fašiangová párty a preto sa na ňu už aj smelo chystajú. Onedlho Vám o spomínanej Fašiangovej zábave prezradíme všetky potrebné informácie. Sledujte pozorne našu stránku.", "Dnes, 10. januára 2018, sme na Montessori tvorili prvýkrát po zimných prázdninách. Spolupracovať a byť ohľaduplný voči druhým je krásna vec a preto sme tvorili jeden veľký plagát všetci spolu. Na našich kresbách môžete vidieť naše zážitky z predošlých dvoch týždňoch, čiže z Vianočných prázdnin.", "V novom roku šťastia veľa, náš kominárik vám všetkým želá. Rozkošné &quot;zapichovátka&quot; - kominárikov vytvorili šikovné ruky Dielničkárov 10. januára 2018. PS: Dnes fotografovali aj Vanda, Dávid a Noémi." ],
-    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1533546133389794", "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1533590820051992", "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1533594990051575/?type=3&theater", "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1533598056717935" ]
+    "text": [
+      "Pozrite si, ako nacvičovali prvýkrát v roku 2018 naše usmiate Mažoretky.",
+      "Parlamentáci už vedia, že koncom mesiaca nás čaká jedna úžasná Fašiangová párty a preto sa na ňu už aj smelo chystajú. Onedlho Vám o spomínanej Fašiangovej zábave prezradíme všetky potrebné informácie. Sledujte pozorne našu stránku.",
+      "Dnes, 10. januára 2018, sme na Montessori tvorili prvýkrát po zimných prázdninách. Spolupracovať a byť ohľaduplný voči druhým je krásna vec a preto sme tvorili jeden veľký plagát všetci spolu. Na našich kresbách môžete vidieť naše zážitky z predošlých dvoch týždňoch, čiže z Vianočných prázdnin.",
+      "V novom roku šťastia veľa, náš kominárik vám všetkým želá. Rozkošné &quot;zapichovátka&quot; - kominárikov vytvorili šikovné ruky Dielničkárov 10. januára 2018. PS: Dnes fotografovali aj Vanda, Dávid a Noémi."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1533546133389794",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1533590820051992",
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1533594990051575/?type=3&theater",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1533598056717935"
+    ]
   },
   {
-    "id": 5,
     "obrazok": "florbal.jpg",
     "nazov": "Flórbal",
     "autor": "cvc",
-    "text": [ "Pre každé dieťa existuje vhodný šport. Potrebuje len správnu motiváciu. Naši Florbalisti sú toho dôkazom." ],
-    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1532333293511078" ]
+    "text": [
+      "Pre každé dieťa existuje vhodný šport. Potrebuje len správnu motiváciu. Naši Florbalisti sú toho dôkazom."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1532333293511078"
+    ]
   },
   {
-    "id": 4,
     "obrazok": "../najcvrcek/16m.jpg",
     "nazov": "8. január 2018",
     "autor": "cvc",
     "datum": "8.1.2018",
-    "text": [ "Gazdinky odštartovali rok sladučko a chutne.", "V Novom roku nová členka, nová pesnička, nové cviky a nová sila. O tom si spievame aj v našej novej pesničke, na ktorú cvičíme piloxing &quot;I've got the power&quot;. Ostalo nám niečo ale aj z predošlého roku, a to radosť z cvičenia a skvelá partia šikovných dievčatiek." ],
-    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1531654213578986/?type=3&theater", "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1531660286911712" ]
+    "text": [
+      "Gazdinky odštartovali rok sladučko a chutne.",
+      "V Novom roku nová členka, nová pesnička, nové cviky a nová sila. O tom si spievame aj v našej novej pesničke, na ktorú cvičíme piloxing &quot;I've got the power&quot;. Ostalo nám niečo ale aj z predošlého roku, a to radosť z cvičenia a skvelá partia šikovných dievčatiek."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1531654213578986/?type=3&theater",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1531660286911712"
+    ]
   },
   {
-    "id": 3,
     "obrazok": "zima1.gif",
     "nazov": "Zimné CVrČkoviny - 5.1.2018",
     "autor": "cvc",
     "datum": "5.1.2018",
-    "text": [ "&quot;Pohyb ako dar&quot;, takto znelo naše dnešné motto. Skvelo sme si zacvičili a tak úspešne odštartovali našu pohybovú činnosť v roku 2018." ],
-    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1513026485441759", "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1528195310591543" ]
+    "text": [
+      "&quot;Pohyb ako dar&quot;, takto znelo naše dnešné motto. Skvelo sme si zacvičili a tak úspešne odštartovali našu pohybovú činnosť v roku 2018."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1513026485441759",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1528195310591543"
+    ]
   },
   {
-    "id": 2,
     "obrazok": "zima1.gif",
     "nazov": "Zimné CVrČkoviny - 4.1.2018",
     "autor": "cvc",
     "datum": "4.1.2018",
-    "text": [ "Hľadanie pokladu (pre deti ZŠ) - Tvoje srdce je tam, kde je tvoj poklad. Musíš ho nájsť, lebo len tak bude mať zmysel všetko, čo si cestou zažil. Dnes, 3. januára 2018, sme našli poklady aj my, deti z CVrČka a potom sme ich pozbierali do truhlice.", "Tancujúce nôžky (pre deti MŠ) - Na svoje si prišli aj naše malé poklady, detičky z Tancujúcich nôžok. Neodučené stretnutia si dnes dosýta vynahradili." ],
-    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1513026485441759", "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1527230760687998", "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1527241097353631" ]
+    "text": [
+      "Hľadanie pokladu (pre deti ZŠ) - Tvoje srdce je tam, kde je tvoj poklad. Musíš ho nájsť, lebo len tak bude mať zmysel všetko, čo si cestou zažil. Dnes, 3. januára 2018, sme našli poklady aj my, deti z CVrČka a potom sme ich pozbierali do truhlice.",
+      "Tancujúce nôžky (pre deti MŠ) - Na svoje si prišli aj naše malé poklady, detičky z Tancujúcich nôžok. Neodučené stretnutia si dnes dosýta vynahradili."
+    ],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1513026485441759",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1527230760687998",
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=1527241097353631"
+    ]
   },
   {
-    "id": 1,
     "obrazok": "2018.jpg",
     "nazov": "PF 2018",
     "autor": "mt",
     "datum": "1.1.2018",
-    "text": [ "Dnes na liste v kalendári, prvý deň je v januári.", "Všetkým, ktorých CVrČek rád má,<br />zopár želaní zasiela.<br />Nech ste zdraví, stále šťastní,<br />nech Nový rok je prekrásny.", "Teta Marika, Katka, Diana a ujo Lóri." ],
-    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1523495124394895/?type=3&theater" ]
+    "text": [
+      "Dnes na liste v kalendári, prvý deň je v januári.",
+      "Všetkým, ktorých CVrČek rád má,<br />zopár želaní zasiela.<br />Nech ste zdraví, stále šťastní,<br />nech Nový rok je prekrásny.",
+      "Teta Marika, Katka, Diana a ujo Lóri."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/photos/a.167329870011434.39694.159482424129512/1523495124394895/?type=3&theater"
+    ]
   }
 ]

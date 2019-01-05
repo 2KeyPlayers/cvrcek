@@ -202,6 +202,10 @@ span.icon {
   padding-bottom: 1em;
 }
 
+.ui.cvrckoviny.items > .item span.datum {
+  text-transform: uppercase;
+  cursor: pointer;
+}
 .ui.cvrckoviny.items > .item:hover span.datum, .touch .ui.cvrckoviny.items > .item span.datum {
   color: #00b5ad;
 }
@@ -433,18 +437,14 @@ div.margined, .ui.margined.cards {
     font-size: 2em;
   }
 
-  /* .ui.cards .dummy.card {
-    display: none;
-  } */
-
 }
 
 @media only screen and (max-width:767px) {
 
-  .centrummm, .pocettt {
+  .centrummm {
     color: #00b5ad !important;
   }
-  .volnehooo {
+  .volnehooo, .pocettt {
     color: #b5cc18 !important;
   }
   .casuuu {
@@ -517,4 +517,5 @@ div.margined, .ui.margined.cards {
   .ui.cards > .card > .content {
     padding: .3em
   }
+
 }

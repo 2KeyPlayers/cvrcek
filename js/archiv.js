@@ -6,6 +6,7 @@ Vue.component('cvrckovina', {
       <div class="header" v-html="data.nazov"></div>
       <div class="meta">
         <span class="datum" v-if="data.datum"><i class="calendar icon"></i> {{ data.datum }}</span>
+        <span class="datum" v-else><i class="info circle icon"></i> {{ data.typ ? data.typ : 'Oznam' }}</span>
         <span class="autor"><a v-bind:href="linkAutora(data.autor)"><i class="user icon"></i> {{ menoAutora(data.autor) }}</a></span>
         <span class="fotka" v-for="fotka in data.fotky"><a v-bind:href="fotka"><i class="camera icon"></i></a></span>
         <span class="priloha" v-for="priloha in data.prilohy"><a v-bind:href="priloha"><i class="paperclip icon"></i></a></span>

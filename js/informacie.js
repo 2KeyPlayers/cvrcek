@@ -13,7 +13,7 @@ Vue.component('zamestnanec', {
       <i class="graduation cap icon"></i> Kredity: {{ zratajKredity(udaje.kredity) }}
     </div>
     <div class="extra content" v-else>
-      <i class="graduation cap icon"></i> Kredity: 0</a>
+      <i class="graduation cap icon"></i> Kredity: -</a>
     </div>
   </div>`,
   // data: function() {

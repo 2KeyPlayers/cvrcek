@@ -5,7 +5,8 @@ Vue.component('cvrckovina', {
     <div class="content">
       <div class="header" v-html="data.nazov"></div>
       <div class="meta">
-        <span class="datum" v-if="data.datum"><i class="calendar alternate icon"></i> {{ data.datum }}</span>
+        <span class="datum" v-if="data.datum" v-bind:data-tooltip="textDatumu(data.datum)"><i v-bind:class="ikonaDatumu(data.datum)"></i> {{ data.datum }}</span>
+        <span class="datum" v-else><i class="info circle icon"></i> {{ data.typ ? data.typ : 'Oznam' }}</span>
         <span class="autor"><a v-bind:href="linkAutora(data.autor)"><i class="user icon"></i> {{ menoAutora(data.autor) }}</a></span>
         <span class="fotka" v-for="fotka in data.fotky"><a v-bind:href="fotka"><i class="camera icon"></i></a></span>
         <span class="priloha" v-for="priloha in data.prilohy"><a v-bind:href="priloha"><i class="paperclip icon"></i></a></span>
@@ -20,6 +21,33 @@ Vue.component('cvrckovina', {
   methods: {
     obrazok: function (obrazok) {
       return 'obrazky/aktuality/' + obrazok;
+    },
+    porovnajDatum: function (datum) {
+      let pole = datum.split('.');
+      let den = pole[0].padStart(2, '0');
+      let mesiac = pole[1].padStart(2, '0');
+      let rok = pole[2];
+      let d = new Date(`${rok}-${mesiac}-${den}T00:00:00`);
+      let dnes = new Date();
+      dnes.setHours(0, 0, 0, 0);
+      if (dnes.getTime() > d.getTime()) {
+        return true;
+      }
+      return false;
+    },
+    ikonaDatumu: function (datum) {
+      let ikona = 'alternate';
+      if (this.porovnajDatum(datum)) {
+        ikona = 'check';
+      }
+      return 'calendar ' + ikona + ' icon';
+    },
+    textDatumu: function (datum) {
+      let text = 'Pripravovaná';
+      if (this.porovnajDatum(datum)) {
+        text = 'Uskutočnená';
+      }
+      return text;
     },
     linkAutora: function (autor) {
       if (!autor || autor == 'cvc') {
