@@ -1,6 +1,6 @@
 Vue.component('kruzok', {
   props: ['data'],
-  template: `<div class="card" v-bind:data-html="casMiesto(data.kedyKde)">
+  template: `<div class="card">
     <div class="content">
       <div class="header">{{ data.nazov }}</div>
       <div class="description">
@@ -9,8 +9,20 @@ Vue.component('kruzok', {
         </div>
       </div>
     </div>
+    <div class="center aligned cinnost extra content" v-on:click="zobrazDetaily()">
+      <p v-show="detaily" v-html="casMiesto(data.kedyKde)" class="left aligned"></p>  
+      <i v-bind:class="'chevron ' + (detaily ? 'up' : 'down') + ' icon'"></i>
+    </div>
   </div>`,
+  data: function() {
+    return {
+      detaily: false
+    }
+  },
   methods: {
+    zobrazDetaily: function () {
+      this.detaily = !this.detaily;
+    },
     casMiesto: function (kedyKde) {
       return kedyKde.join('<br />');
     },

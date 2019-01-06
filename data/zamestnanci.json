@@ -90,13 +90,15 @@
     "id": "rm",
     "prezyvka": "Teta Radka",
     "meno": "Radka Maňovská",
-    "pozicia": "vychovávateľka"
+    "pozicia": "vychovávateľka",
+    "kredity": []
   },
   {
     "id": "np",
     "prezyvka": "Ujo Norbi",
     "meno": "Bc. Norbet Pecze",
-    "pozicia": "vychovávateľ"
+    "pozicia": "vychovávateľ",
+    "kredity": []
   },
   {
     "id": "mh",
@@ -116,13 +118,6 @@
     "prezyvka": "Teta Marcela",
     "meno": "Mgr. Marcela Štarková",
     "pozicia": "vedúca záujmového útvaru Poľovníček",
-    "ext": 1
-  },
-  {
-    "id": "mn",
-    "prezyvka": "Teta Mia",
-    "meno": "Bc. Milena Nográdi",
-    "pozicia": "vedúca záujmového útvaru Folklórny súbor CVrČek",
     "ext": 1
   },
   {

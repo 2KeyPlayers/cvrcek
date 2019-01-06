@@ -13,14 +13,9 @@ Vue.component('zamestnanec', {
       <i class="graduation cap icon"></i> Kredity: {{ zratajKredity(udaje.kredity) }}
     </div>
     <div class="extra content" v-else>
-      <i class="graduation cap icon"></i> Kredity: -</a>
+      &nbsp;
     </div>
   </div>`,
-  // data: function() {
-  //   return {
-  //     pocetKreditov: 0
-  //   }
-  // },
   methods: {
     obrazok: function (id) {
       return 'obrazky/zamestnanci/' + id + '.svg';

@@ -322,7 +322,7 @@ div.margined, .ui.margined.cards {
 .ui.card>.extra a:not(.ui):hover, .ui.cards>.card>.extra a:not(.ui):hover {
   color: rgba(0,0,0,.68);
 }
-.kredity.extra.content {
+.kredity.extra.content, .cinnost.extra.content {
   cursor: pointer;
 }
 

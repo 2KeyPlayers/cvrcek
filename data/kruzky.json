@@ -12,7 +12,7 @@
   {
     "nazov": "Bábkové divadlo",
     "veduci": "mt",
-    "kedyKde": [ "Pondelok 14:00, Bábkovňa", "Utorok 14:00, Bábkovňa", "Piatok 14:00, Bábkovňa" ]
+    "kedyKde": [ "Pondelok 14:00, Bábkovňa", "Utorok 14:00, Bábkovňa" ]
   },
   {
     "nazov": "Break dance",
@@ -48,11 +48,6 @@
     "nazov": "Flórbal",
     "veduci": "np",
     "kedyKde": [ "Pondelok 16:00, Telocvičňa ZŠ ČSA" ]
-  },
-  {
-    "nazov": "Folklórny súbor Cvrček",
-    "veduci": "mn",
-    "kedyKde": [ "Utorok 16:00, Bábkovňa" ]
   },
   {
     "nazov": "Gazdinky",
