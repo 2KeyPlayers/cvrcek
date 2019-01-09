@@ -82,7 +82,7 @@ Vue.component('cvrckovina', {
       } else if (autor == 'jh') {
         return 'Ujo Jano';
       } else {
-        return '???';
+        return 'CVČ';
       }
     }
   }
@@ -116,17 +116,46 @@ var app = new Vue({
         self.nahravam = false;
       }, pauza);
     }
+  },
+  mounted: function() {
+    $.getJSON('/data/cvrckoviny.json', function (json) {
+      app.najnovsie = json;
+      // remove last 'template' item
+      app.najnovsie.shift();
+    
+      if (app.najnovsie.length > 2) {
+        app.starsie = app.najnovsie.splice(2);
+        app.cvrckoviny = [];
+        app.zobrazitDalsie(0);
+      }
+
+      $(document).ready(function () {
+        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+          $('#app').addClass('touch');
+        }
+        $('span.copyright').html('2004-' + new Date().getFullYear());
+        
+        var href = window.location.href;
+        var url = new URL(href);
+        var id = url.searchParams.get("id");
+        if (id && $('#' + id)) {
+          $('html, body').animate({
+            scrollTop: parseInt($('#' + id).offset().top)
+          });
+        }
+      });
+    });
   }
 })
 
-$.getJSON('/data/cvrckoviny.json', function (json) {
-  app.najnovsie = json;
-  // remove last 'template' item
-  app.najnovsie.shift();
+// $.getJSON('/data/cvrckoviny.json', function (json) {
+//   app.najnovsie = json;
+//   // remove last 'template' item
+//   app.najnovsie.shift();
 
-  if (app.najnovsie.length > 2) {
-    app.starsie = app.najnovsie.splice(2);
-    app.cvrckoviny = [];
-    app.zobrazitDalsie(0);
-  }
-});
+//   if (app.najnovsie.length > 2) {
+//     app.starsie = app.najnovsie.splice(2);
+//     app.cvrckoviny = [];
+//     app.zobrazitDalsie(0);
+//   }
+// });

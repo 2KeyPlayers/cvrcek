@@ -54,7 +54,7 @@ Vue.component('cvrckovina', {
       } else if (autor == 'jh') {
         return 'Ujo Jano';
       } else {
-        return '???';
+        return 'CVČ';
       }
     }
   }
@@ -69,7 +69,8 @@ var app = new Vue({
     zobrazene: 0,
     pocet: 5,
     dalsie: false,
-    nahravam: false
+    nahravam: false,
+    rok: null
   },
   methods: {
     prazdnePole: function (pole) {
@@ -88,15 +89,49 @@ var app = new Vue({
         self.nahravam = false;
       }, pauza);
     }
+  },
+  mounted: function() {
+    var href = window.location.href;
+    var url = new URL(href);
+
+    this.rok = url.searchParams.get("rok");
+    if (!this.rok) {
+      this.rok = '2018';
+    }
+    $.getJSON('/data/archiv/archiv' + this.rok + '.json', function (json) {
+      app.najnovsie = json;
+    
+      if (app.najnovsie.length > 2) {
+        app.starsie = app.najnovsie.splice(2);
+        app.cvrckoviny = [];
+        app.zobrazitDalsie(0);
+      }
+
+      $(document).ready(function () {
+        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+          $('#app').addClass('touch');
+        }
+        $('span.copyright').html('2004-' + new Date().getFullYear());
+        
+        // var href = window.location.href;
+        // var url = new URL(href);
+        var id = url.searchParams.get("id");
+        if (id && $('#' + id)) {
+          $('html, body').animate({
+            scrollTop: parseInt($('#' + id).offset().top)
+          });
+        }
+      });
+    });
   }
 })
 
-$.getJSON('/data/archiv/archiv2018.json', function (json) {
-  app.najnovsie = json;
+// $.getJSON('/data/archiv/archiv2018.json', function (json) {
+//   app.najnovsie = json;
 
-  if (app.najnovsie.length > 2) {
-    app.starsie = app.najnovsie.splice(2);
-    app.cvrckoviny = [];
-    app.zobrazitDalsie(0);
-  }
-});
+//   if (app.najnovsie.length > 2) {
+//     app.starsie = app.najnovsie.splice(2);
+//     app.cvrckoviny = [];
+//     app.zobrazitDalsie(0);
+//   }
+// });

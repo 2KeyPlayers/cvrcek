@@ -55,10 +55,35 @@ var app = new Vue({
       this.zamestnanec = zamestnanec;
       $('.vzdelavanie.modal').modal('show');
     }
+  },
+  mounted: function() {
+    $.getJSON('/data/zamestnanci.json', function (json) {
+      app.interni = json.filter(zamestnanec => (!zamestnanec.ext || zamestnanec.ext != 1));
+      app.externi = json.filter(zamestnanec => (zamestnanec.ext && zamestnanec.ext == 1));
+
+      $(document).ready(function () {
+        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+          $('#app').addClass('touch');
+        }
+        $('span.copyright').html('2004-' + new Date().getFullYear());
+
+        $('.cards .card .content').popup();
+        $('.colors .label').popup();
+      
+        var href = window.location.href;
+        var url = new URL(href);
+        var id = url.searchParams.get("id");
+        if (id && $('#' + id)) {
+          $('html, body').animate({
+            scrollTop: parseInt($('#' + id).offset().top)
+          });
+        }
+      });
+    });
   }
 })
 
-$.getJSON('/data/zamestnanci.json', function (json) {
-  app.interni = json.filter(zamestnanec => (!zamestnanec.ext || zamestnanec.ext != 1));
-  app.externi = json.filter(zamestnanec => (zamestnanec.ext && zamestnanec.ext == 1));
-});
+// $.getJSON('/data/zamestnanci.json', function (json) {
+//   app.interni = json.filter(zamestnanec => (!zamestnanec.ext || zamestnanec.ext != 1));
+//   app.externi = json.filter(zamestnanec => (zamestnanec.ext && zamestnanec.ext == 1));
+// });

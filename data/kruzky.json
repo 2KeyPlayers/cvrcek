@@ -21,7 +21,7 @@
   },
   {
     "nazov": "CVrČkov parlament",
-    "veduci": "kb",
+    "veduci": "rm",
     "kedyKde": [ "Utorok 14:00, Herňa" ]
   },
   {
@@ -45,13 +45,18 @@
     "kedyKde": [ "Piatok 16:00, Herňa" ]
   },
   {
+    "nazov": "Foto - video",
+    "veduci": "rm",
+    "kedyKde": [ "Streda 14:00, Herňa" ]
+  },
+  {
     "nazov": "Flórbal",
     "veduci": "np",
     "kedyKde": [ "Pondelok 16:00, Telocvičňa ZŠ ČSA" ]
   },
   {
     "nazov": "Gazdinky",
-    "veduci": "kb",
+    "veduci": "rm",
     "kedyKde": [ "Pondelok 14:00, Herňa" ]
   },
   {
@@ -61,12 +66,12 @@
   },
   {
     "nazov": "Hip hop",
-    "veduci": "kb",
+    "veduci": "rm",
     "kedyKde": [ "Pondelok 16:00, Bábkovňa", "Štvrtok 14:00, Bábkovňa" ]
   },
   {
     "nazov": "Mažoretky",
-    "veduci": "kb",
+    "veduci": "dd",
     "kedyKde": [ "Streda 14:00, Bábkovňa" ]
   },
   {
@@ -76,7 +81,7 @@
   },
   {
     "nazov": "Moderné dievčatá",
-    "veduci": "kb",
+    "veduci": "rm",
     "kedyKde": [ "Piatok 14:00, Klubovňa" ]
   },
   {
@@ -121,7 +126,7 @@
   },
   {
     "nazov": "Tancujúce nôžky",
-    "veduci": "kb",
+    "veduci": "rm",
     "kedyKde": [ "Streda 16:00, Bábkovňa" ]
   },
   {

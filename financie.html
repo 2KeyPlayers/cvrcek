@@ -39,23 +39,6 @@
   <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
   <!-- production version, optimized for size and speed -->
   <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-
-  <script>
-    $(document).ready(function () {
-
-      $('span.copyright').html('2004-' + new Date().getFullYear());
-
-      var href = window.location.href;
-      var url = new URL(href);
-      var id = url.searchParams.get("id");
-      if (id) {
-        $('html, body').animate({
-          scrollTop: parseInt($('#' + id).offset().top)
-        });
-      }
-
-    });
-  </script>
 </head>
 
 <body>
@@ -314,6 +297,8 @@
       </div>
     </div>
   </div>
+
+  <script src="js/financie.js"></script>
 
 </body>
 

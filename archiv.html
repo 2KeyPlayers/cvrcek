@@ -39,27 +39,6 @@
   <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
   <!-- production version, optimized for size and speed -->
   <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-
-  <script>
-    $(document).ready(function () {
-
-      if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
-        $('#app').addClass('touch');
-      }
-
-      $('span.copyright').html('2004-' + new Date().getFullYear());
-
-      var href = window.location.href;
-      var url = new URL(href);
-      var id = url.searchParams.get("id");
-      if (id) {
-        $('html, body').animate({
-          scrollTop: parseInt($('#' + id).offset().top)
-        });
-      }
-
-    });
-  </script>
 </head>
 
 <body>
@@ -148,7 +127,7 @@
             <a id="najnovsie" name="najnovsie"></a>
             <h4 class="ui horizontal header divider">
               <i class="archive icon"></i>
-              2018
+              {{ rok }}
             </h4>
             <div class="ui unstackable relaxed divided najnovsie cvrckoviny items">
 
@@ -164,17 +143,17 @@
               Roky
             </h4>
             <div class="ui relaxed divided link list">
-              <!-- <a class="cis item" href="/archiv/2018"> -->
-              <div class="active item">
+              <a v-bind:class="(rok == '2018' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2018">
+              <!-- <div class="active item"> -->
                 <div class="ui header">
                   <i class="archive icon"></i>
                   <div class="content">
                     2018
                   </div>
                 </div>
-              </div>
-              <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2017"> -->
+              <!-- </div> -->
+              </a>
+              <!-- <a v-bind:class="(rok == '2017' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2017"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -184,17 +163,17 @@
                 </div>
               </div>
               <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2016"> -->
-              <div class="inactive item">
+              <a v-bind:class="(rok == '2016' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2016">
+              <!-- <div class="inactive item"> -->
                 <div class="ui header">
                   <i class="archive icon"></i>
                   <div class="content">
                     2016
                   </div>
                 </div>
-              </div>
-              <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2015"> -->
+              <!-- </div> -->
+              </a>
+              <!-- <a v-bind:class="(rok == '2015' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2015"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -204,7 +183,7 @@
                 </div>
               </div>
               <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2014"> -->
+              <!-- <a v-bind:class="(rok == '2014' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2014"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -214,7 +193,7 @@
                 </div>
               </div>
               <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2013"> -->
+              <!-- <a v-bind:class="(rok == '2013' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2013"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -224,7 +203,7 @@
                 </div>
               </div>
               <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2012"> -->
+              <!-- <a v-bind:class="(rok == '2012' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2012"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -234,7 +213,7 @@
                 </div>
               </div>
               <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2011"> -->
+              <!-- <a v-bind:class="(rok == '2011' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2011"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -244,7 +223,7 @@
                 </div>
               </div>
               <!-- </a> -->
-              <!-- <a class="cis item" href="/archiv/2010"> -->
+              <!-- <a v-bind:class="(rok == '2010' ? 'active ' : '') + 'rok item'" href="/archiv.html?rok=2010"> -->
               <div class="inactive item">
                 <div class="ui header">
                   <i class="archive icon"></i>
@@ -351,7 +330,7 @@
         <a id="starsie" name="starsie"></a>
         <h4 class="ui horizontal header divider">
           <i class="archive icon"></i>
-          2018
+          {{ rok }}
         </h4>
         <div class="ui unstackable relaxed divided starsie cvrckoviny items">
 

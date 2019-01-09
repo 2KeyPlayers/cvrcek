@@ -11,13 +11,21 @@
     "detaily": [ "" ]
   },
   {
-    "id": 3,
+    "id": 4,
     "obrazok": "medovnik.png",
     "nazov": "Rozprávkový karneval",
     "autor": "dd",
     "datum": "27.1.2019",
     "text": [ "Pripravujte masky, milí priatelia! Pozývame vás na náš CVrČkov karneval, ktorý sa bude konať 27.1.2019 v telocvični ZŠ ČSA v čase od 14:00 do 16:00! Každá vstupenka sa zmení na tombolový lístok! Čaká na Vás veľa zábavy a krásne ceny. Oceníme aj maskované rodinné tímy! Tešíme se na Vás!", " PS: Chceme poprosiť všetkých účastníkov karnevalu, aby NEZABUDLI NA PREZUVKY!!! Ďakujeme!" ],
     "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2055598781184524/?type=3&theater" ]
+  },
+  {
+    "id": 3,
+    "obrazok": "osobneudaje.jpg",
+    "nazov": "Cvrlikanie",
+    "autor": "np",
+    "datum": "25.1.2019",
+    "text": [ "V spolupráci so základnými školami v meste pokračujeme podľa dohodnutého harmonogramu v cyklických podujatiach pod názvom Cvrlikanie - Ochrana osobných údajov pre žiakov 6. ročníkov ZŠ." ]
   },
   {
     "id": 2,

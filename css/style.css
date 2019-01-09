@@ -274,7 +274,10 @@ span.icon {
 .ui.list > .inactive.item .header, .ui.list > .inactive.item .header .icon {
   color: #999999;
 }
-.ui.list > .archiv.item .header, .ui.list > .archiv.item .header .icon {
+.ui.list > .rok.item .header, .ui.list > .rok.item .header .icon {
+  color: rgba(0,0,0,.87) !important;
+}
+.ui.list > .active.rok.item .header, .ui.list > .active.rok.item .header .icon {
   color: #f2711c !important;
 }
 .ui.list > a.item .header .sub.header {
