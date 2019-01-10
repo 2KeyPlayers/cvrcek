@@ -1,0 +1,719 @@
+[
+  {
+    "id": 66,
+    "obrazok": "15reds.jpg",
+    "nazov": "Snookerový turnaj",
+    "autor": "pt",
+    "datum": "30.12.2010",
+    "text": [
+      "S rokom 2010 sa bilošisti rozlúčili snookerovým turnajom. Pri účasti 12 hráčov si poslednú tohtoročnútrofej vybojoval Gabriel Katrenič."
+    ]
+  },
+  {
+    "id": 65,
+    "obrazok": "10kral.jpg",
+    "nazov": "Kráľ v hre č. 10",
+    "autor": "mt",
+    "datum": "28.12.2010",
+    "text": [
+      "Mestská biliardová liga v hre č. 10 má aj v tomto roku svojho kráľa. Stal sa ním Patrik Tóth, ktorý zdolal brata Mareka.Viac informácií nájdete na stránkach Biloš ligy."
+    ]
+  },
+  {
+    "id": 64,
+    "obrazok": "darcek.jpg",
+    "nazov": "Vianočný darček pre CVrČka",
+    "autor": "mt",
+    "datum": "24.12.2010",
+    "text": [
+      "Peknou tradíciou vianočných sviatkov je dávanie darčekov. Na minulé Vianoce dostal CVrČeknovú internetovú stránku a tento rok prekvapenie v podobe banner-a od dobrovoľníka Peťa. Touto cestou CVrČekďakuje všetkým svojim priaznivcom za pomoc a podporu počas celého roka 2010 a praje štastné Vianoce a úspešnýNový rok 2011."
+    ]
+  },
+  {
+    "id": 63,
+    "obrazok": "vlocka.jpg",
+    "nazov": "Vianočná diskotéka",
+    "autor": "aj",
+    "datum": "20.12.2010",
+    "text": [
+      "Veľa detí, výborná diskomuzika, tanečné kreácie vhodné dohociktorého zahraničného hudobného klipu. K tomu radosť z výhier v tombole, výborná nálada a spoločnosť dobrých kamarátov. Taktakáto skvelá atmosféra vládla v diskoklube Twister 20. decembra 2010 na tradičnej predvianočnej diskotéke."
+    ]
+  },
+  {
+    "id": 62,
+    "obrazok": "maminy.jpg",
+    "nazov": "Maminy",
+    "autor": "aj",
+    "datum": "16.12.2010",
+    "text": [
+      "... a tak sa nám zvianočnieva. 15. decembra 2010 sa v klube Maminy zhotovovali vianočné ikebany,ktoré budú počas celých sviatkov krášliť domovy a spríjemňovať vianočnú atmosféru."
+    ],
+    "fotky": ["obrazky/foto/maminy/49.jpg"]
+  },
+  {
+    "id": 61,
+    "obrazok": "koleda.jpg",
+    "nazov": "Vianočná koleda",
+    "autor": "aj",
+    "datum": "14.12.2010",
+    "text": [
+      "Prekrásny adventný večer prežili všetci účastníci Vianočnej koledy – 100 účinkujúcichaj 200 divákov 13. decembra 2010. Takmer dve hodiny trvajúce pásmo vianočných kolied, príbehov, najznámejších skladiebpopretkávaných rôznymi tanečnými kreáciami si v tomto predvianočnom čase mohli vychutnať rodinní príslušnícia všetci priatelia CVrČka, ktorí sa po prvýkrát stretli na takomto podujatí v sále MsKS, ktorá svojou kapacitouumožnila prítomnosť všetkých záujemcov o naše vystúpenie. Záverečný neutíchajúci potlesk bol pre nás všetkých,ktorí sme sa na programe podieľali, odmenou ale aj výzvou k rovnakej tvorivej aktivite aj v nastávajúcom kalendárnom roku."
+    ],
+    "fotky": ["obrazky/foto/koleda/1.jpg"]
+  },
+  {
+    "id": 60,
+    "obrazok": "basket.jpg",
+    "nazov": "Basketbal",
+    "autor": "ei",
+    "datum": "8.12.2010",
+    "text": [
+      "CVrČek hľadá ďalších členov do svojho basketbalového záujmového útvaru. Ak sapotrebuješ uprostred týždňa rozhýbať a odlepiť od počítača, príď do telocvične ZŠ na Severnej ulicikaždú stredu od 16:30."
+    ]
+  },
+  {
+    "id": 59,
+    "obrazok": "enviro2010.jpg",
+    "nazov": "EnviroCVrČek",
+    "autor": "mt",
+    "datum": "8.12.2010",
+    "text": [
+      "Pre deti zo 4. ročníkov zo ZŠ na Ulici ČSA sa 8. decembra uskutočnila enviro prednáška pod názvom Prečo je na Zemi dobre žiť.Zúčastnilo sa jej vyše 65 detí."
+    ]
+  },
+  {
+    "id": 58,
+    "obrazok": "gula.jpg",
+    "nazov": "Vystúpenie",
+    "autor": "lb",
+    "datum": "6.12.2010",
+    "text": [
+      "Deti zo záujmového útvaru Hopnôžka, ktorý pracuje pri MŠ v Drienovciach,absolvovali 3. decembra 2010 a 6. decembra 2010 vystúpenia, ktorými urobili radosť svojimrodičom a tiež starkým v penzióne v Drienovských kúpeľoch."
+    ],
+    "fotky": ["obrazky/foto/vystupenie/1.jpg"]
+  },
+  {
+    "id": 57,
+    "obrazok": "dobrovolnik.jpg",
+    "nazov": "Poďakovanie dobrovoľníkom",
+    "autor": "mt",
+    "datum": "29.11.2010",
+    "text": [
+      "Pri príležitosti 5. decembra, ktorý sa vo svete slávi ako Medzinárodný deň dobrovoľníkov, CVrČek pripravil3. decembra 2010 milú slávnosť pod názvom Deň moldavských dobrovoľníkov. Snahou organizátorov bolo založiťv našom meste tradíciu morálneho poďakovania dobrovoľníkom/čkam za ich pomoc a aktivity,ktorými pomáhajú školám, školským zariadeniam a hlavne našim deťom. CVrČek a zástupcovia škôl vysloviliveľké ďakujem 17 dobrovoľníkom/čkam. Po oceňovaní si prítomní pozreli krátky kultúrny program a potomsa zúčastnili na sladkej recepcii. Slzy v očiach ocenených, dojatie prítomných a slová, že my uždnes vieme, koho o rok oceníme, boli najlepším signálom pre organizátorov, že dobro dobrom sa odpláca."
+    ],
+    "fotky": ["obrazky/foto/dobrovolnici/7.jpg"]
+  },
+  {
+    "id": 56,
+    "obrazok": "aao.jpg",
+    "nazov": "Návšteva kina",
+    "autor": "aj",
+    "datum": "14.11.2010",
+    "text": [
+      "CVrČek pre deti navštevujúce záujmové útvary pripravil 2. decembra 2010 autobusový výlet spojený s návštevoukina v OC Optima. 60 detí si pozrelo rozprávku Alfa a Omega: volanie divočiny v 3D."
+    ],
+    "fotky": ["obrazky/foto/kino/8.jpg"]
+  },
+  {
+    "id": 55,
+    "obrazok": "enviro2010.jpg",
+    "nazov": "EnviroCVrČek",
+    "autor": "mt",
+    "datum": "14.11.2010",
+    "text": [
+      "Prvá enviro prednáška pre žiakov 4. ročníka ZŠ pod názvom Prečo je na Zemi dobre žiťsa uskutočnila 9. novembra 2010 v bábkovej sále. Zúčastnilo sa jej vyše 50 detí, ktoré sa poučili, zasmiali a zasúťažili si."
+    ],
+    "fotky": ["obrazky/foto/enviro/1.jpg"]
+  },
+  {
+    "id": 54,
+    "obrazok": "list.jpg",
+    "nazov": "Jesenné CVrČkoviny",
+    "autor": "mt",
+    "datum": "2.11.2010",
+    "text": [
+      "V CVrČkovi bol 2. novembra 2010 Deň brejku. Naše pozvanie prijali brejkeri z Rožňavy, z Košíc, zo Šace a samozrejme prišli aj naši.Deň bol plný hudby, tanca, rozprávania a dobrej nálady. O tom, že sa to všetkým veľmi páčilo, svedčí fakt, že sme sa dohodli, že si to počas zimnýchprázdnin zopakujeme. My organizátori sa už dnes tešíme:-)."
+    ],
+    "fotky": ["obrazky/foto/prazdniny/20.jpg"]
+  },
+  {
+    "id": 53,
+    "obrazok": "cvrckov_pohar.jpg",
+    "nazov": "CVrČkov pohár",
+    "autor": "pt",
+    "datum": "1.11.2010",
+    "text": [
+      "Na 7. turnaji o CVrČkov pohár sa pobilo 7 tímov (5 domácich a 2 z Prešova), odohralo sa 12 hodín kvalitného biliardu a finálový zápasskončil opäť v neskorých večerných hodinách. Víťazstvo obhájili bratia Patrik a Marek Tóth, ktorí porazili dvojicu Igor Kusnyir a Michal Nagy.18.5.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '44_1')\" onmouseout=\"skryDetaily(this, '44_1')\">&gt; zobraziť &lt;</span>Na 6. turnaji o CVrČkov pohár sa pobilo 8 tímov (6 domácich a 2 z Prešova),odohralo sa 14 hodín kvalitného biliardu a finálový zápas skončil až o 23:45. Víťazmi sa stalo bratské duo Patrik a Marek Tóth,ktorí porazili dvojicu Ján Dugas a Gabriel Katrenič."
+    ]
+  },
+  {
+    "id": 52,
+    "obrazok": "list.jpg",
+    "nazov": "Jesenné CVrČkoviny",
+    "autor": "mt",
+    "datum": "1.11.2010",
+    "text": [
+      "V CVrČkovi bolo 29. októbra 2010 rušno. Tancovalo sa, kreslilo a lepilo, ale predovšetkým sa maľovalona hodváb. Na svoje si prišli aj počítačoví hráči, ktorí bojovali o Kráľov DOTA. Víťazmi sa stali Michal Lindvai a Tomáš Kiš."
+    ],
+    "fotky": ["obrazky/foto/prazdniny/12.jpg"]
+  },
+  {
+    "id": 51,
+    "obrazok": "halloween.jpg",
+    "nazov": "Halloween",
+    "autor": "mt",
+    "datum": "28.10.2010",
+    "text": [
+      "Tradičnými znakmi Halloweenu sú tekvice, čarodejnice a strašidlá. Jedno z nich dneszavítalo aj do CVrČka, aby spestrilo deň deťom na krúžkoch."
+    ],
+    "fotky": ["obrazky/foto/halloween/1.jpg"]
+  },
+  {
+    "id": 50,
+    "obrazok": "maminy.jpg",
+    "nazov": "Maminy",
+    "autor": "aj",
+    "datum": "28.10.2010",
+    "text": [
+      "Čo všetko deťom k šťastiu treba?<br />Slnko a modrý kúsok neba, piesok<br />a v izbe s hračkami dva veľké bozky od mamy.<br />Čo všetko deťom k šťastiu stačí?<br />Hrozienko sladké na koláči<br />a denne jedna hodinka v náručí svojho ocinka.<br />Čo sa dnes deťom najviac ráta?<br />Mať ocka ako kamaráta,<br />maminu dlaň a popri tom mať vždy lásky plný dom.<br /><br />To všetko všetci dobre vieme a na  stretnutí 27. októbra 2010 s MUDr. Annou Kováčovousme rozšírili svoje vedomosti o  nové poznatky z oblasti očkovania, prevencie pred detskými chorobamia správnom vývoji nášho dieťaťa."
+    ],
+    "fotky": ["obrazky/foto/maminy/43.jpg"]
+  },
+  {
+    "id": 49,
+    "obrazok": "masky.jpg",
+    "nazov": "Figarova svadba",
+    "autor": "aj",
+    "datum": "13.10.2010",
+    "text": [
+      "CVrČek pozval 13. októbra 2010 záujemcov o divadelnú múzu na komickú operu Figarova svadba doŠtátneho divadla  v Košiciach. Krásnu Mozartovu hudbu, skvelé výkony spevákov, prekrásne prostredie divadlaa samozrejme posedenie pri koláčiku pred predstavením v Aide si užilo 35 milovníkov divadla."
+    ]
+  },
+  {
+    "id": 48,
+    "obrazok": "ibe.jpg",
+    "nazov": "Svetová tanečná súťaž",
+    "autor": "mt",
+    "datum": "12.10.2010",
+    "text": [
+      "V Holandsku, v meste Heerlen, sa v dňoch 24. až 26. septembra 2010 uskutočnila celosvetová tanečná súťažTHE NOTORIOUS IBE 2010. Na podujatí sa zúčastnili najlepší tanečníci z celého sveta. Slovensko reprezentovalidesiati najlepší tanečníci, medzi ktorými boli aj dvaja naši, moldavskí CVrČkovi breakeri a to Peter Takáč a Peter Köteles.Zážitky, ktoré si odtiaľ priniesli, opísali slovami: Bolo to úžasné! A aby ste si vychutnali tú jedinečnú atmosféru, ponúkame vám,hoci trochu oneskorene, zopár fotografií."
+    ],
+    "fotky": ["obrazky/foto/ibe/1.jpg"],
+    "detaily": ["http://www.thenotoriousibe.com"]
+  },
+  {
+    "id": 47,
+    "obrazok": "cvrcek.jpg",
+    "nazov": "Najkrajšie logo pre CVrČka",
+    "autor": "mt",
+    "datum": "1.10.2010",
+    "text": [
+      "… bol názov celoslovenskej tvorivej súťaže, ktorú CVrČek vyhlásil, aby našiel svoje nové logo.Počas celých prázdnin ste mohli dať hlas obrázku, ktorý vás najviac oslovil. Ďakujeme všetkým 524 priateľom CVrČka,ktorí sa do hlasovania zapojili. Sčítanie hlasov určilo, že nášho CVrČka od 1. októbra 2010 budú reprezentovať práceIvany Janigovej a Michaely Hanákovej zo ZUŠ Stará Turá. Môžete ich vidieť na našej stránke."
+    ]
+  },
+  {
+    "id": 46,
+    "obrazok": "stvorlistok.jpg",
+    "nazov": "Zahájenie záujmovej činnosti",
+    "autor": "mt",
+    "datum": "18.9.2010",
+    "text": [
+      "1. októbra 2010 zahájili svoju činnosť všetky CVrČkove záujmové útvary. Ďakujemevšetkým sponzorom, ktorých mená sú medzi našimi priateľmi, že nám darovali krásne ceny do losovania."
+    ],
+    "fotky": ["obrazky/foto/zahajenie/1.jpg"]
+  },
+  {
+    "id": 45,
+    "obrazok": "wdop.jpg",
+    "nazov": "Celosvetový Deň hrania",
+    "autor": "aj",
+    "datum": "26.9.2010",
+    "text": [
+      "Veselý, zábavný a najmä hravý bol Deň hrania v SuperFleku. Pri mnohých športovýcha tvorivých aktivitách sa vystriedalo 50 detí a rodičov a my veríme, že o rok sa na tomto podujatístretneme opäť.18.9.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '64_1')\" onmouseout=\"skryDetaily(this, '64_1')\">&gt; zobraziť &lt;</span>CVrČek oznamuje deťom a rodičom, že v sobotu 25. septembra 2010 sa na Slovensku po prvýkrátspoločne zahráme v rámci Svetového dňa hrania – Worldwide Day of Play.<br /><br />Celý svet sa bude hrať, rodičia aj deti,<br />bez ohľadu na počasie bude slnko svietiť.<br />Pridajte sa, vzdajte sa nudy aj starostí,<br />pripravíme deťom celý deň radosti.<br /><br />Kedy a kde? 25. septembra 2010 v čase od 10:00 do 16:00 v priestoroch Superfleku na Severnej 19. Tešíme sa na všetkých rodičova ich ratolesti. Bližšie informácie v prílohe."
+    ],
+    "fotky": ["obrazky/foto/denhrania/1.jpg"],
+    "prilohy": ["prilohy/plagatdh.pdf"]
+  },
+  {
+    "id": 44,
+    "obrazok": "tabory.jpg",
+    "nazov": "Ponuka záujmových útvarov",
+    "autor": "mt",
+    "datum": "29.8.2010",
+    "text": [
+      "CVrČek Ti v školskom roku 2010/2011 ponúka možnosť stať sa členom záujmových útvarov,ktorých zoznam nájdeš <a href=\"prilohy/kruzky_2010.pdf\" title=\"Krúžky\" target=\"_blank\">tu</a>.<br /><br />Zároveň Ti ponúka:<br /><br />•\tPRÍJEMNÉ trávenie voľného času<br />•\tMESAČNÝ poplatok iba 2 € (menej ako stojí lístok do kina)<br />•\tDOPROVOD na záujmovú činnosť zo školského klubu alebo z MŠ<br />•\tvýraznú ZĽAVU pri letných prímestských táboroch<br />Do záujmového útvaru sa môžeš PRIHLÁSIŤ do 10.9.2010.<br /><br />A navyše, ak sa rozhodneš odovzdať svoj vzdelávací poukaz CVrČkovi do 14.9.2010,v tomto školskom roku získaš:<br /><br />•\tzdarma celodenný výlet do ZOO Kavečany<br />•\tzdarma návštevu kina v OC OPTIMA<br />•\tzdarma všetky biliardové turnaje<br />•\tzdarma 4 sobotňajšie LAN Party"
+    ],
+    "prilohy": ["prilohy/kruzky_2010.pdf"]
+  },
+  {
+    "id": 43,
+    "obrazok": "dobrovolnik.jpg",
+    "nazov": "10.9.2010 - Deň dobrovoľníctva - zapojte sa!",
+    "autor": "mt",
+    "datum": "28.8.2010",
+    "text": [
+      "V piatok, 10.septembra 2010, sa v 78 organizáciách v 39 mestách na Slovensku konal 2.ročník Dňa dobrovoľníctva.Od 10:00 do 19:00 hod. sa počas Dňa dobrovoľníctva 2010 do aktivít zapojilo 2084 dobrovoľníkov. Podľa údajov od všetkých zapojenýchorganizácií sa spolu odpracovalo takmer 8000 dobrovoľníckych hodín. Aj CVrČek sa zapojil už 2x do Dňa dobrovoľníctva. Podporiť ho prišližiaci ZŠ na ulici ČSA a aj na ulici Severnej, ktorí čistili okolie Superfleku. Pri maľovaní sa striedali mladí ľudia, ich iniciatívuvšak prerušil hustý dážď. Aj plánované graffiti na fasáde Superfleku sa bude dokončovať, až to počasie dovolí. Sponzorským darom v podobe fariebpodporili Deň dobrovoľníctva drogérie Danex a Maxol. Ďakujeme všekým za pomoc a podporu."
+    ],
+    "fotky": ["obrazky/foto/dobrovolnici/1.jpg"]
+  },
+  {
+    "id": 42,
+    "obrazok": "mao.jpg",
+    "nazov": "Olympiáda hviezdičiek",
+    "autor": "mt",
+    "datum": "29.8.2010",
+    "text": [
+      "V rámci OFDM Slovenska CVrČek v spolupráci s materskými školami pripravil pre najmenšíchOlympiádu hviezdičiek. Zúťastnilo sa jej vyše 50 súťažiacich. Z priložených fotografií sa presvedčíte,že atmosféra bola taká, ako na ozajstnej olympiáde."
+    ],
+    "fotky": ["obrazky/foto/mao/1.jpg"]
+  },
+  {
+    "id": 41,
+    "obrazok": "info.jpg",
+    "nazov": "Diskotéka",
+    "autor": "mt",
+    "datum": "26.8.2010",
+    "text": [
+      "CVrČek pripravil 3. septembra 2010 pre všetkých svojichpriaznivcov zahajovaciu diskotéku v Disco Clube Twister. O skvelej atmosfére vás presvedčiafotografie."
+    ],
+    "fotky": ["obrazky/foto/disco/9.jpg"]
+  },
+  {
+    "id": 40,
+    "obrazok": "tabory.jpg",
+    "nazov": "Zaklopte na dvere",
+    "autor": "aj",
+    "datum": "27.8.2010",
+    "text": [
+      "Zaklopte na dvere, urobte ten krok,<br />veď sa zas začína nový školský rok.<br /><br />V škole na vás čaká náročné učenie,<br />vyvážiť ho treba oddychom – príjemne.<br /><br />Zaklopte na dvere po ceste zo školy,<br />smelo a s radosťou vojdite k CVrČkovi.<br />Čaká tu na vás veľa dobrých vecí,<br />že sa k nám pridáte – tešíme sa všetci."
+    ]
+  },
+  {
+    "id": 39,
+    "obrazok": "marcel.jpg",
+    "nazov": "Nový člen CVrČka",
+    "autor": "mt",
+    "datum": "1.8.2010",
+    "text": [
+      "Do tretice všetko dobré. Aj tretia naša kolegyňa Mgr. Marcela Bujňáková zavŕšila dlhodobú PNa na svet priviedla ďalšieho budúceho člena našich krúžkov. Malému Marcelovi prajeme úspešný štart do životaa jeho rodičom veľa radosti pri plnení si rodičovských povinností."
+    ],
+    "fotky": ["obrazky/foto/rozne/marcel.jpg"]
+  },
+  {
+    "id": 38,
+    "obrazok": "slniecko.jpg",
+    "nazov": "Leto 2010",
+    "autor": "mt",
+    "datum": "24.7.2010",
+    "text": [
+      "Naše kluby Margarétka a Vlčí mak sa vydarili na 1*. Dokazujú to aj nasledujúce fotografie. V klubeNevädza prázdninovalo 74 detí."
+    ],
+    "fotky": ["obrazky/foto/tabory10/1.jpg"]
+  },
+  {
+    "id": 37,
+    "obrazok": "8ka.jpg",
+    "nazov": "Turnaj o Pohár mesta",
+    "autor": "pt",
+    "datum": "29.6.2010",
+    "text": [
+      "CVrČek aj v tomto roku počas Moldavských dní, 3. júna 2010, zorganizoval biliardový turnaj o Pohár mesta v hre č. 8.Víťazom sa stal moldavčan Patrik Tóth."
+    ],
+    "fotky": ["obrazky/foto/poharmesta/1.jpg"]
+  },
+  {
+    "id": 36,
+    "obrazok": "hrad.jpg",
+    "nazov": "Výlet",
+    "autor": "aj",
+    "datum": "27.6.2010",
+    "text": [
+      "Príjemný a vydarený bol celodenný výlet na Spišský hrad a do ZOO pre najaktívnejšíchčlenov CVrČka dňa 25. júna 2010. Bola to odmena pre deti, ktoré nás reprezentujú na rôznych vystúpeniacha možno aj výzva pre tých ostatných: Príďte medzi nás, odmeníme vás!"
+    ],
+    "fotky": ["obrazky/foto/spis/1.jpg"]
+  },
+  {
+    "id": 35,
+    "obrazok": "prirodoveda.jpg",
+    "nazov": "Prírodoveda2",
+    "autor": "mt",
+    "datum": "27.6.2010",
+    "text": [
+      "Posledný krát sa CVrČek stretol s deťmi zo 4. ročníkov v rámci programu Prírodoveda224. júna 2010. Alternatívna hodina prírodovedy sa niesla v duchu témy Voda je dobrý pomocník, ale zlý pán.12.6.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '34_3')\" onmouseout=\"skryDetaily(this, '34_3')\">&gt; zobraziť &lt;</span>CVrČek pripravil 10. júna 2010 pre žiakov ZŠ v rámci programu Prírodoveda2 ďalšie stretnutie pod názvom Lesy- naše zelené bohatstvo.10.4.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '34_2')\" onmouseout=\"skryDetaily(this, '34_2')\">&gt; zobraziť &lt;</span>Ďalšie z alternatívnych hodín Prírodovedy sa uskutočnilo v Superfleku. Deti sa aktívne zapájali do jednotlivýchaktivít, ktoré pre nich pripravili pracovníci o.z. Sosna. Atmosféra bola tvorivá a radostná. Podujatia sa zúčastnili deti štvrtých ročníkov ZŠ.28.3.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '34_1')\" onmouseout=\"skryDetaily(this, '34_1')\">&gt; zobraziť &lt;</span>CVrČek pripravuje pre žiakov 4. ročníkov ZŠ v rámci programu Prírodoveda2 ďalšie stretnutie pod názvom Dobrodružná vodná cesta.Aktivita sa uskutoční v spolupráci s o. z. SOSNA. V rámci nej zažijete vodu, rieku apotoky na vlastnej koži. Dozviete sa, ako chrániť rieku a aj to, prečo je to potrebné.Spoločne vymyslíme nápady, ako  byť pre rieku užitoční. Stretneme sa v Superfleku 8. apríla 2010o 8:30 a o 10:00."
+    ],
+    "fotky": ["obrazky/foto/prirodoveda/9.jpg"]
+  },
+  {
+    "id": 34,
+    "obrazok": "disko.jpg",
+    "nazov": "Diskotéka",
+    "autor": "mt",
+    "datum": "12.6.2010",
+    "text": [
+      "Kto by si myslel, že oslavy Dňa detí sa dopoludňajším programom v CVrČkovi skončia,veľmi sa mýli. My sme pokračovali tradičnou diskotékou v Twisteri, na ktorej sa zúčastnilo takmer 200 detía mladých ľudí. Príjemné prostredie, množstvo disko hitov a dobrá nálada medzi kamarátmi nám vydržalaaž do záverečnej."
+    ],
+    "fotky": ["obrazky/foto/disco/1.jpg"]
+  },
+  {
+    "id": 33,
+    "obrazok": "noemi.jpg",
+    "nazov": "Ďalšia nová členka CVrČka",
+    "autor": "mt",
+    "datum": "1.6.2010",
+    "text": [
+      "Aj druhá naša kolegyňa Bc. Monika Vassová zavŕšila dlhodobú PN a na svet priviedla ďalšiu budúcu členku našichkrúžkov. Malej Noemi prajeme úspešný štart do života a jej rodičom veľa radosti pri plnení si rodičovských povinností."
+    ],
+    "fotky": ["obrazky/foto/rozne/noemi.jpg"]
+  },
+  {
+    "id": 32,
+    "obrazok": "tabory.jpg",
+    "nazov": "Deň úspešných detí",
+    "autor": "aj",
+    "datum": "1.6.2010",
+    "text": [
+      "Všetci sme prišli na tento svet rovnakí. Bez zubov, bez oblečenia, odkázaní na lásku našich najbližších.Tá nás sprevádzala od prvých krôčikov, cez prvé slová, vyvolávala v nás zvedavosť, prebúdzala fantáziu, chuť rásť. O tom všetkoma mnohom inom bolo dnešné stretnutie úspešných detí moldavských škôl, na ktorom primátor mesta odovzdával ocenenia tým, ktorísvojimi výkonmi, vedomosťami a šikovnosťou šíria dobré meno nášho mesta. Takto sme oslávili Medzinárodný deň detí - 1. jún 2010.20.5.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '50_1')\" onmouseout=\"skryDetaily(this, '50_1')\">&gt; zobraziť &lt;</span>Pri príležitosti Dňa detí mesto Moldava nad Bodvou a CVČ CVrČek pripraviliDeň úspešných moldavských detí, na ktorom sa zúčastnia a budú ocenené deti, ktoré svojim talentom,vedomosťami a šikovnosťou prekročili hranice mesta a dosiahli mimoriadne úspechy.Podujatie sa uskutoční 1. júna 2010 o 10:00 v bábkovej sále CVrČka."
+    ],
+    "fotky": ["obrazky/foto/dendeti/1.jpg"]
+  },
+  {
+    "id": 31,
+    "obrazok": "divaci.jpg",
+    "nazov": "Z každého rožku trošku",
+    "autor": "aj",
+    "datum": "28.5.2010",
+    "text": [
+      "...predviedli sme, čo sme pripravili, nacvičili, naskúšali a zostavili...Sme veľmi radi, že také množstvo rodičov,súrodencov, starých rodičov prijalo naše pozvanie a prišlo sa zabaviť na naše záverečné vystúpenie do bábkovej sály 28. mája 2010.18.5.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '47_1')\" onmouseout=\"skryDetaily(this, '47_1')\">&gt; zobraziť &lt;</span>... pre vás pripravili, nacvičili, naskúšali a zostavili vaše ratolesti ...Neodmietnite ich pozvanie a príďte sa pozrieť na výsledok chvíľ, ktoré strávili so svojim obľúbeným CVrČkom. Kedy? 28. mája 2010 sozačiatkom o 17:00 hodine v bábkovej sále CVČ CVrČek."
+    ],
+    "fotky": ["obrazky/foto/rozok/1.jpg"]
+  },
+  {
+    "id": 30,
+    "obrazok": "veronika.jpg",
+    "nazov": "Nová členka CVrČka",
+    "autor": "mt",
+    "datum": "28.5.2010",
+    "text": [
+      "Úspešne zavŕšila dlhodobú PN naša kolegyňa Peťka Rektoriková - Bérešová, keď priviedla na svet budúcu členku našichkrúžkov. Malej Veronike želáme úspešný štart do života a jej rodičom veľa radosti pri plnení si rodičovských povinností."
+    ],
+    "fotky": ["obrazky/foto/rozne/veronika.jpg"]
+  },
+  {
+    "id": 29,
+    "obrazok": "gombik.jpg",
+    "nazov": "Modrý gombík",
+    "autor": "mt",
+    "datum": "19.5.2010",
+    "text": [
+      "Pošas dnešného upršaného dňa Modrého gombíka v našom meste sa vyzbieralo 971,98&euro;. Koordinátorka moldavských dobrovoľníkov,Mária Tóthová, touto cestou ďakuje všetkým dobrovoľníčkam a dobrovoľníkom a všetkým dobrým ľuďom, ktorí pomohli, podporili, prispeli...(Základným a stredným školám, ľuďom na uliciach, v obchodoch, v inštitúciách, pracovníkom Slovenskej pošty, MsTV a mnohým ďalším).Ďakujeme!24.4.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '42_1')\" onmouseout=\"skryDetaily(this, '42_1')\">&gt; zobraziť &lt;</span>Po prvý krát budeme môcť aj v našom meste podporiť zbierku na pomoc deťom pod názvomTýždeň modrého gombíka UNICEF. Zbierka sa v uliciach nášho mesta uskutoční 19. mája 2010. Bližšie informácienájdete <a href=\"http://www.unicef.sk/sk/skoly/modry-gombik-2010/\" title=\"Modrý gombík\" target=\"_blank\">tu</a>."
+    ],
+    "fotky": ["obrazky/foto/gombik/1.jpg"],
+    "detaily": ["http://www.unicef.sk/sk/skoly/modry-gombik-2010/"]
+  },
+  {
+    "id": 28,
+    "obrazok": "breakdance.jpg",
+    "nazov": "Naše úspechy",
+    "autor": "mt",
+    "datum": "19.5.2010",
+    "text": [
+      "Naš breaker Matyas Viszlay sa zúťastnil na na súťaži s názvom OutBreak Slovakia, ktorá sa uskutočnila 15. mája 2010 vObchodnom Centre Laugaricio v Trenčíne. Úspešne reprezentoval svoju skupinu Floor Terrorist, Centrum volného času Cvrček a mesto Moldava nad Bodvou."
+    ]
+  },
+  {
+    "id": 27,
+    "obrazok": "mao.jpg",
+    "nazov": "Mestská súťaž v atletike",
+    "autor": "zs",
+    "datum": "18.5.2010",
+    "text": [
+      "Mestská súťaž v atletike sa z dôvodu nepriaznivého počasia neuskutočnila.1.5.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '43_1')\" onmouseout=\"skryDetaily(this, '43_1')\">&gt; zobraziť &lt;</span>CVrČek v spolupráci so základnými školami a 8-ročným gymnáziom organizuje v dňoch 12.-13. mája 2010Mestskú súťaž v atletike. Táto je súčasťou Olympijského festivalu detí a mládeže Slovenska."
+    ]
+  },
+  {
+    "id": 26,
+    "obrazok": "zoo.jpg",
+    "nazov": "ZOO",
+    "autor": "zs",
+    "datum": "24.4.2010",
+    "text": [
+      "ZOO - zvieratá, oddych, opaľovanie. Tieto tri slová charakterizujú výlet, ktorý sa uskutočnil 24. apríla 2010.Počasie sa vydarilo, zvieratká sa neskrývali... Presvedčte sa na vlastné oči.5.4.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '38_1')\" onmouseout=\"skryDetaily(this, '38_1')\">&gt; zobraziť &lt;</span>CVrČek pozýva všetky deti na celodenný výlet organizovaný pri príležitosti Dňa Zeme do ZOO Kavečany.Akcia sa uskutoční 24. apríla 2010, poplatok sú 4&euro;. Odchod autobusu je o 10:00 spred CVrČka na Školskej 5.Predpokladaný príchod je o 16:30. Bližšie informácie Vám poskytneme v CVČ."
+    ],
+    "fotky": ["obrazky/foto/zoo/1.jpg"],
+    "prilohy": ["prilohy/is.pdf", "prilohy/zoo.jpg"]
+  },
+  {
+    "id": 25,
+    "obrazok": "den_zeme.jpg",
+    "nazov": "Deň Zeme",
+    "autor": "mt",
+    "datum": "23.4.2010",
+    "text": [
+      "Aj naše deti v záujmových útvaroch oslávili Deň Zeme. Pozrite si ako..."
+    ],
+    "fotky": ["obrazky/foto/denzeme/1.jpg"]
+  },
+  {
+    "id": 24,
+    "obrazok": "brusne_tance.jpg",
+    "nazov": "Tanec bez hraníc",
+    "autor": "mt",
+    "datum": "20.4.2010",
+    "text": [
+      "Naše brušné tanečnice a brejkeri sa 20.apríla 2010 zúčastnili na tanečnej súťaži Tanec bezhraníc v Košiciach. Do súťaže bolo prihlásených vyše 600 súťažiacich. Mátyas Vislay v svojej kategóriiobsadil pekné 2. miesto. Blahoželáme!"
+    ],
+    "fotky": ["obrazky/foto/tanec/1.jpg"]
+  },
+  {
+    "id": 23,
+    "obrazok": "social.jpg",
+    "nazov": "CVrČek a prevencia",
+    "autor": "mt",
+    "datum": "18.4.2010",
+    "text": [
+      "Ďalšie zo série neformálneho vzdelávania v rámci prevencie proti negatívnym javom v spoločnostiuskutočnil CVrČek pre žiakov 8. a 9. ročníka ZŠ na Severnej ulici 16. apríla 2010. Podujatie sa zaoberalo témou obchodovania s ľuďmi,ktoré je toho času tretím najvýnosnejším obchodom na svete po obchode s drogami a zbraňami."
+    ],
+    "fotky": ["obrazky/foto/social/1.jpg"]
+  },
+  {
+    "id": 22,
+    "obrazok": "charita.jpg",
+    "nazov": "Vystúpenie",
+    "autor": "mt",
+    "datum": "10.4.2010",
+    "text": [
+      "Spoločné vystúpenie detí a mladých ľudí z CVrČka a Komunitného centra na Budulovskej ulici sa pozvaným divákomveľmi páčilo. Odmenili ho potleskom a neštrili ani slovami chvály.28.3.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '35_1')\" onmouseout=\"skryDetaily(this, '35_1')\">&gt; zobraziť &lt;</span>V spolupráci s Komunitným centrom na Budulovskej ulici pripravujeme vystúpenie pod názvom Kúsok z môjho života.Uskutoční sa 9. apríla 2010 od 8:30 a 10:00 v bábkovej sále."
+    ],
+    "fotky": ["obrazky/foto/charita/3.jpg"]
+  },
+  {
+    "id": 21,
+    "obrazok": "vajicka.jpg",
+    "nazov": "Veľkonočný biliardový turnaj",
+    "autor": "mt",
+    "datum": "5.4.2010",
+    "text": [
+      "Víťazom Veľkonočného turnaja sa stal prešovský hráč Peter Baran, ktorý vo finále zdolal moldavského bilošistu Jána Dugasa.Fotografie budú onedlho.28.3.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '37_1')\" onmouseout=\"skryDetaily(this, '37_1')\">&gt; zobraziť &lt;</span>Pre biliardových hráčov CVrČek pripravuje 3. apríla 2010 Veľkonočný biliardový turnaj v hre č. 9.Prihlásiť sa je potrebné do 31. marca 2010."
+    ],
+    "fotky": ["obrazky/foto/9ball/3.jpg"]
+  },
+  {
+    "id": 20,
+    "obrazok": "vajicka.jpg",
+    "nazov": "Veľkonočné prázdniny",
+    "autor": "mt",
+    "datum": "5.4.2010",
+    "text": [
+      "A takto to u nás vyzeralo...28.3.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '36_1')\" onmouseout=\"skryDetaily(this, '36_1')\">&gt; zobraziť &lt;</span>Milí tvoriví kamaráti, 1. apríla 2010 v čase od 9:00 do 15:00 sme pre Vás pripravili Tvorivé dielne,kde si vlastnoručne ozdobíte veľkonočné kraslice rôznymi technikami (vyfúknuté vaječné škrupinky doneste so sebou).Vyrobíte si aj veľkonočné venčeky, dekorácie a pohľadnice. CVrČek bude poskytovať aj štandardné služby:biliard, stolný futbal, počítačové hry a internetové služby v tom istom čase.Budú prebiehať aj zápasy Biloš ligy a tréningy."
+    ],
+    "fotky": ["obrazky/foto/prazdniny/6.jpg"]
+  },
+  {
+    "id": 19,
+    "obrazok": "vajicka.jpg",
+    "nazov": "Veselé predpoludnie",
+    "autor": "mt",
+    "datum": "28.3.2010",
+    "text": [
+      "CVrČek pripravil počas veľkonočných prázdnin pre škôlkarov Veselé predpoludnie. Uskutočnilo sa 6. aprílav bábkovej sále.CVrČek poskytol aj štandardné služby: biliard, stolný futbal, počítačové hry a internetové služby.Prebiehli aj zápasy Biloš ligy a tréningy."
+    ]
+  },
+  {
+    "id": 18,
+    "obrazok": "ceremak.jpg",
+    "nazov": "Poznaj slovenskú reč",
+    "autor": "mt",
+    "datum": "21.3.2010",
+    "text": [
+      "18. marca 2010 sa v CVrČkovi uskutočnilo obvodné kolo súťaže Poznaj slovenskú reč. Víťazmi prvej kategórie sa stali:1. miesto: Klára Kováčová, ZŠ s VJM Košice<br />2. miesto: Vivienn Kristófová, ZŠ s VJM RC Rožňava<br />3. miesto: Jácinta Bodnárová, ZŠ s VJM Buzica<br />V druhej kategórii bolo poradie nasledovné:1. miesto: Natália Nozdroviczká, ZŠ s VJM Moldava nad Bodvou<br />2. miesto: Matthias Frindt, ZŠ s VJM Košice<br />3. miesto: Eszter Tamášová, ZŠ Jablonov<br />21.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '29_1', 2)\" onmouseout=\"skryDetaily(this, '29_1', 2)\">&gt; zobraziť &lt;</span>CVrČek ako poverený organizátor pripravuje obvodné kolo súťaže Poznaj slovenskú reč,ktoré sa uskutoční dňa 18. marca 2010 (štvrtok) o 9.00 hod. v priestoroch Centra voľného času CVrČekv Moldave nad Bodvou na Školskej ulici č. 5. Súťaž prebehne podľa metodicko – organizačných pokynovv dvoch kategóriách. Do obvodného kola postupujú víťazi školských kôl. Záväznú prihlášku súťažiacehodo obvodného kola súťaže prosíme zaslať na adresu CVČ CVrČek do 12. marca 2010. Prosíme riaditeľov ZŠ s VJMv obvode Košice, Košice – okolie a Rožňava, aby na základe výsledkov školských kôl zabezpečili účasť víťazovna obvodnom kole.Informácie o súťaži nájdete aj <a href=\"http://www.minedu.sk/index.php?lang=sk&amp;rootId=5149\" target=\"_blank\">tu</a>."
+    ],
+    "fotky": ["obrazky/foto/psr/1.jpg"]
+  },
+  {
+    "id": 17,
+    "obrazok": "dietatko.jpg",
+    "nazov": "Maminy",
+    "autor": "aj",
+    "datum": "21.3.2010",
+    "text": [
+      "&quot;Seklo ma, čo teraz?&quot;, tak na túto otázku dostali odpoveď Maminy 17. marca 2010 od osoby najpovolanejšej- fyzioterapeutky Mgr. Andrei Kazsmérovej. Zároveň sa dozvedeli, ako správne &quot;narábať&quot; s malým dieťatkom, aby  predišli poruchám pohybového aparátu.11.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '15_2')\" onmouseout=\"skryDetaily(this, '15_2')\">&gt; zobraziť &lt;</span>&quot;Keď psík pomáha&quot; bol názov podujatia pre Maminy, ktoré sa konalo 10. marca 2010.Veľmi pútavú prednášku spojenú s ukážkami kanisterapie nám predviedli Mgr. Tatiana Majerníkováa terapeutický pes Falko z Centra špeciálneho pedagogického poradenstva. Mamky sa dozvedeliako zbaviť deti strachu zo psov a ako môže pes pozitívne vplývať na zdravý vývoj ich ratolestí.28.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '15_1')\" onmouseout=\"skryDetaily(this, '15_1')\">&gt; zobraziť &lt;</span>Ak vás dieťa neposlúcha, vyrobte si maňušku. Pri výchove pomôže vám, ak si ju dáte na ruku.Takúto radu dostali členky klubu na jednom z predchádzajúcich stretnutí s detskou psychologičkou a dnes, 27. januára 2010,sa pustili do práce. Použili vlastnú fantáziu, kreativitu a najmä svoje šikovné ruky a kreslili, strihali, šili a plietli.Výsledkom je vlastnoručne vyrobená maňuška, ktorá bude nápomocná pri upratovaní v detskej izbe, pri obliekaní a večernomzaspávaní."
+    ],
+    "fotky": ["obrazky/foto/maminy/38.jpg"]
+  },
+  {
+    "id": 16,
+    "obrazok": "danceworld.jpg",
+    "nazov": "Dance World",
+    "autor": "zs",
+    "datum": "11.3.2010",
+    "text": [
+      "Dievčatá z nášho záujmového útvaru Orientálne tance sa dňa 10. marca 2010 zúčastnilina tanečnej súťaži Dance World v Košiciach, kde obsadili druhé miesto. Blahoželáme!"
+    ],
+    "fotky": ["obrazky/foto/sutaze/1.jpg"]
+  },
+  {
+    "id": 15,
+    "obrazok": "sbiz.jpg",
+    "nazov": "BK Bilošisti",
+    "autor": "pt",
+    "datum": "7.3.2010",
+    "text": [
+      "Pre našich bilošistov bol aj tento víkend rušný. V sobotu, 6. marca 2010, odohralo naše A-čko dramatický zápas v domácom prostredís prešovským tímom Horses. Bilošisti ho vyhrali 5:4. V nedeľu, 7. marca 2010, cestovalo naše B-čko do Prešova, kde podľahlo domácemu tímu Tatran 1:8.21.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_5')\" onmouseout=\"skryDetaily(this, '26_5')\">&gt; zobraziť &lt;</span>Túto sobotu, 20. februára 2010, odohral svoj ďalší zápas aj náš najskúsenejší tím BK Bilošisti. Vo vyrovnanom zápase,v ktorom sa však dvom bilošistom vôbec nedarilo, nakoniec zdolali domáci tím ŠPV-BK Košice tesne v pomere 5:4.14.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_4')\" onmouseout=\"skryDetaily(this, '26_4')\">&gt; zobraziť &lt;</span>Tento piatok, 12. februára 2010, odohral svoj druhý zápas aj tím BKB \"B\". V domácom prostredí prehrali bilošistis tímom BK 66 Prešov 7:2. Dva body uhral Tomáš Benický.7.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_3')\" onmouseout=\"skryDetaily(this, '26_3')\">&gt; zobraziť &lt;</span>Aj tento víkend zasiahli bilošisti do bojov v II. slovenskej biliardovej lige.V sobotu, 6. februára 2010, zvíťazil tím BK Bilošisti v domácom prostredí nad tímom ZPL Prešov v pomere 9:0.V nedeľu, 7. februára 2010, odohrali svoj druhý zápas aj BKB &quot;Little Kings&quot;. Tesne v ňom podľahli domácemutímu Silverstar Prešov 5:4.23.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_2')\" onmouseout=\"skryDetaily(this, '26_2')\">&gt; zobraziť &lt;</span>Túto sobotu, 23. januára 2010, odohrali naše 3 tími úvodné stretnutia v II. slovenskej biliardovej lige.Dva z nich na seba natrafili vo vzájomnom zápase, v ktorom BK Bilošisti porazili BKB &quot;Little Kings&quot; 8:1.Tím BKB &quot;B&quot; prehral v Poprade s Club 24 výsledkom 8:1.18.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_1', 4)\" onmouseout=\"skryDetaily(this, '26_1', 4)\">&gt; zobraziť &lt;</span>Biliardový klub Bilošisti (BKB) v aktuálnom ročníku II. slovenskej biliardovej ligy postavil3 družstvá. CVrČka a mestské farby budú obhajovať:<a href=\"http://www.sbiz.sk/LIGA/2ligaE1.htm\">BKB</a> - Patrik Tóth, Ján Dugas a Marek Tóth<a href=\"http://www.sbiz.sk/LIGA/2ligaE2.htm\">BKB &quot;B&quot;</a> - Jozef Than, Zoltán Lukács a Tomáš Benický<a href=\"http://www.sbiz.sk/LIGA/2ligaE1.htm\">BKB &quot;Little Kings&quot;</a> - Kristián Janíčko, Tibor Béreš a Miroslav Görcsös."
+    ],
+    "detaily": [
+      "http://www.sbiz.sk/LIGA/2ligaE1.htm",
+      "http://www.sbiz.sk/LIGA/2ligaE2.htm"
+    ]
+  },
+  {
+    "id": 14,
+    "obrazok": "volejbal.jpg",
+    "nazov": "Volejbalový turnaj",
+    "autor": "mb",
+    "datum": "28.2.2010",
+    "text": [
+      "27. februára 2010 CVrČek zorganizoval volejbalový turnaj, ktorý sa niesol v znamení fair-play,športového zápalu a príjemnej atmosféry. Zúčastnilo sa ho 9 tímov, spolu 59 hráčiek. Odohralo sa 20 zápasovs nasledujúcim výsledkom:1. miesto: Bosorky<br />2. miesto: Winter<br />3. miesto: Košice východ<br />4. miesto: Gala Boing21.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '30_1')\" onmouseout=\"skryDetaily(this, '30_1')\">&gt; zobraziť &lt;</span>CVrČek pripravuje pre mládež ďalší športový víkendový turnaj. Tento krát to bude vo volejbale dievčat.Turnaj sa uskutoční 27. februára 2010 v telocvični ZŠ na Ulici ČSA. Prihlášky a bližšie informácie vám poskytneme v CVrČkovi."
+    ],
+    "fotky": ["obrazky/foto/volejbal/1.jpg"]
+  },
+  {
+    "id": 13,
+    "obrazok": "chameleon.jpg",
+    "nazov": "Dni chameleóna",
+    "autor": "mt, zs",
+    "datum": "17.2.2010",
+    "text": [
+      "Za krátke video CVrČek ďakuje Petrovi Takáčovi. Pozrite si ho.14.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '23_3')\" onmouseout=\"skryDetaily(this, '23_3')\">&gt; zobraziť &lt;</span>Dni chameleóna 2010 máme úspešne za sebou. Všetkým hosťom: Tomášovi z Domova na pol ceste, Ľubovi a Robovi z Pomocnejruky a Ivanke z Unicefu úprimne ďakujeme. Ako to u nás celý týždeň vyzeralo, vám napovedia fotografie a toto video.2.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '23_2', 11)\" onmouseout=\"skryDetaily(this, '23_2', 11)\">&gt; zobraziť &lt;</span>CVrČek každoročne vo februári pripravuje podujatia s cieľom predchádzania vzniku sociálno-patologických javov,ktoré ohrozujú deti a mladých ľudí pod názvom Dni chameleóna. Program aktuálneho ročníka:9.2.2010 - Živá knižnica - nechajme knihy rozprávaťPonúkame jeden zo spôsobov neformálneho vzdelávania mladých. Knihy v Živej knižnici sú ľudia, ktorí vstupujú do interakcie s čitateľom cez osobný rozhovor.Ich životné príbehy sú pútavé a zaujímavé. Je to metóda na odbúravanie stereotypov a predsudkov a vytváranie si nového pohľadu na ľudí a veci okolo nás.Ponúkame príbehy o drogách, ceste k nim aj o ceste od nich, ktoré vyrozprávajú klienti Domova na pol ceste.10.2.2010 – Pomocná rukaPonúkame ďalšiu živú knižnicu. Jej knihami sú dobrovoľníci, skvelí mladí ľudia pracujúci ako pouliční sociálni pracovníci (študenti VŠ),poskytujúci pomoc ľuďom drogovo závislým a pracujúcim v sexbiznise. Títo mladí ľudia prichádzajú k nám už tretí rok a sprostredkúvajúsvoje skúsenosti vo forme užitočných informácií a rád. Pretože sú rovnako mladí ako publikum, sú prijímaní a vypočutí.10.2.2010 – Mne sa to nemôže staťPonúkame informáciu o obchodovaní s ľuďmi, ktoré sa stáva celosvetovým problémom. Ide o verbovanie alebo získavanie ľudí klamstvom,pod hrozbou násilia, únosmi, v rámci ktorých nemá táto osoba žiadnu inú reálnu možnosť, iba sa podvoliť. Sprostredkujememladým skutočné príbehy vo verbálnej podobe aj v podobe filmu.11.2.2010 – Plagát pre chameleónaPonúkame možnosť využiť tvorivosť, fantáziu a technické zručnosti. S cieľom osloviť čo najviac detí a mladých ľudí v meste formou ich obľúbenejčinnosti – práci s počítačom, sme vyhlásili súťaž v tvorbe plagátov na tému: Zabráňme vzniku sociálno-patologických javov, ktoré ohrozujú naše deti!Tvorcovia najvýstižnejších plagátov budú odmení. Z plagátov bude inštalovaná výstava v priestoroch CVrČka.12.2.2010 – Ľudské právaPonúkame rozvojové vzdelávanie v oblasti ľudských práv, ktoré zrealizujeme v spolupráci s dobrovoľníkom z UNICEF-u.16.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '23_1')\" onmouseout=\"skryDetaily(this, '23_1')\">&gt; zobraziť &lt;</span>CVrČek vyhlasuje súťaž v tvorbe plagátov vytvorených na počítači na tému:Zabráňme vzniku sociálno-patologických javov, ktoré ohrozujú naše deti! Súťaž je určená deťom ZŠ a OG z 5.- 9. ročníkov.Práce je potrebné odovzdať na CD nosiči alebo zaslať na našu emailovú adresu do 9. februára 2010. Vyhodnotenie súťaže sauskutoční 11. februára 2010 v rámci Dní chameleóna. Tešíme sa na Vaše práce a prajeme Vám veľa tvorivých nápadov.<object id=\"player\" class=\"video\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" name=\"player\" align=\"middle\" width=\"400\" height=\"315\">    <param name=\"movie\" value=\"prilohy/player.swf\">    <param name=\"allowfullscreen\" value=\"true\">    <param name=\"allowscriptaccess\" value=\"always\">    <param name=\"flashvars\" value=\"file=dch.flv\">    <!--[if !IE]> <-->    <object class=\"video\" align=\"middle\" width=\"400\" height=\"315\" data=\"prilohy/player.swf\">        <param name=\"movie\" value=\"prilohy/player.swf\">        <param name=\"quality\" value=\"high\">        <param name=\"menu\" value=\"false\">        <param name=\"flashvars\" value=\"file=dch.flv\">    </object>    <!--> <![endif]--></object>"
+    ],
+    "fotky": ["obrazky/foto/chameleon/1.jpg"],
+    "prilohy": ["prilohy/chameleon.pps"]
+  },
+  {
+    "id": 12,
+    "obrazok": "valentin.jpg",
+    "nazov": "Sviatok Valentína",
+    "autor": "aj",
+    "datum": "17.2.2010",
+    "text": [
+      "Valentínsky týždeň v CVrČkovi sa niesol v znamení pripínania stužiek na veľké cvrčkovské srdiečkoa my sme veľmi radi, že takto prejaviť svoj vzťah k nášmu centru prišlo mnoho detí a mládeže.Kto má CVrČka nášho rád<br />a kto je s ním kamarát,<br />nech sa v centre zastaví,<br />stužku pripne CVrČkovi.<br /><br />Čakáme malých, väčších aj veľkých,<br />úsmev a láska nech spája všetkých.<br />Veď sa blíži sviatok Valentína<br />a veľké srdce nám ho pripomína."
+    ],
+    "fotky": ["obrazky/foto/valentin/1.jpg"]
+  },
+  {
+    "id": 11,
+    "obrazok": "karneval.jpg",
+    "nazov": "Karneval",
+    "autor": "aj",
+    "datum": "14.2.2010",
+    "text": [
+      "Je fašiangové obdobie - čas maškarných plesov. Jeden z nich pripravil aj CVrČek pre svojich malých kamarátov zo ZŠ Severná.Množstvo pestrých masiek, súťaže, tanec a príjemná atmosféra vládli počas celého karnevalového predpoludnia 12. februára 2010."
+    ],
+    "fotky": ["obrazky/foto/karneval/1.jpg"]
+  },
+  {
+    "id": 10,
+    "obrazok": "cestovatel.jpg",
+    "nazov": "Klub tulákov počas jarných prázdnin",
+    "autor": "aj",
+    "datum": "14.2.2010",
+    "text": [
+      "Pre nízky počet prihlásených detí sa Klub tulákov neuskutoční. CVrČek bude počasjarných prázdnin otvorený od 9:00 do 15:00 (počítačové hry, stolný futbal a biliard), Superflekod 15:00 do 19:00 (len biliardové tréningy a zápasy Biloš ligy).2.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '24_2')\" onmouseout=\"skryDetaily(this, '24_2')\">&gt; zobraziť &lt;</span>Milí rodičia, jarné prázdniny sa blížia (od 15. februára do 19. februára). Využite možnosť prihlásiť svoje dieťa k nám do CVrČka, donášho Klubu tulákov!16.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '24_1')\" onmouseout=\"skryDetaily(this, '24_1')\">&gt; zobraziť &lt;</span>CVrČek pripravuje počas jarných prázdnin od 15. februára 2010 do 20. februára 2010 Klub tulákov pre deti vo veku6 – 12 rokov. Poplatok: 20 &euro; zahŕňa členský poplatok, obedy a občerstvenie a prevádzkové náklady. Obsahstretnutí: výlet na hrad Krásna hôrka, výlet k jasovskému vodopádu, návšteva múzea v Moldave nad Bodvou,vychádzky do prírody a tvorivé dielne. Rodičia môžu svoje deti  do klubu prihlásiť do 10. februára 2010."
+    ]
+  },
+  {
+    "id": 9,
+    "obrazok": "fucik.jpg",
+    "nazov": "Halový futbal",
+    "autor": "aj",
+    "datum": "31.1.2010",
+    "text": [
+      "30.januára 2010 CVrČek zorganizoval VIII. ročník halového futbalu, ktorý sa niesol v znamenífair play, športového zápalu a príjemnej atmosféry. Zúčastnilo sa ho 7 tímov, spolu 51 hráčov. Odohralo sa 22 zápasovs nasledujúcim výsledkom:1. miesto: GESZTENYE - L. Kolesár, F. Szabó, N. Zupko, T. Kiss, Z. Kiss, J. Gorgei, V. Herceg, R. Ballók2. miesto: MADAGASZKAR - V. Horváth, Z. Kovács, J. Eperjesi, G. Gorcos, T. Spišák, K. Kočiš, J. Asztaloš3. miesto: AvAtAri - M. Karafa, R. Baláž, E. Béreš, A. Koch, V. Andrejkovič, V. Hudák, M. Hudák, P. Vindt."
+    ],
+    "fotky": ["obrazky/foto/fucik/1.jpg"]
+  },
+  {
+    "id": 8,
+    "obrazok": "info.jpg",
+    "nazov": "Polročné prázdniny",
+    "autor": "mt",
+    "datum": "28.1.2010",
+    "text": [
+      "CVrČek informuje všetkých záujemcov, že 1. februára 2010 bude otvorený nasledovne:CVrČek - od 10:00 do 16:00 (počítačové hry)Superflek - od 13:00 do 17:00 (biliard)"
+    ]
+  },
+  {
+    "id": 7,
+    "obrazok": "darcek.jpg",
+    "nazov": "Darček pre bilošistov",
+    "autor": "pt",
+    "datum": "24.1.2010",
+    "text": [
+      "Dnes, 24. januára 2010 (presne mesiac po CVrČkovi) dostali svoj darček aj moldavskí bilošisti.Sú ním nové stránky <a href=\"http://www.cvcmoldava.edu.sk/bilosliga\">Biloš ligy</a> a <a href=\"http://www.cvcmoldava.edu.sk/bkbilosisti\">BK Bilošistov</a>.Pozrite si ich :)"
+    ]
+  },
+  {
+    "id": 6,
+    "obrazok": "ceremak.jpg",
+    "nazov": "Pekná maďarská reč",
+    "autor": "mt",
+    "datum": "24.1.2010",
+    "text": [
+      "CVrČek zorganizoval 21. januára 2010 obvodové kolo súťaže Pekná maďarská reč prežiakov zo ZŠ s VJM z okresov Košice, Rožňava a Košice okolie. Súťažilo sa v dvoch kategóriách. Víťazkami v kategórii 4. roč.ZŠ sa stali Klára Kovácsová, Krisztína Ténaiová a Barbora\tTóthová z G a ZŠ s VJM Š. Máraiho z Košíc a JácintaBodnárová zo ZŠ s VJM v Buzici. V druhej kategórii žiakov 5. až 9. ročníka bolo poradie nasledovné:Emese Nagyová zo ZŠ Reformovanej kresť. cirkvi s VJM v Rožňave, Klaudia Molnárová zo ZŠ s VJM z Plešivca,Dóra Polyáková zo ZŠ s VJM z Turne nad Bodvou a Karolína Bendzsúchová zo ZŠ Reformovanej kresť. cirkvi s VJM v Rožňave.Blahoželáme!1.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '13_1')\" onmouseout=\"skryDetaily(this, '13_1')\">&gt; zobraziť &lt;</span>CVrČek pripravuje na základe poverenia KŠÚ 21. januára 2010 obvodové kolosúťaže Pekná maďarská reč pre žiakov zo ZŠ s VJM z okresov Košice, Rožňava a Košice okolie. Bližšie informácie a pozvánku zašleme poštou."
+    ],
+    "fotky": ["obrazky/foto/pmr/1.jpg"]
+  },
+  {
+    "id": 5,
+    "obrazok": "smolkovia.jpg",
+    "nazov": "Šmolko hop",
+    "autor": "zs",
+    "datum": "15.1.2010",
+    "text": [
+      "Na záujmovom útvare Šmolko hop pre deti z MŠ je vždy veselo. Presvedčtesa sami."
+    ],
+    "fotky": ["obrazky/foto/smolkohop/1.jpg"]
+  },
+  {
+    "id": 4,
+    "obrazok": "charita.jpg",
+    "nazov": "Knihy z diskotéky",
+    "autor": "mt",
+    "datum": "15.1.2010",
+    "text": [
+      "CVrČek na diskotéke vyzbieral knihy ako vstupné. Tieto dnes odovzdal žiakomŠZŠ v našom meste, ktoré ich budú používať počas vyučovacieho procesu. Veríme, že im spestriahodiny čítania a dozvedia sa z nich veľa zaujímavého."
+    ],
+    "fotky": ["obrazky/foto/charita/1.jpg"]
+  },
+  {
+    "id": 3,
+    "obrazok": "biliard2.jpg",
+    "nazov": "Biliardový turnaj v hre 14/1",
+    "autor": "pt",
+    "datum": "10.1.2010",
+    "text": [
+      "CVrČek na konci prázdnin uskutočnil 4. ročník Biliardového turnaja v hre 14/1. Zúčastnilo sa ho16 hráčov z Moldavy a Prešova. Víťazom sa stal moldavčan Ján Dugas, ktorý vo finále porazil prešovčana Tamáša Ürgeho."
+    ],
+    "fotky": ["obrazky/foto/141/5.jpg"]
+  },
+  {
+    "id": 2,
+    "obrazok": "pf2010.jpg",
+    "nazov": "PF 2010",
+    "autor": "mt",
+    "datum": "1.1.2010",
+    "text": [
+      "Dnes na liste v kalendári,<br />prvý deň je v januári.<br />Všetkým, ktorých CVrČek rád má,<br />zopár priani zasiela.<br />Nech ste zdraví, stále šťastní,<br />nech Nový rok je prekrásny."
+    ]
+  },
+  {
+    "id": 1,
+    "obrazok": "bilosliga.jpg",
+    "nazov": "Biloš liga 2010",
+    "autor": "pt",
+    "datum": "1.1.2010",
+    "text": [
+      "CVrČek oznamuje všetkým bilošistom, že nový ročník najlepšej mestskej biliardovej ligy Biloš liga 2010 začína už11. januára 2010. Maximálny počet hráčov sme museli obmedziť na 16, takže hrajú tí, ktorí sa prihlásia skôr.Prihlášku, resp. po novom Žiadosť nájdete v prílohe tohto oznamu (aby ste si zvykali na nové vymoženostiCVrČkovych stránok :-)), v CVrČkovi a v Superfleku.Posledný termín prihlásenia bude na <a href=\"#63\">Turnaji v hre 14/1</a> 9. januára 2010.Podľa nových pravidiel sa mení mesačný poplatok pre hráčov starších ako 30 rokov na 4 &euro;/mesiac.Pre ostatných zostáva poplatok naďalej 2 &euro;/mesiac. Poplatok je potrebné uhradiť za kompletnú prvú časť, t.j. 5 mesiacovspolu s vyplnenou prihláškou.Zároveň chcem upozorniť všetkých, ktorí plánujú hrať II. slovenskú biliardovú ligu, že jednou z podmienokbiliardového klubu je potreba hrať aktuálny ročník Biloš ligy."
+    ],
+    "prilohy": ["prilohy/ziadost.pdf"]
+  }
+]
