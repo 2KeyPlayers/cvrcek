@@ -119,7 +119,8 @@ var app = new Vue({
           $('#app').addClass('touch');
         }
         $('span.copyright').html('2004-' + new Date().getFullYear());
-        
+        $('.ui.pocet.dropdown').dropdown();
+
         var id = url.searchParams.get("id");
         if (id && $('#' + id)) {
           $('html, body').animate({

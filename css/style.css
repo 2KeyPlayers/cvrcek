@@ -309,6 +309,24 @@ div.margined, .ui.margined.cards {
   margin-bottom: 5em;
 }
 
+.ui.dalsie.basic.button {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  margin-right: 0;
+  padding-bottom: .8571429em;
+  padding-top: .8571429em;
+}
+
+.ui.pocet.compact.selection.dropdown {
+  font-size: 1rem;
+  color: rgba(0,0,0,.6);
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.ui.pocet.compact.selection.dropdown:hover {
+  color: rgba(0,0,0,.8);
+}
+
 .ui.cards {
   margin-top: 1em;
 }
