@@ -82,8 +82,3 @@ var app = new Vue({
     });
   }
 })
-
-// $.getJSON('/data/zamestnanci.json', function (json) {
-//   app.interni = json.filter(zamestnanec => (!zamestnanec.ext || zamestnanec.ext != 1));
-//   app.externi = json.filter(zamestnanec => (zamestnanec.ext && zamestnanec.ext == 1));
-// });

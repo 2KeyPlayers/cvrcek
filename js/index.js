@@ -147,15 +147,3 @@ var app = new Vue({
     });
   }
 })
-
-// $.getJSON('/data/cvrckoviny.json', function (json) {
-//   app.najnovsie = json;
-//   // remove last 'template' item
-//   app.najnovsie.shift();
-
-//   if (app.najnovsie.length > 2) {
-//     app.starsie = app.najnovsie.splice(2);
-//     app.cvrckoviny = [];
-//     app.zobrazitDalsie(0);
-//   }
-// });

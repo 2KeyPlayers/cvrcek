@@ -100,7 +100,3 @@ var app = new Vue({
     });
   }
 })
-
-// $.getJSON('/data/kruzky.json', function (json) {
-//   app.kruzky = json;
-// });

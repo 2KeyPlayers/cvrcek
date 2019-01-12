@@ -22,37 +22,44 @@ Vue.component('cvrckovina', {
       return 'obrazky/aktuality/' + obrazok;
     },
     linkAutora: function (autor) {
-      if (!autor || autor == 'cvc') {
-        return 'informacie.html?id=zamestnanci';
-      } else if (autor == '2kp') {
+      // if (!autor || autor == 'cvc') {
+      //   return 'informacie.html?id=zamestnanci';
+      // } else if (autor == '2kp') {
+      //   return 'http://2keyplayers.com';
+      // } else {
+      //   return 'informacie.html?id=' + autor;
+      // }
+      if (autor == '2kp') {
         return 'http://2keyplayers.com';
       } else {
-        return 'informacie.html?id=' + autor;
+        return 'informacie.html?id=zamestnanci';
       }
     },
     menoAutora: function (autor) {
-      if (!autor || autor == 'cvc') {
-        return 'CVČ';
-      } else if (autor == '2kp') {
+      // if (!autor || autor == 'cvc') {
+      //   return 'CVČ';
+      // } else if (autor == '2kp') {
+      //   return '2KP';
+      // } else if (autor == 'mt') {
+      //   return 'Teta Marika';
+      // } else if (autor == 'kb') {
+      //   return 'Teta Katka';
+      // } else if (autor == 'dd') {
+      //   return 'Teta Diana';
+      // } else if (autor == 'rm') {
+      //   return 'Teta Radka';
+      // } else if (autor == 'np') {
+      //   return 'Ujo Norbi';
+      // } else if (autor == 'pf') {
+      //   return 'Ujo Peťo';
+      // } else if (autor == 'ms') {
+      //   return 'Teta Marcela';
+      // } else if (autor == 'mn') {
+      //   return 'Teta Mia';
+      // } else if (autor == 'jh') {
+      //   return 'Ujo Jano';
+      if (autor == '2kp') {
         return '2KP';
-      } else if (autor == 'mt') {
-        return 'Teta Marika';
-      } else if (autor == 'kb') {
-        return 'Teta Katka';
-      } else if (autor == 'dd') {
-        return 'Teta Diana';
-      } else if (autor == 'rm') {
-        return 'Teta Radka';
-      } else if (autor == 'np') {
-        return 'Ujo Norbi';
-      } else if (autor == 'pf') {
-        return 'Ujo Peťo';
-      } else if (autor == 'ms') {
-        return 'Teta Marcela';
-      } else if (autor == 'mn') {
-        return 'Teta Mia';
-      } else if (autor == 'jh') {
-        return 'Ujo Jano';
       } else {
         return 'CVČ';
       }
@@ -113,8 +120,6 @@ var app = new Vue({
         }
         $('span.copyright').html('2004-' + new Date().getFullYear());
         
-        // var href = window.location.href;
-        // var url = new URL(href);
         var id = url.searchParams.get("id");
         if (id && $('#' + id)) {
           $('html, body').animate({
@@ -125,13 +130,3 @@ var app = new Vue({
     });
   }
 })
-
-// $.getJSON('/data/archiv/archiv2018.json', function (json) {
-//   app.najnovsie = json;
-
-//   if (app.najnovsie.length > 2) {
-//     app.starsie = app.najnovsie.splice(2);
-//     app.cvrckoviny = [];
-//     app.zobrazitDalsie(0);
-//   }
-// });
