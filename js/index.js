@@ -135,6 +135,7 @@ var app = new Vue({
         }
         $('span.copyright').html('2004-' + new Date().getFullYear());
         $('.ui.pocet.dropdown').dropdown();
+        $('.ui.filter.dropdown').dropdown();
 
         var href = window.location.href;
         var url = new URL(href);

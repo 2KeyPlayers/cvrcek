@@ -148,7 +148,7 @@
 .ui.main.menu.fixed img.logo {
   display: inline;
 }
-.ui.main.menu .item i.icon:not(.facebook) {
+.ui.main.menu .item i.icon:not(.facebook, .search) {
   display: none;
 }
 
@@ -169,7 +169,22 @@
 }
 .facebook.item {
   color:#3b5998 !important;
-  border-color:#3b5998 !important;
+}
+.search.item {
+  color: #262626 !important;
+}
+.ui.menu .search.item > i.icon {
+  margin-right: 0;
+}
+
+.ui.search.container {
+  padding-top: 1em;
+}
+.ui.search.container .filter > .icon {
+  color: rgba(0,0,0,.2);
+}
+.ui.search.container .filter:hover > .icon {
+  color: rgba(0,0,0,.87);
 }
 
 .ui.vertical.stripe {
@@ -189,6 +204,9 @@ span.icon {
 }
 
 .item .meta span:not(:first-of-type) {
+  padding-left: .25em
+}
+.item .meta span.autor:not(:first-of-type) {
   padding-left: .5em
 }
 .item .meta span a {
@@ -241,6 +259,10 @@ span.icon {
 }
 .ui.cvrckoviny.items > .item:hover span.facebook:hover {
   color: #304d8a;
+}
+.ui.cvrckoviny.items > .item .fotka > a, .ui.cvrckoviny.items > .item .detail > a, .ui.cvrckoviny.items > .item .priloha > a, .ui.cvrckoviny.items > .item .facebook > a {
+  padding-left: .25em;
+  padding-right: .25em;
 }
 
 .ui.list > .item .header .sub.header {
@@ -416,7 +438,7 @@ div.margined, .ui.margined.cards {
 } */
 
 .footer.segment {
-  padding: 2em 0em;
+  padding: 5em 0em 2em 0em;
 }
 .footer.segment .ui.header, .footer.segment a {
   color: #666666;
@@ -431,6 +453,7 @@ div.margined, .ui.margined.cards {
 }
 .footer .ui.section.divider {
   margin-bottom: 1em;
+  margin-top: 5em;
 }
 .footer.segment .autori.item {
   color: #b2b3b3;

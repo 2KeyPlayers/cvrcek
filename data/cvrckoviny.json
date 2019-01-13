@@ -10,8 +10,18 @@
     "prilohy": [ "" ],
     "detaily": [ "" ]
   },
+
   {
-    "id": 4,
+    "id": 9,
+    "obrazok": "tetam.png",
+    "nazov": "Najinšpiratívnejšia Žena v meste 2018",
+    "autor": "",
+    "datum": "20.1.2019",
+    "text": [ "Portál Ženy v meste nominoval pani riaditeľku CVrČka, Máriu Tóthovú, do ankety medzi osem Najinšpiratívnejších žien v meste 2018. O víťazke rozhodne hlasovanie." ],
+    "detaily": [ "https://www.zenyvmeste.sk/rozhodnite-o-titule-najinspirativnejsia-zena-v-meste-za-rok-2018?fbclid=IwAR3tbxhfyIHNUiWkG75ltvDV_8YZuiKRnPQKEBdIDBqbERDq_XkV5ziY4W8" ] 
+  },
+  {
+    "id": 8,
     "obrazok": "medovnik.png",
     "nazov": "Rozprávkový karneval",
     "autor": "dd",
@@ -20,12 +30,49 @@
     "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2055598781184524/?type=3&theater" ]
   },
   {
-    "id": 3,
+    "id": 7,
+    "obrazok": "pmr.jpg",
+    "nazov": "Pekná maďarská reč",
+    "autor": "dd",
+    "datum": "6.2.2019",
+    "text": [ "Centrum voľného času CVrČek v Moldave nad Bodvou (CVČ), poverené Okresným úradom Košice, odborom školstva, Vás pozýva na okresné kolo súťaže Pekná maďarská reč. Uskutoční sa dňa 6. februára 2019 (streda) o 9.00 hod. v priestoroch CVČ v Moldave nad Bodvou, Školská 5. Kompletne vyplnené Prihlášky, s podpisom riaditeľa ZŠ a podpisom rodiča za každého súťažiaceho žiaka, Písomný súhlas dotknutej osoby k spracúvaniu osobných údajov (súťažiaci, vyučujúci)6.2.2019, prosíme zaslať klasickou poštou do CVČ najneskôr do 25. februára 2019. Bez nej žiak nebude môcť súťažiť!" ],
+    "detaily": [ "http://www.statpedu.sk/sk/sutaze/pekna-madarska-rec/" ]
+  },
+  {
+    "id": 7,
+    "obrazok": "masopust.jpg",
+    "nazov": "Fašiangy",
+    "autor": "mt",
+    "datum": "1.2.2019",
+    "text": [ "CVrČek počas prázdnin poskytne deťom Rodičovský servis. V čase od 7:00 do 16.00 sa deti dozvedia o Fašiangových zvykoch, napečú si tradičnú Fašiangovú dobrotu a vyrobia si Fašiangové masky. Prihlásiť dieťa je možné do 25.1.2019" ],
+    "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2063201513757584/?type=3&theater" ]
+  },
+  {
+    "id": 5,
     "obrazok": "osobneudaje.jpg",
     "nazov": "Cvrlikanie",
     "autor": "np",
     "datum": "25.1.2019",
     "text": [ "V spolupráci so základnými školami v meste pokračujeme podľa dohodnutého harmonogramu v cyklických podujatiach pod názvom Cvrlikanie - Ochrana osobných údajov pre žiakov 6. ročníkov ZŠ." ]
+  },
+  {
+    "id": 4,
+    "obrazok": "denzeme1.jpg",
+    "nazov": "Červené strEtKO",
+    "autor": "mt",
+    "datum": "18.1.2019",
+    "text": [ "V spolupráci so ZŠ na území mesta CVrČek pripravuje cyklické environmentálne podujatia pod názvom strEtKO, tentokrát o chránených druhoch rastlín a zvierat na Slovensku." ],
+    "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2065820493495686/?type=3&theater" ]
+  },
+  {
+    "id": 3,
+    "obrazok": "denzeme1.jpg",
+    "nazov": "10. strEtKO - Červené ",
+    "autor": "mt",
+    "datum": "10.1.2019",
+    "text": [ "O chránených druhoch flóry a fauny Slovenska sme sa rozprávali dnes, 10. januára 2019, s deťmi zo 4.B triedy ZŠ Severnej. Okrem iného sa deti dozvedeli, že Rumenica Turnianska je naša chránená rastlinka európskeho významu a rastie na turnianskom hradnom vrchu. Musíme ju poznať a chrániť všetci spoločne!" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2064346793643056&__xts__%5B0%5D=68.ARAAj3x-YgQYO4-7EIuM4LstJlUXhEUx2rsfMD1jbMAKZJJA77UZlOEoiMjMxTog1YyDK5TPUoWlCDnSdwAB49IkErV9qd0Nx7wpQavTNYakUK_rU5I0fiysEbzgrR_Yen0p9Olir1BLurpyXw6JknyzfEI2LN3sI7AhzJLjLlbjcwlhru_x8x2cEC7KEvyfSHpqaHco_t1f-uYnLloeU24VC-807k3LY3SoX8fnAEApY1vQ_GIdDQiBlRB2ysjTsJKZ_izfMkh8vFeGQfQUgpW7pDqgZiXzRcbB8x45-lYQpJX1ttKvKwR6nimFMmVPopyBtpBmRpkBhCGwN1WWuiYiuMM5IJN7yNFSNxTs49fW5Itbxx74gUori6PjyFxxedsafCTxZ3AA45PR9ZSxWhfx9aIjK0lqWEZY-ZWL3RzpOq5OpfD3xyXeA21uoOGTVaNjPBgbO0x6nPdBL8hMWZAh2-Iu1o4g3Oa4cNLPVVvy2pAycuqnuDpXf77pMbpQX8Foj3kuSY1vQC_gB7zyXMWiVqNXRuxXr9vQRHeaHQ&__tn__=-UC-R" ],
+    "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2065820493495686/?type=3&theater" ]
   },
   {
     "id": 2,
