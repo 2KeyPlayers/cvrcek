@@ -11,15 +11,7 @@
     "detaily": [ "" ]
   },
 
-  {
-    "id": 12,
-    "obrazok": "tetam.png",
-    "nazov": "Najinšpiratívnejšia Žena v meste 2018",
-    "autor": "",
-    "datum": "20.1.2019",
-    "text": [ "Portál Ženy v meste nominoval pani riaditeľku CVrČka, Máriu Tóthovú, do ankety medzi osem Najinšpiratívnejších žien v meste 2018. O víťazke rozhodne hlasovanie." ],
-    "detaily": [ "https://www.zenyvmeste.sk/rozhodnite-o-titule-najinspirativnejsia-zena-v-meste-za-rok-2018?fbclid=IwAR3tbxhfyIHNUiWkG75ltvDV_8YZuiKRnPQKEBdIDBqbERDq_XkV5ziY4W8" ] 
-  },
+  
   {
     "id": 11,
     "obrazok": "medovnik.png",
@@ -31,13 +23,11 @@
   },
   {
     "id": 10,
-    "obrazok": "pmr.jpg",
-    "nazov": "Pekná maďarská reč",
-    "autor": "dd",
-    "datum": "6.2.2019",
-    "text": [ "Centrum voľného času CVrČek v Moldave nad Bodvou (CVČ), poverené Okresným úradom Košice, odborom školstva, Vás pozýva na okresné kolo súťaže Pekná maďarská reč. Uskutoční sa dňa 6. februára 2019 (streda) o 9.00 hod. v priestoroch CVČ v Moldave nad Bodvou, Školská 5. Kompletne vyplnené Prihlášky, s podpisom riaditeľa ZŠ a podpisom rodiča za každého súťažiaceho žiaka, Písomný súhlas dotknutej osoby k spracúvaniu osobných údajov (súťažiaci, vyučujúci), prosíme zaslať klasickou poštou do CVČ najneskôr do 25. februára 2019. Bez nej žiak nebude môcť súťažiť!" ],
-    "detaily": [ "http://www.statpedu.sk/sk/sutaze/pekna-madarska-rec/" ],
-    "prilohy": [ "prilohy/pmr_sutaziaci.doc","prilohy/pmr_vyucujuci.doc" ]
+    "obrazok": "osobneudaje.jpg",
+    "nazov": "Cvrlikanie",
+    "autor": "np",
+    "datum": "25.1.2019",
+    "text": [ "V spolupráci so základnými školami v meste pokračujeme podľa dohodnutého harmonogramu v cyklických podujatiach pod názvom Cvrlikanie - Ochrana osobných údajov pre žiakov 6. ročníkov ZŠ." ]
   },
   {
     "id": 9,
@@ -50,14 +40,25 @@
   },
   {
     "id": 8,
-    "obrazok": "osobneudaje.jpg",
-    "nazov": "Cvrlikanie",
-    "autor": "np",
-    "datum": "25.1.2019",
-    "text": [ "V spolupráci so základnými školami v meste pokračujeme podľa dohodnutého harmonogramu v cyklických podujatiach pod názvom Cvrlikanie - Ochrana osobných údajov pre žiakov 6. ročníkov ZŠ." ]
+    "obrazok": "pmr.jpg",
+    "nazov": "Pekná maďarská reč",
+    "autor": "dd",
+    "datum": "6.2.2019",
+    "text": [ "Centrum voľného času CVrČek v Moldave nad Bodvou (CVČ), poverené Okresným úradom Košice, odborom školstva, Vás pozýva na okresné kolo súťaže Pekná maďarská reč. Uskutoční sa dňa 6. februára 2019 (streda) o 9.00 hod. v priestoroch CVČ v Moldave nad Bodvou, Školská 5. Kompletne vyplnené Prihlášky, s podpisom riaditeľa ZŠ a podpisom rodiča za každého súťažiaceho žiaka, Písomný súhlas dotknutej osoby k spracúvaniu osobných údajov (súťažiaci, vyučujúci), prosíme zaslať klasickou poštou do CVČ najneskôr do 25. februára 2019. Bez nej žiak nebude môcť súťažiť!" ],
+    "detaily": [ "http://www.statpedu.sk/sk/sutaze/pekna-madarska-rec/" ],
+    "prilohy": [ "prilohy/pmr_sutaziaci.doc","prilohy/pmr_vyucujuci.doc" ]
+  },
+  {
+    "id": 7,
+    "obrazok": "tetam.png",
+    "nazov": "Najinšpiratívnejšia Žena v meste 2018",
+    "autor": "",
+    "datum": "20.1.2019",
+    "text": [ "Naša pani riaditeľka sa umiestnila na krásnom druhom mieste! Blahoželáme! Portál Ženy v meste nominoval pani riaditeľku CVrČka, Máriu Tóthovú, do ankety medzi osem Najinšpiratívnejších žien v meste 2018. O víťazke rozhodlo hlasovanie. Viac sa dozviete pod i-čkom." ],
+    "detaily": [ "https://www.zenyvmeste.sk/rozhodnite-o-titule-najinspirativnejsia-zena-v-meste-za-rok-2018?fbclid=IwAR3tbxhfyIHNUiWkG75ltvDV_8YZuiKRnPQKEBdIDBqbERDq_XkV5ziY4W8","https://www.zenyvmeste.sk/najinspirativnejsou-zenou-v-meste-za-rok-2018-je-zaneta-petrasova?,fbclid=IwAR1K4HD1H_U74X9BFWkeApogP6TPMcbZIuHe4jPQ4IwiM7y4tREKMWScCDY" ] 
   }, 
   {
-    "id": 5,
+    "id": 6,
     "obrazok": "denzeme1.jpg",
     "nazov": "11. stEtKO - Červené",
     "autor": "mt",
@@ -66,7 +67,17 @@
     "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2074737182604017?__xts__[0]=68.ARCW9yIt5HzUif5qrp2AmaGqlDTHykxdPiJrCoef5nPFHIpnt62UmN-IddZL1CfiJstWA0X5jTezVy2fzLcKtfIVLgSyPz7vwS6ZIEn5_j2imD98YpOJMFE1i6cxkkNQgNMzF3IdhXHSrVfEcUMdYmOi3yEtVrKFw6dIHnyN8ZY4cNjIgYYVEbQZOUDuSEurT41BQXmEFJedqwBk7hVc298mupvB3sD3bzmJCE56uMP4d5b2FcbzXnsq9GUNGkhDgunAUfLrq6t7-fkc_yTIk5zlC8ORSKykelspXk-sO-jZ-X3_yvtskpqT-ilnp2Qt4aDf80QqX5uBQaVvOQicR6fMxA&__tn__=-R" ]
   },
   {
-    "id": 6,
+    "id": 5,
+    "obrazok": "ucitelskenoviny.jpg",
+    "nazov": "Zimná krajina TRADIBÁB",
+    "autor": "mt",
+    "datum": "12.1.2019",
+    "text": [ "Príspevok z pera pani riaditeľky, o Zimnej krajine TRADIBÁB, na portáli Učiteľských novín " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2067083500036052?__xts__[0]=68.ARBIAkYDOX_JE6vvoDJIMMEW8q2zqshewhg8IuI10S4AWNXJIfSj9aPth_AZCxkX93oI0cgF67w8utHtdoX0QNQdRVnKvmHMONja5nEeSiBIyRdpr2RtAAd8Z3oGt4oL0HedW1lCMjyjCmrU_kbfP1y0tnS7CDfMjF5eSzeu5AFttiF-c5t4hvuBH6Y6_tkLgrOCBlTwibYqyP0zwUNEHAph95ajHhvcy9PKiqT37cwJmuZOR66AX9gFqrJPZeLaxyMJzBMYGgvSasT8oF6zFis7S6bGAyBQNRWF2wTMpoBm4WlmB4LBgg1m8HISIhwkHt5XaGTvttU_S0foCM4OrzsOzg&__tn__=-R" ],
+    "detaily": [ "https://www.ucn.sk/ucitelske-blogy/zimna-krajina-tradibab?fbclid=IwAR3NLZQwkQMsFcdI1TaDtJyjBL64mC6Mm-LoEH45E7r8rkkFWwm-gwlXOss" ]
+  },
+  {
+    "id": 4,
     "obrazok": "osobneudaje.jpg",
     "nazov": "Cvrlikanie",
     "autor": "np",

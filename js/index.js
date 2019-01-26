@@ -6,11 +6,11 @@ Vue.component('cvrckovina', {
       <div class="header" v-html="data.nazov"></div>
       <div class="meta">
         <span class="datum" v-if="data.datum" v-bind:data-tooltip="textDatumu(data.datum)"><i v-bind:class="ikonaDatumu(data.datum)"></i> {{ data.datum }}</span>
-        <span class="datum" v-else><i class="info circle icon"></i> {{ data.typ ? data.typ : 'Oznam' }}</span>
+        <span class="datum" v-else><i class="bullhorn icon"></i> {{ data.typ ? data.typ : 'Oznam' }}</span>
         <span class="autor"><a v-bind:href="linkAutora(data.autor)"><i class="user icon"></i> {{ menoAutora(data.autor) }}</a></span>
         <span class="fotka" v-for="fotka in data.fotky"><a v-bind:href="fotka"><i class="camera icon"></i></a></span>
         <span class="priloha" v-for="priloha in data.prilohy"><a v-bind:href="priloha"><i class="paperclip icon"></i></a></span>
-        <span class="detail" v-for="detail in data.detaily"><a v-bind:href="detail"><i class="search icon"></i></a></span>
+        <span class="detail" v-for="detail in data.detaily"><a v-bind:href="detail"><i class="info circle icon"></i></a></span>
         <span class="facebook" v-for="fb in data.facebook"><a v-bind:href="fb"><i class="facebook icon"></i></a></span>
       </div>
       <div class="description">
@@ -115,7 +115,7 @@ var app = new Vue({
       } else if (this.filter == 'uskutocnene') {
         return 'calendar check icon';
       } else if (this.filter == 'oznamy') {
-        return 'info circle icon';
+        return 'bullhorn icon';
       } else {
         return 'thumbtack icon';
       }

@@ -2,7 +2,18 @@ Vue.component('zamestnanec', {
   props: ['udaje'],
   template: `<div class="card">
     <a v-bind:id="udaje.id" v-bind:name="udaje.id"></a>
-    <div class="image">
+    <div class="ui slide masked reveal image" v-if="!udaje.pn">
+      <img v-bind:src="obrazok(udaje.id)" class="visible content" />
+      <img v-bind:src="fotka(udaje.id)" class="hidden content" />
+    </div>
+    <div class="blurring dimmable image" v-if="udaje.pn">
+      <div class="ui active inverted dimmer">
+        <div class="content">
+          <div class="center">
+            <p>{{ udaje.pn }}</p>
+          </div>
+        </div>
+      </div>
       <img v-bind:src="obrazok(udaje.id)" />
     </div>
     <div class="content" v-bind:data-content="udaje.meno">
@@ -19,6 +30,9 @@ Vue.component('zamestnanec', {
   methods: {
     obrazok: function (id) {
       return 'obrazky/zamestnanci/' + id + '.svg';
+    },
+    fotka: function (id) {
+      return 'obrazky/zamestnanci/foto-' + id + '.jpg';
     },
     zratajKredity: function (kredity) {
       let pocetKreditov = 0;
