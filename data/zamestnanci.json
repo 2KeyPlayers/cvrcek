@@ -76,6 +76,10 @@
     "pozicia": "vychovávateľka",
     "kredity": [
       {
+        "nazov": "Školské projekty a medzinárodné partnestvá cez internet (aktualizačné vzdelávanie)",
+        "pocet": 8
+      },
+      {
         "nazov": "Gamifikacia - nová metóda vo vzdelávaní - YOUYHPASS"
       },
       {
@@ -84,6 +88,7 @@
       {
         "nazov": "Rozhodca atletiky I. stupňa - Osvedčenie"
       }
+      
     ]
   },
   {

@@ -116,32 +116,37 @@
         <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontakt</span></a>
         <div class="right menu">
           <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"><i class="facebook icon"></i><span>Facebook</span></a>
-          <a class="search item" onclick="$('.kontakt.modal').modal('show')"><i class="search icon"></i></a>
+          <!-- <a class="search item" onclick="$(this).toggleClass('active'); $('.search.container').slideToggle()"><i class="search icon"></i></a> -->
         </div>
       </div>
     </div>
-    <div class="ui center aligned search text container">
+    <!-- <div class="ui center aligned search text container">
       <div class="ui filter dropdown">
-        <i class="thumbtack icon"></i>
+        <input type="hidden" v-model="filter" />
+        <i v-bind:class="ikonaFiltra()"></i>
         <div class="menu">
-          <div class="item">
+          <div class="item" v-on:click="nastavFilter('vsetky')">
             <i class="thumbtack icon"></i>
             všetky
           </div>
-          <div class="item">
+          <div class="item" v-on:click="nastavFilter('pripravovane')">
             <i class="calendar alternate icon"></i>
             pripravované
           </div>
-          <div class="item">
+          <div class="item" v-on:click="nastavFilter('uskutocnene')">
             <i class="calendar check icon"></i>
             uskutočnené
+          </div>
+          <div class="item" v-on:click="nastavFilter('oznamy')">
+            <i class="info circle icon"></i>
+            oznamy
           </div>
         </div>
       </div>
       <div class="ui transparent input">
-        <input type="text" placeholder="Hladať...">
+        <input type="text" placeholder="Hladať..." v-on:change="" />
       </div>
-    </div>
+    </div> -->
 
     <div class="ui ziadosti mini modal">
       <div class="header"><i class="paperclip icon"></i> Žiadosti</div>
@@ -276,6 +281,18 @@
     </div>
 
     <div class="ui vertical stripe main segment">
+      <div class="ui container">
+        <div class="ui first teal message">
+          <i class="close icon"></i>
+          <div class="header">
+            Darujte nám 2%
+          </div>
+          <p>Vaše 2% pomôžu urobiť radosť deťom v našom/vašom CVČ CVrČek! Podporte naše Rodičovské združenie.</p>
+          <p>Zákon Vám umožňuje darovať 2% zo svojich daní z príjmov neziskovej organizácii. Tento dar Vás nič nestojí, pretože daň by Ste inak odviedli štátu. Vaše 2% pre nás znamenajú prejavenie dôvery a podporu v rozvíjaní našich aktivít v prospech vašich/našich detí.</p>
+          <p>Tlačivá nájdete <a href="prilohy/Vyhlasenie-2018.pdf"><i class="paperclip icon"></i></a> a <a href="prilohy/Potvrdenie-2018.pdf"><i class="paperclip icon"></i></a>, ale budú k dispozícii aj v CVrČkovi. Ak sa rozhodnete darovať 2% nám, je potrebné do 15. februára 2019 požiadať zamestnávateľa o vydanie potvrdenia o zaplatení dane z príjmov.</p>
+        </div>
+      </div>
+
       <div class="ui stackable main grid container">
         <div class="row">
           <div class="twelve wide column">

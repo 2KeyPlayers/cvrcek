@@ -12,7 +12,7 @@
   },
 
   {
-    "id": 9,
+    "id": 12,
     "obrazok": "tetam.png",
     "nazov": "Najinšpiratívnejšia Žena v meste 2018",
     "autor": "",
@@ -21,7 +21,7 @@
     "detaily": [ "https://www.zenyvmeste.sk/rozhodnite-o-titule-najinspirativnejsia-zena-v-meste-za-rok-2018?fbclid=IwAR3tbxhfyIHNUiWkG75ltvDV_8YZuiKRnPQKEBdIDBqbERDq_XkV5ziY4W8" ] 
   },
   {
-    "id": 8,
+    "id": 11,
     "obrazok": "medovnik.png",
     "nazov": "Rozprávkový karneval",
     "autor": "dd",
@@ -30,16 +30,17 @@
     "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2055598781184524/?type=3&theater" ]
   },
   {
-    "id": 7,
+    "id": 10,
     "obrazok": "pmr.jpg",
     "nazov": "Pekná maďarská reč",
     "autor": "dd",
     "datum": "6.2.2019",
-    "text": [ "Centrum voľného času CVrČek v Moldave nad Bodvou (CVČ), poverené Okresným úradom Košice, odborom školstva, Vás pozýva na okresné kolo súťaže Pekná maďarská reč. Uskutoční sa dňa 6. februára 2019 (streda) o 9.00 hod. v priestoroch CVČ v Moldave nad Bodvou, Školská 5. Kompletne vyplnené Prihlášky, s podpisom riaditeľa ZŠ a podpisom rodiča za každého súťažiaceho žiaka, Písomný súhlas dotknutej osoby k spracúvaniu osobných údajov (súťažiaci, vyučujúci)6.2.2019, prosíme zaslať klasickou poštou do CVČ najneskôr do 25. februára 2019. Bez nej žiak nebude môcť súťažiť!" ],
-    "detaily": [ "http://www.statpedu.sk/sk/sutaze/pekna-madarska-rec/" ]
+    "text": [ "Centrum voľného času CVrČek v Moldave nad Bodvou (CVČ), poverené Okresným úradom Košice, odborom školstva, Vás pozýva na okresné kolo súťaže Pekná maďarská reč. Uskutoční sa dňa 6. februára 2019 (streda) o 9.00 hod. v priestoroch CVČ v Moldave nad Bodvou, Školská 5. Kompletne vyplnené Prihlášky, s podpisom riaditeľa ZŠ a podpisom rodiča za každého súťažiaceho žiaka, Písomný súhlas dotknutej osoby k spracúvaniu osobných údajov (súťažiaci, vyučujúci), prosíme zaslať klasickou poštou do CVČ najneskôr do 25. februára 2019. Bez nej žiak nebude môcť súťažiť!" ],
+    "detaily": [ "http://www.statpedu.sk/sk/sutaze/pekna-madarska-rec/" ],
+    "prilohy": [ "prilohy/pmr_sutaziaci.doc","prilohy/pmr_vyucujuci.doc" ]
   },
   {
-    "id": 7,
+    "id": 9,
     "obrazok": "masopust.jpg",
     "nazov": "Fašiangy",
     "autor": "mt",
@@ -48,21 +49,30 @@
     "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2063201513757584/?type=3&theater" ]
   },
   {
-    "id": 5,
+    "id": 8,
     "obrazok": "osobneudaje.jpg",
     "nazov": "Cvrlikanie",
     "autor": "np",
     "datum": "25.1.2019",
     "text": [ "V spolupráci so základnými školami v meste pokračujeme podľa dohodnutého harmonogramu v cyklických podujatiach pod názvom Cvrlikanie - Ochrana osobných údajov pre žiakov 6. ročníkov ZŠ." ]
+  }, 
+  {
+    "id": 5,
+    "obrazok": "denzeme1.jpg",
+    "nazov": "11. stEtKO - Červené",
+    "autor": "mt",
+    "datum": "17.1.2019",
+    "text": [ "Témou dnešného Červeného stretka pre 4. A triedu zo ZŠ Severná bola Červená kniha ohrozených druhov, prezentácia o chránených druhoch rastlín a zvierat na Slovensku, zábavný strEtKOkvíz a krátky film Tatranská zima. No a samozrejme poznatok, že vzduch máme z prírody, vodu máme z prírody, jedlo máme z prírody... Ak chceme prežiť, tak si ju musíme chrániť!" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2074737182604017?__xts__[0]=68.ARCW9yIt5HzUif5qrp2AmaGqlDTHykxdPiJrCoef5nPFHIpnt62UmN-IddZL1CfiJstWA0X5jTezVy2fzLcKtfIVLgSyPz7vwS6ZIEn5_j2imD98YpOJMFE1i6cxkkNQgNMzF3IdhXHSrVfEcUMdYmOi3yEtVrKFw6dIHnyN8ZY4cNjIgYYVEbQZOUDuSEurT41BQXmEFJedqwBk7hVc298mupvB3sD3bzmJCE56uMP4d5b2FcbzXnsq9GUNGkhDgunAUfLrq6t7-fkc_yTIk5zlC8ORSKykelspXk-sO-jZ-X3_yvtskpqT-ilnp2Qt4aDf80QqX5uBQaVvOQicR6fMxA&__tn__=-R" ]
   },
   {
-    "id": 4,
-    "obrazok": "denzeme1.jpg",
-    "nazov": "Červené strEtKO",
-    "autor": "mt",
-    "datum": "18.1.2019",
-    "text": [ "V spolupráci so ZŠ na území mesta CVrČek pripravuje cyklické environmentálne podujatia pod názvom strEtKO, tentokrát o chránených druhoch rastlín a zvierat na Slovensku." ],
-    "detaily": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2065820493495686/?type=3&theater" ]
+    "id": 6,
+    "obrazok": "osobneudaje.jpg",
+    "nazov": "Cvrlikanie",
+    "autor": "np",
+    "datum": "11.1.2019",
+    "text": [ "V piatok, 11.1.2019, nás navštívila opäť jedna skvelá trieda zo ZŠ ČSA. Žiaci 7. a triedy sa dozvedeli nové užitočné informácie o ochrane osobných údajov." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2070113543066381" ]
   },
   {
     "id": 3,

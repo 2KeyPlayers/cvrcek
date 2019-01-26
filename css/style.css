@@ -177,6 +177,27 @@
   margin-right: 0;
 }
 
+.first.message a {
+  color: #009c95;
+}
+.second.message a {
+  color: #a7bd0d;
+}
+.third.message a {
+  color: #d01919;
+}
+.fourth.message a {
+  color: #f26202;
+}
+.ui.message a > .icon {
+  opacity: .7;
+  -webkit-transition: opacity .1s ease;
+  transition: opacity .1s ease;
+}
+.ui.message a > .icon:hover {
+  opacity: 1;
+}
+
 .ui.search.container {
   padding-top: 1em;
 }
@@ -367,6 +388,10 @@ div.margined, .ui.margined.cards {
 }
 .kredity.extra.content, .cinnost.extra.content {
   cursor: pointer;
+}
+
+.dimmable p {
+  color: rgba(0, 0, 0, .85);
 }
 
 .register {

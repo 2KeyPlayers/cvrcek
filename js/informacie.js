@@ -69,6 +69,12 @@ var app = new Vue({
 
         $('.cards .card .content').popup();
         $('.colors .label').popup();
+        $('.message .close').on('click', function() {
+          $(this)
+            .closest('.message')
+            .transition('fade')
+          ;
+        });
       
         var href = window.location.href;
         var url = new URL(href);

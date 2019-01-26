@@ -97,11 +97,28 @@ var app = new Vue({
     zobrazene: 0,
     pocet: 5,
     dalsie: false,
-    nahravam: false
+    nahravam: false,
+    filter: 'vsetky',
+    hladat: null
   },
   methods: {
     prazdnePole: function (pole) {
       return !pole || pole.length == 0;
+    },
+    nastavFilter: function (f) {
+      this.filter = f;
+      this.hladat = '';
+    },
+    ikonaFiltra: function () {
+      if (this.filter == 'pripravovane') {
+        return 'calendar alternate icon';
+      } else if (this.filter == 'uskutocnene') {
+        return 'calendar check icon';
+      } else if (this.filter == 'oznamy') {
+        return 'info circle icon';
+      } else {
+        return 'thumbtack icon';
+      }
     },
     zobrazitDalsie: function (pauza) {
       if (pauza == undefined) {
@@ -136,6 +153,13 @@ var app = new Vue({
         $('span.copyright').html('2004-' + new Date().getFullYear());
         $('.ui.pocet.dropdown').dropdown();
         $('.ui.filter.dropdown').dropdown();
+        // $('.search.container').hide();
+        $('.message .close').on('click', function() {
+          $(this)
+            .closest('.message')
+            .transition('fade')
+          ;
+        });
 
         var href = window.location.href;
         var url = new URL(href);
