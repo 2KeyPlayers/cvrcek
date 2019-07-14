@@ -367,7 +367,7 @@
           <button v-bind:class="'ui dalsie basic ' + (nahravam ? 'loading' : '') + ' button'" v-on:click="zobrazitDalsie()">Zobraziť
             ďalších
           </button>
-          <select class="ui pocet compact selection dropdown" v-model="pocet">
+          <select class="ui pocet compact selection dropdown" v-model="pocet" v-on:change="zobrazitDalsie()">
             <option value="5">5</option>
             <option value="10">10</option>
             <option value="15">15</option>
@@ -385,7 +385,7 @@
               <div class="item">
                 <div class="content">
                   <i class="building icon"></i>
-                  CVČ CVrČek
+                  Centrum voľného času CVrČek
                 </div>
               </div>
               <div class="item">
