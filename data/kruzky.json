@@ -7,7 +7,7 @@
   {
     "nazov": "Atletika",
     "veduci": "np",
-    "kedyKde": [ "Pondelok 14:00, Areál ZŠ ČSA", "Utorok 14:00, Cvičebňa", "Streda 14:00, Areál ZŠ ČSA", "Štvrtok 14:00, Areál ZŠ ČSA" ]
+    "kedyKde": [ "Pondelok 14:00, ZŠ ČSA", "Utorok 14:00, ZŠ ČSA", "Streda 14:00, ZŠ ČSA", "Piatok 14:00, ZŠ ČSA" ]
   },
   {
     "nazov": "Bábkové divadlo",
@@ -77,22 +77,22 @@
   {
     "nazov": "Malí vedci",
     "veduci": "dd",
-    "kedyKde": [ "Piatok 14:00, Herňa" ]
+    "kedyKde": [ "Piatok 14:00, Chodba" ]
   },
   {
     "nazov": "Moderné dievčatá",
     "veduci": "rm",
-    "kedyKde": [ "Piatok 14:00, Klubovňa" ]
+    "kedyKde": [ "Piatok 14:00, Herňa" ]
   },
   {
     "nazov": "Montessori",
     "veduci": "dd",
-    "kedyKde": [ "Streda 16:00, Klubovňa" ]
+    "kedyKde": [ "Streda 16:00, Chodba" ]
   },
   {
     "nazov": "Piloxing",
     "veduci": "dd",
-    "kedyKde": [ "Pondelok 14:00, Bábkovňa" ]
+    "kedyKde": [ "Pondelok 14:00, Cvičebňa" ]
   },
   {
     "nazov": "Pohybovka",
@@ -107,7 +107,7 @@
   {
     "nazov": "Plávanie",
     "veduci": "np",
-    "kedyKde": [ "Štvrtok 14:00, Plaváreň Šaca", "1x mesačne, ZŠ Buzica" ]
+    "kedyKde": [ "Plaváreň Drienovec", "2x mesačne" ]
   },
   {
     "nazov": "Rybárik",
