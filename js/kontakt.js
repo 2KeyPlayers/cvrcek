@@ -17,25 +17,4 @@ $(document).ready(function () {
     });
   }
 
-  // var ll = new google.maps.LatLng(48.6127996,20.9988147),
-  // options = {
-  //     zoom: 18.01,
-  //     center: ll,
-  //     mapTypeId: google.maps.MapTypeId.ROADMAP,
-  //     mapTypeControl: !1,
-  //     scrollwheel: !1,
-  //     draggable: !0,
-  //     navigationControl: !1
-  // },
-  // map = new google.maps.Map(document.getElementById("map-canvas"), options);
-
-  // google.maps.event.addDomListener(window, "resize", function () {
-  //   var e = map.getCenter();
-  //   google.maps.event.trigger(map, "resize"), map.setCenter(ll)
-  // });
-
-  // var marker = new google.maps.Marker({
-  //   position: ll,
-  //   map: map
-  // });
 })
