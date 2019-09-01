@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
   <meta name="format-detection" content="telephone=no" />
 
-  <title>CVČ CVrČek » Archív</title>
+  <title>CVČ CVrČek » Kontakt</title>
   <meta name="description" content="To najlepšie miesto pre deti a mládež">
   <meta name="keywords" content="CVrČek, CVČ, centrum, voľného, času, Moldava, Moldava nad Bodvou">
   <meta name="author" content="2 Key Players">
@@ -21,7 +21,7 @@
   <meta property="fb:app_id" content="159482424129512" />
   <meta name="twitter:card" content="summary" />
 
-  <link rel="canonical" href="http://www.cvcmoldava.edu.sk/archiv">
+  <link rel="canonical" href="http://www.cvcmoldava.edu.sk/kontakt">
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -41,11 +41,12 @@
   <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
   <!-- production version, optimized for size and speed -->
   <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <!-- <script src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyCi1OsW_0b-VEWW-xzL6qqwgRF17a7HSGA" type="text/javascript"></script> -->
 </head>
 
 <body>
 
-  <div id="app" class="cvrckoviny pusher">
+  <div id="app" class="kontakt pusher">
     <div class="ui top segment">
       <div class="ui container">
         <img class="logo" src="obrazky/cvrcek.svg" alt="CVrČek" />
@@ -64,24 +65,13 @@
       </div>
     </div>
 
-    <div class="ui cena basic modal">
-      <div class="content">
-        <img class="ui fluid image" src="prilohy/cenamesta.jpg" alt="Cena mesta" />
-      </div>
-      <div class="actions">
-        <div class="ui basic cancel inverted button">
-          Zavrieť
-        </div>
-      </div>
-    </div>
-
     <div class="ui big borderless main menu">
       <div class="ui container">
         <a class="first item" href="/"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
         <a class="second item" href="/informacie"><i class="info icon"></i><span>Informácie</span></a>
         <a class="third item" href="/financie"><i class="euro icon"></i><span>Financie</span></a>
-        <a class="active fourth item" href="/archiv"><i class="archive icon"></i><span>Archív</span></a>
-        <a class="fifth item" href="/kontakt"><i class="pencil icon"></i><span>Kontakt</span></a>
+        <a class="fourth item" href="/archiv"><i class="archive icon"></i><span>Archív</span></a>
+        <a class="active fifth item" href="/kontakt"><i class="pencil icon"></i><span>Kontakt</span></a>
         <div class="right menu">
           <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"><i class="facebook icon"></i><span>Facebook</span></a>
         </div>
@@ -90,7 +80,7 @@
 
     <div class="ui vertical stripe main segment">
       <!-- <div class="ui container">
-        <div class="ui fourth orange message">
+        <div class="ui first teal message">
           <i class="close icon"></i>
           <div class="header">
             Darujte nám 2%
@@ -100,163 +90,118 @@
           <p>Tlačivá nájdete <a href="prilohy/Vyhlasenie-2018.pdf"><i class="paperclip icon"></i></a> a <a href="prilohy/Potvrdenie-2018.pdf"><i class="paperclip icon"></i></a>, ale budú k dispozícii aj v CVrČkovi. Ak sa rozhodnete darovať 2% nám, je potrebné do 15. februára 2019 požiadať zamestnávateľa o vydanie potvrdenia o zaplatení dane z príjmov.</p>
         </div>
       </div> -->
-    
+
       <div class="ui stackable main grid container">
         <div class="row">
-          <div class="twelve wide column">
-            <a id="najnovsie" name="najnovsie"></a>
+          <div class="six wide column">
+            <a id="adresa" name="adresa"></a>
             <h4 class="ui horizontal header divider">
-              <i class="archive icon"></i>
-              {{ rok }}
+              <i class="building icon"></i>
+              Adresa
             </h4>
-            <div class="ui unstackable relaxed divided najnovsie cvrckoviny items">
-
-              <div v-if="prazdnePole(najnovsie)" class="ui active centered inline big loader"></div>
-              <cvrckovina v-for="(data, index) in najnovsie" v-bind:data="data" v-bind:key="index"></cvrckovina>
-
+            <div class="ui center aligned container">
+              <p>Centrum voľného času CVrČek</p>
+              <p>Školská 5</p>
+              <p>Moldava nad Bodvou</p>
+              <p>045 01</p>
             </div>
           </div>
-          <div class="four wide column">
-            <a id="roky" name="roky"></a>
-            <h4 class="ui horizontal mobile header divider">
-              <i class="history icon"></i>
-              Roky
+          <div class="five wide column">
+            <a id="pracovny-cas" name="pracovny-cas"></a>
+            <h4 class="ui horizontal header divider">
+              <i class="clock icon"></i>
+              Pracovný čas
             </h4>
-            <div class="ui relaxed divided link list">
-              <a v-for="(r, index) in roky" v-bind:class="(rok === r ? 'active ' : '') + 'rok item'" v-bind:href="'/archiv-' + r" v-bind:key="index">
-                <div class="ui header">
-                  <i class="archive icon"></i>
-                  <div class="content">
-                    {{ r }}
-                  </div>
-                </div>
-              </a>
+            <div class="ui center aligned container">
+              <p>Pondelok: 10:00 - 17:30</p>
+              <p>Utorok: 10:00 - 18:00</p>
+              <p>Streda: 10:00 - 17:30</p>
+              <p>Štvrtok: 10:00 - 16:00</p>
+              <p>Piatok: 10:00 - 17:30</p>
+            </div>
+          </div>
+          <div class="five wide column">
+            <a id="uradne-hodiny" name="uradne-hodiny"></a>
+            <h4 class="ui horizontal header divider">
+              <i class="clock icon"></i>
+              Úradné hodiny
+            </h4>
+            <div class="ui center aligned container">
+              <p>-</p>
+              <p>Utorok: 16:00 - 18:00</p>
+              <p>Streda: 10:00 - 12:00</p>
+              <p>-</p>
+              <p>-</p>
             </div>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="ui vertical stripe secondary quote center aligned segment">
-      <div class="ui center aligned text container">
-        <div class="ui timeline feed">
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">1.12.1964</div>
-              <div class="extra text">
-                Dátum vzniku CVČ
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">27.6.2001</div>
-              <div class="extra text">
-                Udelenie <a class="pomenovanie" href="prilohy/Pomenovanie.pdf">pomenovania <span class="centrum">C</span><span
-                    class="volneho">V</span>r<span class="casu">Č</span>ek <i class="file pdf icon"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">1.4.2002</div>
-              <div class="extra text">
-                Právna subjektivita
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">1.10.2004</div>
-              <div class="extra text">
-                Spustenie webových stránok <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ka
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">26.9.2008</div>
-              <div class="extra text">
-                Rozšírenie <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ka o
-                priestory Superfleku
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">13.8.2011</div>
-              <div class="extra text">
-                <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek na
-                facebook-u
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">31.12.2013</div>
-              <div class="extra text">
-                Ukončenie činnosti v Superflek-u
-              </div>
-            </div>
-          </div>
-          <div class="event">
-            <div class="label">
-              <i class="dot circle icon"></i>
-            </div>
-            <div class="content">
-              <div class="date">27.6.2014</div>
-              <div class="extra text">
-                Udelenie ocenenia <a class="pomenovanie" onclick="$('.cena.modal').modal('show')">Cena mesta <i class="file image icon"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="ui vertical stripe map segment">
+      <!-- <div id="map-canvas"></div> -->
+      <iframe width="100%" height="500" id="map-canvas" src="https://maps.google.com/maps?q=centrum%20volneho%20casu%20moldava&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     </div>
 
     <div class="ui vertical stripe segment">
       <div class="ui text container">
-        <a id="starsie" name="starsie"></a>
+        <a id="mobil" name="mobil"></a>
         <h4 class="ui horizontal header divider">
-          <i class="archive icon"></i>
-          {{ rok }}
+          <i class="mobile icon"></i>
+          Mobil
         </h4>
-        <div class="ui unstackable relaxed divided starsie cvrckoviny items">
-
-          <div v-if="prazdnePole(cvrckoviny)" class="ui active centered inline big loader"></div>
-          <cvrckovina v-for="(data, index) in cvrckoviny" v-bind:data="data" v-bind:key="index"></cvrckovina>
-
+        <div class="ui center aligned container">
+          <a href="tel:00421905815083">+421 (905) 815 083</a>
         </div>
-        <div class="ui center aligned container" style="margin-top:3em" v-if="dalsie">
-          <button v-bind:class="'ui dalsie basic ' + (nahravam ? 'loading' : '') + ' button'" v-on:click="zobrazitDalsie()">Zobraziť
-            ďalších
-          </button>
-          <select class="ui pocet compact selection dropdown" v-model="pocet" v-on:change="zobrazitDalsie()">
-            <option value="5">5</option>
-            <option value="10">10</option>
-            <option value="15">15</option>
-          </select>
+      </div>
+      <div class="ui text container">
+        <a id="telefon" name="telefon"></a>
+        <h4 class="ui horizontal header divider">
+          <i class="phone icon"></i>
+          Pevná linka
+        </h4>
+        <div class="ui center aligned container">
+          <a href="tel:00421554607253">+421 (55) 460 7253</a>
+        </div>
+      </div>
+      <div class="ui text container">
+        <a id="email" name="email"></a>
+        <h4 class="ui horizontal header divider">
+          <i class="mail icon"></i>
+          E-mail
+        </h4>
+        <div class="ui center aligned container">
+          <a href="mailto:cvrcek@cvcmoldava.edu.sk">cvrcek@cvcmoldava.edu.sk</a>
+        </div>
+      </div>
+      <div class="ui text container">
+        <a id="iban" name="iban"></a>
+        <h4 class="ui horizontal header divider">
+          <i class="euro sign icon"></i>
+          IBAN
+        </h4>
+        <div class="ui center aligned container">
+          SK73 0200 0000 0017 4487 2754
+        </div>
+      </div>
+      <div class="ui text container">
+        <a id="ico" name="ico"></a>
+        <h4 class="ui horizontal header divider">
+          <i class="file alternate outline icon"></i>
+          IČO
+        </h4>
+        <div class="ui center aligned container">
+          35544236
+        </div>
+      </div>
+      <div class="ui text container">
+        <a id="dic" name="dic"></a>
+        <h4 class="ui horizontal header divider">
+          <i class="file alternate outline icon"></i>
+          DIČ
+        </h4>
+        <div class="ui center aligned container">
+          2021638630
         </div>
       </div>
     </div>
@@ -357,7 +302,7 @@
     </div>
   </div>
 
-  <script src="js/archiv.js"></script>
+  <script src="js/kontakt.js"></script>
 
 </body>
 

@@ -21,6 +21,8 @@
   <meta property="fb:app_id" content="159482424129512" />
   <meta name="twitter:card" content="summary" />
 
+  <link rel="canonical" href="http://www.cvcmoldava.edu.sk/informacie">
+
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -29,9 +31,9 @@
   <meta name="msapplication-TileColor" content="#00aba9" />
   <meta name="theme-color" content="#ffffff" />
 
-  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="semantic/dist/semantic.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
   <link rel="stylesheet" type="text/css" href="css/style.css" />
 
   <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script> -->
@@ -62,51 +64,6 @@
       </div>
     </div>
 
-    <div class="ui kontakt mini modal">
-      <div class="header"><i class="pencil icon"></i> Kontakt</div>
-      <div class="content">
-        <div class="ui relaxed divided link list">
-          <div class="item">
-            <div class="ui header">
-              <i class="building icon"></i>
-              <div class="content">
-                <div class="sub header">
-                  CVČ CVrČek<br />
-                  Školská 5<br />
-                  Moldava nad Bodvou<br />
-                  045 01
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="ui header">
-              <i class="phone icon"></i>
-              <div class="content">
-                <div class="sub header">
-                  <a href="tel:00421905815083">+421 (905) 815 083</a><br />
-                  <a href="tel:00421554607253">+421 (55) 460 7253</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="ui header">
-              <i class="mail icon"></i>
-              <div class="content">
-                <div class="sub header">
-                  <a href="mailto:cvrcek@cvcmoldava.edu.sk">cvrcek@cvcmoldava.edu.sk</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="actions">
-        <div class="ui ok button">OK</div>
-      </div>
-    </div>
-
     <div class="ui vzdelavanie modal">
       <div class="header"><i class="graduation cap icon"></i> {{ zamestnanec.meno }}</div>
       <div class="content">
@@ -132,11 +89,11 @@
 
     <div class="ui big borderless main menu">
       <div class="ui container">
-        <a class="first item" href="index.html"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
-        <a class="active second item" href="informacie.html"><i class="info icon"></i><span>Informácie</span></a>
-        <a class="third item" href="financie.html"><i class="euro icon"></i><span>Financie</span></a>
-        <a class="fourth item" href="archiv.html"><i class="archive icon"></i><span>Archív</span></a>
-        <a class="fifth item" onclick="$('.kontakt.modal').modal('show')"><i class="pencil icon"></i><span>Kontakt</span></a>
+        <a class="first item" href="/"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
+        <a class="active second item" href="/informacie"><i class="info icon"></i><span>Informácie</span></a>
+        <a class="third item" href="/financie"><i class="euro icon"></i><span>Financie</span></a>
+        <a class="fourth item" href="/archiv"><i class="archive icon"></i><span>Archív</span></a>
+        <a class="fifth item" href="/kontakt"><i class="pencil icon"></i><span>Kontakt</span></a>
         <div class="right menu">
           <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"><i class="facebook icon"></i><span>Facebook</span></a>
         </div>

@@ -78,6 +78,7 @@ var app = new Vue({
     dalsie: false,
     nahravam: false,
     rok: null,
+    roky: [],
     filter: 'vsetky',
     hladat: null
   },
@@ -118,7 +119,11 @@ var app = new Vue({
     var href = window.location.href;
     var url = new URL(href);
 
+    this.roky = ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009'];
     this.rok = url.searchParams.get("rok");
+    if (!this.rok && href.indexOf('-') >= 0) {
+      this.rok = href.substring(href.lastIndexOf('-') + 1);
+    }
     if (!this.rok) {
       this.rok = '2018';
     }

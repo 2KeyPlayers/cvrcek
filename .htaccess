@@ -1,0 +1,19 @@
+RewriteEngine on
+RewriteOptions inherit
+RewriteBase /
+
+#RewriteCond %{HTTP:Accept-Language} ^sk [NC]
+#RewriteRule ^$ http://localhost:8080/sk/ [L,R=301]
+
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_URI} !(.*)/$
+#RewriteRule ^(.*)$ $1/ [R=301,L]
+
+RewriteRule ^archiv\-(.*)/?$ archiv.html?rok=$1 [L,QSA]
+
+RewriteCond %{DOCUMENT_ROOT}/$1\.html -f
+RewriteRule ^(.*)/?$ $1.html [L,QSA]
+
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule (.*) index.html [L,QSA]
