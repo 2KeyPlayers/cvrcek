@@ -116,11 +116,11 @@ var app = new Vue({
     }
   },
   mounted: function() {
-    var href = window.location.href;
+    var href = window.location.href; //window.location.pathname;
     var url = new URL(href);
 
     this.roky = ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009'];
-    this.rok = url.searchParams.get("rok");
+    this.rok = url.searchParams.get('rok');
     if (!this.rok && href.indexOf('-') >= 0) {
       this.rok = href.substring(href.lastIndexOf('-') + 1);
     }
@@ -149,7 +149,7 @@ var app = new Vue({
           ;
         });
 
-        var id = url.searchParams.get("id");
+        var id = url.searchParams.get('id');
         if (id && $('#' + id)) {
           $('html, body').animate({
             scrollTop: parseInt($('#' + id).offset().top)
