@@ -469,11 +469,18 @@ div.margined, .ui.margined.cards {
   text-align: left;
 } */
 
+.ui.custom.images {
+  text-align: center;
+}
+  .ui.custom.images .ui.image {
+  height: 270px;
+}
+
 .kontakt .den {
   display: inline-block;
   text-align: right;
   padding-right: 10px;
-  width: 80px;
+  width: 85px;
 }
 .kontakt .typ.buttons .ui.button {
   font-size: .7rem;
