@@ -1,20 +1,24 @@
-$(document).ready(function () {
+var app = new Vue({
+  el: '#app',
+  data: {
+    pracovnyCas: null,
+    typ: 'cvrcek'
+  },
+  methods: {
+    zmenTyp: function (typ) {
+      app.typ = typ;
+    }
+  },
+  mounted: function() {
+    $.getJSON('/data/pracovny-cas.json', function (json) {
+      app.pracovnyCas = json;
 
-  $('span.copyright').html('2004-' + new Date().getFullYear());
-  $('.message .close').on('click', function() {
-    $(this)
-      .closest('.message')
-      .transition('fade')
-    ;
-  });
-
-  var href = window.location.href;
-  var url = new URL(href);
-  var id = url.searchParams.get("id");
-  if (id && $('#' + id)) {
-    $('html, body').animate({
-      scrollTop: parseInt($('#' + id).offset().top)
+      $(document).ready(function () {
+        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+          $('#app').addClass('touch');
+        }
+        inicializuj();
+      });
     });
   }
-
 })

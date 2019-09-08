@@ -140,21 +140,8 @@ var app = new Vue({
         if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
           $('#app').addClass('touch');
         }
-        $('span.copyright').html('2004-' + new Date().getFullYear());
         $('.ui.pocet.dropdown').dropdown();
-        $('.message .close').on('click', function() {
-          $(this)
-            .closest('.message')
-            .transition('fade')
-          ;
-        });
-
-        var id = url.searchParams.get('id');
-        if (id && $('#' + id)) {
-          $('html, body').animate({
-            scrollTop: parseInt($('#' + id).offset().top)
-          });
-        }
+        inicializuj();
       });
     });
   }

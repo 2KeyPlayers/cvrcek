@@ -86,16 +86,7 @@ var app = new Vue({
         if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
           $('#app').addClass('touch');
         }
-        $('span.copyright').html('2004-' + new Date().getFullYear());
-        
-        var href = window.location.href;
-        var url = new URL(href);
-        var id = url.searchParams.get("id");
-        if (id && $('#' + id)) {
-          $('html, body').animate({
-            scrollTop: parseInt($('#' + id).offset().top)
-          });
-        }
+        inicializuj();
       });
     });
   }
