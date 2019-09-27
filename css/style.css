@@ -472,7 +472,7 @@ div.margined, .ui.margined.cards {
 .ui.custom.images {
   text-align: center;
 }
-  .ui.custom.images .ui.image {
+.ui.custom.images .ui.image {
   height: 270px;
 }
 
@@ -517,6 +517,7 @@ div.margined, .ui.margined.cards {
 .hore.container a {
   display: inline-block;
   width: 100%;
+  font-size: .92857143rem;
   padding: 1em 0;
   color: rgba(0, 0, 0, .6);
 }
