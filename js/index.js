@@ -19,10 +19,10 @@ Vue.component('cvrckovina', {
     </div>
   </div>`,
   methods: {
-    obrazok: function (obrazok) {
+    obrazok: function(obrazok) {
       return 'obrazky/aktuality/' + obrazok;
     },
-    porovnajDatum: function (datum) {
+    porovnajDatum: function(datum) {
       let pole = datum.split('.');
       let den = pole[0].padStart(2, '0');
       let mesiac = pole[1].padStart(2, '0');
@@ -35,21 +35,21 @@ Vue.component('cvrckovina', {
       }
       return false;
     },
-    ikonaDatumu: function (datum) {
+    ikonaDatumu: function(datum) {
       let ikona = 'alternate';
       if (this.porovnajDatum(datum)) {
         ikona = 'check';
       }
       return 'calendar ' + ikona + ' icon';
     },
-    textDatumu: function (datum) {
+    textDatumu: function(datum) {
       let text = 'Pripravovaná';
       if (this.porovnajDatum(datum)) {
         text = 'Uskutočnená';
       }
       return text;
     },
-    linkAutora: function (autor) {
+    linkAutora: function(autor) {
       if (!autor || autor == 'cvc') {
         return 'informacie.html?id=zamestnanci';
       } else if (autor == '2kp') {
@@ -58,7 +58,7 @@ Vue.component('cvrckovina', {
         return 'informacie.html?id=' + autor;
       }
     },
-    menoAutora: function (autor) {
+    menoAutora: function(autor) {
       if (!autor || autor == 'cvc') {
         return 'CVČ';
       } else if (autor == '2kp') {
@@ -68,9 +68,9 @@ Vue.component('cvrckovina', {
       } else if (autor == 'kb') {
         return 'Teta Katka';
       } else if (autor == 'dd') {
-        return 'Teta Diana';
-      } else if (autor == 'rm') {
-        return 'Teta Radka';
+        return 'Teta Diana D.';
+      } else if (autor == 'dk') {
+        return 'Teta Diana K.';
       } else if (autor == 'np') {
         return 'Ujo Norbi';
       } else if (autor == 'pf') {
@@ -86,7 +86,7 @@ Vue.component('cvrckovina', {
       }
     }
   }
-})
+});
 
 var app = new Vue({
   el: '#app',
@@ -102,14 +102,14 @@ var app = new Vue({
     hladat: null
   },
   methods: {
-    prazdnePole: function (pole) {
+    prazdnePole: function(pole) {
       return !pole || pole.length == 0;
     },
-    nastavFilter: function (f) {
+    nastavFilter: function(f) {
       this.filter = f;
       this.hladat = '';
     },
-    ikonaFiltra: function () {
+    ikonaFiltra: function() {
       if (this.filter == 'pripravovane') {
         return 'calendar alternate icon';
       } else if (this.filter == 'uskutocnene') {
@@ -120,7 +120,7 @@ var app = new Vue({
         return 'thumbtack icon';
       }
     },
-    zobrazitDalsie: function (pauza) {
+    zobrazitDalsie: function(pauza) {
       if (pauza == undefined) {
         pauza = 1000;
       }
@@ -135,19 +135,19 @@ var app = new Vue({
     }
   },
   mounted: function() {
-    $.getJSON('/data/cvrckoviny.json', function (json) {
+    $.getJSON('/data/cvrckoviny.json', function(json) {
       app.najnovsie = json;
       // remove last 'template' item
       app.najnovsie.shift();
-    
+
       if (app.najnovsie.length > 2) {
         app.starsie = app.najnovsie.splice(2);
         app.cvrckoviny = [];
         app.zobrazitDalsie(0);
       }
 
-      $(document).ready(function () {
-        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+      $(document).ready(function() {
+        if ('ontouchstart' in document.documentElement || 'ontouchstart' in window) {
           $('#app').addClass('touch');
         }
         $('.ui.pocet.dropdown').dropdown();
@@ -157,4 +157,4 @@ var app = new Vue({
       });
     });
   }
-})
+});

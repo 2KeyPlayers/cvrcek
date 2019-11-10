@@ -7,15 +7,387 @@
     "datum": "",
     "text": [ "" ],
     "facebook": [ "" ],
-    "prilohy": [ "" ],
-    "detaily": [ "" ]
+    "prilohy": [ "" ]
   },
-
   
+
 
   
   {
-    "id": 1290,
+    "id": 0,
+    "obrazok": "vlajka.jpg",
+    "nazov": "Vlajka pre CVrČka",
+    "autor": "mt",
+    "datum": "2.12.2019",
+    "text": [ "Pri príležitosti blížiacich sa 55. narodením vyhlásil CVrČek výtvarnú súťaž pre deti v tvorbe obrázkov na počítači na tému Vlajka pre CVrČka. Nesmierne nás teší množstvo srdiečok a milých pozitívnych reakcií detí na ich prácach! Je vidieť, že CVrČka majú radi! A CVrČek má rád ich! Vyberte aj vy najkrajšiu vlajku pre CVrČka! Jeden komentujúci, ktorý napíše, prečo práve táto vlajka sa mu páči, bude odmenený 2. decembra 2019, na slávnostnom vyhlasovaní víťazov." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2567932973284433&__tn__=-UC-R" , "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2567924939951903&__tn__=-UC-R" , "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2567906476620416&__tn__=-UC-R" , "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2567906476620416&__tn__=-UC-R "],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/pcb.2549201305157600/2549188858492178/?type=3&theater" ],
+    "detaily": [ "https://www.facebook.com/cvcmoldava/photos/pcb.2549201305157600/2549192155158515/?type=3&theater" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "list.jpg",
+    "nazov": "Ročné obdobia - Jeseň",
+    "autor": "mt",
+    "datum": "7.11.2019",
+    "text": [ "Dňa 7. novebra 2019 nás v CVrČkovi navštívili deti z MŠ Veselá zebra. Deti si vypočuli a zároveň sa mali možnosť aj zapojiť do bábkovej hry o lesných zvieratkách. Prostredníctvom rozprávky sa poučili o kamarátskych vzťahoch a o tom, ako sa zvieratká pripravujú na zimné obdobie. Hlavnú postavičku rozprávky, Ježka Jožka si aj vytvorili na pamiatku a dúfame, že s radosťou budú spomínať aj na zábavné chvíľky v cvičenbni. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2571235439620853?__xts__[0]=68.ARAIM4IoHSyOxLrMM9V7tU-0QhJ8uOGshm7MyZnE_T2Sx59mmxWbAXLlTeFxH0Ouzilz75jhcF9-AVALNDhxQVuKLfLHrDKJ3nrYPQpbuzWVitQoDpVV78bt7N3ew5woDC3-NJIPI6fuAe_jU65Or8FoIsMs2XkTgH4USj3N8FkcylauT67wu2BAikvTFGDv7X1VYaOik09i53cc6kXl5_kmxpFrOVhlhE7uSrYJA2DyiuhPjSEILhJLkZWpaKjkxUhN9nEMkYff_duER__nRJH9oPIILAh7os62nrDj24Afsg4QiMU3vkRn-DqjCApvFQw1k-eBH1EmSQdWY0M5Wi4Azw&__tn__=-R" ]
+  },
+  {
+    "id": 143,
+    "obrazok": "dielna1.png",
+    "nazov": "Dielnička",
+    "autor": "mt",
+    "datum": "23.10.2019",
+    "text": [ "Na Dielničke sme dnes vyrábali sovu z prírodných materiálov. Telo sovičky tvorila kôra, oči, uši, nos a ústa rôzne prírodniny a pierka. Do-zdobili sme to listami a konárikmi a krásny jesenný darček bol hotový!" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2569868189757578&__xts__%5B0%5D=68.ARDzVx1rdxn0KFrYz_O_n0JCCgPIO5OYd-K7XAqRegyI9dcqbFEg0BULP_7v1660j8au6moV7x4QbhCujm0oQywW3YPK4W5Iz9JPRISSmja8g8kHMU5VDoXFiKHdN1vtEuwNug_8Uq2Zekv2VoqX4fGWG-8rxp_q4C2O4lOFkEDPNYWylxeAjTz60IrQldaGAeACQh7nSc9aqsEX_bAq3nVbSaX4y9cf9eRvaKEIWMUfWzaCxihvz9Mz1CneZiwolp8Yip6JDbNfUkJjYxniOnJdswd0149XyZQ0poVZ6TXjrnDHQ2fTXNDEctG1PRP3xFogCgN2L5xT8dg52DgCFrpcLTczcrtUdZbeIWSCGS9Opdk6QCwNh71sD4W7PhDFX6dGe6ecHv1L0nBc0MOUISZeAoEC1wn0eIHJvpLLLaCLMBp59_YG6OKysmCBICTdtGL13rteSkavOHe0DSe4C89MIWOtB16hn7jxXXBQn4jadl0mFZ0JAxofyEzQP1hRKRvIg5YIaaQ_LgVGjN7JOdIwOA13Bf9JK6eazjY9pw&__tn__=-UC-R" ]
+  }, 
+  {
+    "id": 145,
+    "obrazok": "vajce.jpg",
+    "nazov": "Cvrlikanie - Obchodovanie s ľuďmi",
+    "autor": "dd",
+    "datum": "6.10.2019",
+    "text": [ "CVrČek pokračoval v Cvrlikaní na tému Obchodovania s ľuďmi. Na podujatí sa dnes, 6.11.2019, zúčastnili žiaci 9. B. triedy Základnej Školy na ulici Československej Armády, ktorí sa aktívne o tému zaujímali." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2569303983147332?__xts__[0]=68.ARDn0klc9zS5Gtyrko-pEG0o_OaA23ZPYjJWaOHGx8rWbcHmqkoEAUy3RRZLYfv8jOywBjwxuv1Kl8lr8pNcMvk-dvnn89ip4Cj7Kfz9c34uLUMFXb2VC-cexHQAGP4eLYQAmjsEynaM69RJR33cjeSizFYXHiXjjZLU5xx_AcCZl6Yf-TwJetUM78IbZNH6VIEJyZs_UUxGiX4tBj4dxOAsKkMc4x3x2YaVaF7_xmyDYoAXMdQlZD1XFGWvbvhtxD_e8e7tHZllzIozqGBEB_Lrq2yhJS2Vj7AqduDLJbtdvdemZGD_55iuNuVmv4Cxd6hY3xz8_ShGSXJaWYLpHdMk8Q&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "rybar.gif",
+    "nazov": "Jesenné prázdniny - Rybačka",
+    "autor": "np",
+    "datum": "31.10.2019",
+    "text": [ "Rybačka je krásny koníček, koho raz chytí za srdce, nedokáže odolať. Sadnúť si s udičkou v ruke skoro ráno pri vode a počúvať štebot prebúdzajúcich sa vtákov, to je proste paráda, pohoda, kľud a relax. Naši rybárikovi si dnes, 31. októbra 2019, užili práve taký skvelý prázdninový deň. Ku Janíckemu rybníku vyrazili skoro ráno a vrátili sa neskoro večer. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2557528444324886?__xts__[0]=68.ARDXp9lGEadE3Uvp0SZmo8g4xcX-AL_KO2AK7Hz5V-ImxsacPB5dfLpveHUEYToQ4VRuIXdhmAaUIbtQhcEIfQj0dXEJ6tg-zaDkIzLtY9iFwXjZe8inZWtH5YAL-h1IELpv0lZ-oxeh_6ewMi67oyZFPgpqlU9TIZgNcF_zNgctcxt9-J6FmONVBi4_eqwGBm6P32WC6r1aw6rL16CboT5ObPZZffyeOZLX_IQOM16YN7UifpvE0OPsx2LNGa2S5RfG3G8RZ1bGX91FWaQECIRBKZAEIw4tseqmYvfLGHJX6TMQfgeRCUfkTm3p9hQXs_-a1KUrBTVpY-Gr6s5GGt8ofg&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "ponozky.jpg",
+    "nazov": "Ponožkový október",
+    "autor": "mt",
+    "datum": "31.10.2019",
+    "text": [ "Charitný dom sv. Alžbety na Bosakovej ulici v Košiciach je účelovým zariadením Arcidiecéznej charity. Ide o kombinované zariadenie útulku a nocľahárne pre ľudí bez domova. Práve sem putovalo dnes 53 párov ponožiek zo zbierky, ktorá sa uskutočnila v CVĆkovi. Pani Vierka, klientka charitného domu, bola prvá, ktorá si z ponožiek vybrala tú svoju.☺️Zamestnanci zariadenia ďakujú všetkým, ktorí prispeli ponožkami. My ďakujeme aj pánovi Petrovi Vargovi za nezištnú pomoc pri presune ponožiek (a našej pani riaditeľky). " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2556943734383357?__xts__[0]=68.ARBOTgwt7U8d6Gs3Y_MWpRRTrdetSQBW56aYNEq2BZo90DbwqvCzgm4kvKEVwaLyfLk0wJ9g4xd5xlv-6cvMUg1hVRV7DATA71TFVnKwa2SPZSLagUnOcsl7H3SRyUzkTGIu_GVh9HiGZxVa7_iv2R41A0WPED_FMTj5LGMrn9aR5xDk8XeBGuqvJsX1GhoHiUJSkpktiH10bCud-P40EfES69xjHNDI134lcE1_sCLsofHUDy-BgxC1I0xj8bcVZzRZiqHJEgkSgLfPupm8Ji5i_yrnSu1U73wMG7hu1CNqAtBySFgv6t9IKxMyrzS07zWlhNNPcAyNpfwS9Rv44u4UlQ&__tn__=-R" ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/posts/2521873871223677?__xts__[0]=68.ARBqO9moS1eGo8nKUKuNMltnmsJssolfefVuwqDSFGbjxIJGOT7UDT1EuKq7Jv0b8fN54kmjW7BGyJtblDZGbz6LAOz9B5opAPdcDhcoTVQCUUMDM2g0kyUrn7gYKtBXt5g3HJiwJb1zuIETUKBHLUfHfGz13Ie3nQ_v0yiQvAwlkQXRMKx8iFj33KK9jwkVZuL_thhHAlMZUQA8QV8uxjCeowIyv1ZxTTO4UpxWmN392wyNhkkkNpkCy6p_LQ8KafA5syRPrJBboXHaQKmm7E5bv9-EjAWfcETIZYQpVDo5pVOG5A2fhMOMhOLbZc4qUjKXFepC2Z5iSUlmgBXrYZBTrQ&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "dielnickaj.jpg",
+    "nazov": "Jesenné prázdniny - Výlet do Levoče",
+    "autor": "rm",
+    "datum": "30.10.2019",
+    "text": [ "Prvý deň jesenných prázdnin, 30. októbra 2019, sme s deťmi prežili v historickej Levoči. V malebnom mestečku, zapísanom do svetového dedičstva UNESCO, sme obdivovali dielo majstra Pavla z Levoče v podobe najväčšieho dreveného oltára v Európe. V historickej radnici sme sa okrem iného dozvedeli legendu o Levočskej bielej panej a pod radnicou sme nakupovali v obchodíku s ručne vyrobenými výrobkami. Najviac sa nám páčilo v Múzeu špeciálneho školstva, kde sme si užili prehliadku interaktívnej stálej expozície a vyskúšali sme svoje zmysly – zrak, sluch, hmat a čuch. V Levoči sa nám veľmi páčilo, veríme, že ju navštívime aj niekedy nabudúce. Ďakujeme Rodičovskému združeniu pri CVČ za úhradu nákladov za autobus." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2555417037869360" ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/posts/2534095036668227?__xts__[0]=68.ARAZKzfNioJHsF0haiVZZPpG86NbfVI2PhsDE3o67KcaIo3Ywm-YD_Zvtg5nG2z7hcrg1OB6PYl6S0cb7nCXOkZFJb0xDuwsTiPLldUdPlgizv2j637mz6QTgkDjkQFLAuESSdTQqWztt8w6mkn5DhcZwyY58PWm1wuy8cXBhcrlsBHJYoBVAUc13DQSDqV0VluWnBW82QFqRH-NoxJBB1q3llReNwNUKtB_5txmW_tjcM6n-nexlVoTGcODm_ZhfLP7MZZiHrc3uolDSKXvUIaOJRNiM3YoNK-HGpNJvjEcGGQ6ugvVMkU_IwEXPLPx54_4ixdxQ-ooRljVk3OriVhNyA&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "atletika.jpg",
+    "nazov": "Majstrovstvá VsAZ v cezpoľnom behu",
+    "autor": "np",
+    "datum": "26.10.2019",
+    "text": [ "Po úspešnom vlaňajšom ročníku sa Majstrovstvá Východného Slovenska v Cezpoľnom behu uskutočnili opäť v Moldave nad Bodvou a to 26. októbra 2019. Na majstrovstvách sa zúčastnili atléti zo 6 atletických klubov, ktorí pretekali v nasledujúcich disciplínach: najmladšie žiačky a žiaci na 500 m, mladšie žiačky a žiaci na 1 000 m, staršie žiačky 1 500m a žiaci 2 000m, dorastenky a dorastenci 3 000m a juniori na 5 000m. Usporiadateľom bol z poverenia VsAZ Atletický legionársky klub - Moldava nad Bodvou v spolupráci s našim Centrom voľného času CVrČek. Jeseň nám dopriala príjemné slnečné počasie a zrodili sa aj krásne výsledky. Víťazom gratulujeme a prajeme všetkým zúčastneným veľa ďalších športových úspechov." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2547059358705128&__xts__%5B0%5D=68.ARAgqg9QW3GjkHQ5NCdGZoaF9RHNzKbeBltcswDaX9-z1YyznM4u2cj1nAQWDFZpK2fWQnWwGkKagInXV1PLjNF8fKeMWrV5OVTkWp3TQV5s6swiBlYbLmY9myUCXq3VkX3_RpD74IUz9mbJRa0imLG4TkEx42vqGFWPXQPUCZhqUNjGnRq8SDxqn9zzVW9is_5ywNU7b4rnatih5xrZgcAhVGicC64lqz_2VXjWM8R1WqpqYxjvEnANk05ZIKzMMOncqmhL_tZevf1B5Wrxce_sg1reMiOdFdZvAu2acqooNrCtHWzgH8e2qia8Thzx-qFpbXChu4zPhmjT-LqwuO2jZjD_gESrTNjcieL7WAkH4kshowuBcLgWHX5ph5yAQdWc5IkSb84T7JBg0OG2hrIwF7ImC6_XP11URY_ekMcuozDIOxDNDRSJPE2kaEf3QWYU3TLG8ka-0u61VEKa&__tn__=-UC-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "halloween.jpg",
+    "nazov": "Halloweenská tvorivá dieľňa",
+    "autor": "mt",
+    "datum": "24.10.2019",
+    "text": [ "Naše zlaté mamky nám poslali fotografie bosoriek, ktoré vyrobili dnes, 24. októbra 2019, na Halloweenskej dielničke ich malé bosorečky. Ďakujeme!" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2543493682395029?__xts__[0]=68.ARD1aZ0P6BHtG8iUN8ArvrGEFl50DIUmkHFzOsOeEKjSd4j64pQ52-ZonMBoKr7KuEvZBSsC2DrrOeid9BSn0ajTmjb8uDy45iEpXYiTLJ5Dy27y8qg60H7ck1wk7zaEVVTa6QsS5ftvs_kioh5ohEZyhbxOG-5u9FW0IB-EliTOzoGBOsw4TyDpyLcxEIJrIisbUX6YdgoLbjmLmaj08dk4_gz3i-QzQOWGr9T26Aop7MKwu5G72gTBDp4-dEFMlpx7CPNbKtx4Rl5sUEl-Yt6LVPP-D6prKKfJFPhDss_4OU4s0JnSFrVww4B3KaE62ELq2NaGpQfcpnE92gQMHxUucA&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "list.jpg",
+    "nazov": "Ročné obdobia - Jeseň",
+    "autor": "rm",
+    "datum": "24.10.2019",
+    "text": [ "Zopár fotografií z dnešných milých stretnutí zo škôlkármi z MŠ Krátka a MŠ Severná v rámci cyklického podujatia Ročné obdobia - Jeseň." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2542634535814277?__xts__[0]=68.ARAvTm5y9yIKWt309OGH0bS1XFtg82BSK49ccIm2x0HU0XNObCG-FVFo7fRQTruwDetDk7A3JQPAr6uaPAEo6m6OB2xZyO1uFZ-lWjcCpnJJ2Unt0zAhXy5z1KwcoWIcbkL9ZJHqj3LbwkRtGgq384ccXmU0JnOzvLjp_7v5_uP6OiJNJc0mPXgqDOl6XK001iU513BYVNoTsR_uM0AVZFhxnZ2piRsAjzvUXufj2b3TfXGjX-8dL2MEaN6ekLzad0cH9PaqiuqtVQ86x9ikj4FW3kLrXf6mce5f7ooSx6n-eRbxkIzc1QfTDl2dOIjejKMWUdzl7XEUFSqcs0HPjB3Log&__tn__=-R" ]
+  },
+  {
+    "id": 143,
+    "obrazok": "dielna1.png",
+    "nazov": "Dielnička",
+    "autor": "mt",
+    "datum": "23.10.2019",
+    "text": [ "V CVrČkovi mali dnes, 23. októbra 2019, zraz čarodejnice.️ Neľakajte sa, nie naozajstné, iba handmade, ktoré vyrobili šikovné ruky našich Dielničkárov. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2541182232626174?__xts__[0]=68.ARDxi1TP8VoFNMclHVjQZWt_pX31dnSz9fSu56NdEA82gZ_rmI3SwOcCChDkeOG3GVDJWDmxtQY7iqdaKyZRg_Dk8Vm2kSlG7aMRPBE1VudbgNE8y06NDF2e7Z-7ljuzKMemiZYz6xM9_Y0wBAZF8h5IwoNDP-ZuZAlj2yHe0UnA0WKlrSkGyuDycX3Js2UQmwZFK0de_Vu01W-XIsSLAQqm9cVsmANZ25WxKXC2ydhjM4-RQCRAbd8rpqAwV_p5Dw7ah_l60LItVL5hkOA-dBdD0AQFxaeI2mrUThz7SDCPqLxxg2qC6uofmSyw9kdXwvBkSc37PwxRAsdFV7Om8u577A&__tn__=-R" ]
+  }, 
+  {
+    "id": 145,
+    "obrazok": "vajce.jpg",
+    "nazov": "Cvrlikanie - Obchodovanie s ľuďmi",
+    "autor": "dd",
+    "datum": "23.10.2019",
+    "text": [ "Rozsiahlej tematike Obchodovania s ľuďmi sme sa dnes so žiakmi 9.A triedy zo ZŠ ČSA venovali už po druhýkrát. Dnes, 23. októbra 2019 si pozreli film Mne sa to stať nemôže, zo série obchodovania s ľuďmi a ich vedomosti sme rozšírili aj za pomoci aktivity s inzerátmi. Na stretnutí sme využili aj aplikáciu kahoot.it, ktorá ich zaujala a preto ju budeme aplikovať na našich stretnutiach aj v budúcnosti." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2540551912689206?__xts__[0]=68.ARBudyxzz-NfhXkOSylBFWHeKYfA4NaKTVTxRH8AC5K0Oe49zYlp8PJHw7kBkcSeSjDDgx9IjHk_jJGjNeeToJKaH9bWoEbsPdL_txabYWP8YPu_r1LIpa6Hutkn0LtoTMpNBKall9kUt9-w_fvHBF4EWhdPyRZC9OGelVzHG7wH6i1xwUVFbLy6fqONsvacj_1jVmOETH49NL0Wh9vSWWcDIm8Z1fbiM10AsdgAQhXAa43_hWm2iyRWE7LkgQ0PH495O9_Fu7Z6WHxzPJw-oLVT_UKNAtBRwGJIDZdqDjjyS_LAlPRryTia9oQx6ji9qEhORj9tzImwxOwKTkJab3KZjA&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "oznam.jpg",
+    "nazov": "Výberové konanie",
+    "autor": "mt",
+    "datum": "21.10.2019",
+    "text": [ "Riaditeľstvo Centra voľného času CVrČek vyhlasuje výberové konanie na obsadenie miesta vychovávateľa/vychovávateľky CVČ. Ide o pracovný pomer na dobu určitú od 4. novembra 2019 (zastupovanie počas rodičovskej dovolenky, na čiastočný úväzok 80%. Žiadosť s potrebnými dokladmi a označením „Výberové konanie – vychovávateľ CVČ“ posielajte na adresu Centrum voľného času CVrČek do 28. októbra 2019. Termín výberového konania bude oznámený vybraným uchádzačom. Viac informácií nájdete v prílohe." ],
+    "prilohy": [ "prilohy/oznam.doc" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "asociacia.jpg",
+    "nazov": "Metodický seminár",
+    "autor": "mt",
+    "datum": "18.10.2019",
+    "text": [ "Pani vychovávateľky Mgr. Diana Dókušová a Radka Maňovská sa v dňoch 17. a 18. októbra 2019 zúčastnili na Metodickom seminári pracovníkov CVČ na Slovensku v Rekreačnom stredisku Hotel Hlboké – Bojnice. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2530257620385302?__xts__[0]=68.ARAydC4EBwMrCsCRKl29usJXc3z65TKNZc99JSqnkNPd9mAwFE_7pw5l1-4aSnsSgtYbgyu2cFBnlPXgI8wHrNXNmSeWK4c3aGXbXcsEWLm4NkgiNqgiroRmACwdfkQwh7DW81pJMLc_FcCbBW-pViAGZsMO5P11FJ7YpOwwjaacOpMQTKtVNcs5XYhnbKNKkflLzQvVz0QaDBqbbSHG0Wag7xgOW6qSgh2XdycFteliBYDs4bl-e2T1TcAS_nM-DbxY4SfH_c38RDXAa5xicE7eetMe1HBrWNavVIRcIdKH_RveC6NkoltgXCDwwSkT-7IZbwB_9V7cWTBtr233WdNIIg&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "babinec.jpg",
+    "nazov": "Momentky",
+    "autor": "",
+    "datum": "16.10.2019",
+    "text": [ "Piloxing kids, Hip hop kids, Aerobkáčik kids" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.1094145967329815/2526226940788370/?type=3&theater" , "https://www.facebook.com/cvcmoldava/photos/a.1094145967329815/2526101137467617/?type=3&theater" , "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2523897914354606/?type=3&theater" ]
+   
+  },
+  {
+    "id": 143,
+    "obrazok": "dielna1.png",
+    "nazov": "Dielnička",
+    "autor": "mt",
+    "datum": "16.10.2019",
+    "text": [ "Dielničkári 16. októbra 2019 maľovali. Maľovali brezu – mystický, jesenný a krásny strom s typickou čierno-bielou kôrou a farebnými listami. K ich vydareným obrázkom je ťažké niečo dodať... Jednoducho rozprávkové." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2526216027456128&__xts__%5B0%5D=68.ARDA2sLffuXWyvtq51OiD6BPwHFjkANnO2ylYe5wBg5QWB5rvdmWQGwvBk3Y2KxWkQ5NTcZMIIfG06-245BR-Ca0aV6IdMZ4Y19IdVJNjm6Jmbjvk4I8rOnNN3SmX384hDVFqWl3ak6GKH_biUwdsbHkpnxlRwjtU3U1LlI2upJV606rChfq0EoU6HfvzeNs56HpP8OQhYAux2aavhHG6ir3KjvCEr19nMCmIoAIL3iO6atBwOwooxwKNVisGxYgyiuh0W9pHHwvhRFZVSUbOaPXFx1B9IHliT5iHSXX3-zFjo-kmLrHEGpWZQz1HtV_R08onPVpfWshmLYRrGKFT1Dd13jGjaMvBfxkpP1xwHJyInw-Sm5A62VZ9HUPkb1dnvE_9J1LtlDKWFc8mSgo0_kuchv98h318TfDjtQb_El6mv2SMFC8M50C2QKcmoJo9RBFmRNL-oAkXAir6qOm&__tn__=-UC-R" ]
+  }, 
+  {
+    "id": 145,
+    "obrazok": "vajce.jpg",
+    "nazov": "Cvrlikanie - Obchodovanie s ľuďmi",
+    "autor": "dd",
+    "datum": "16.10.2019",
+    "text": [ "Predpoludnie 16. októbra 2019 bolo naozaj rušné a pritom aj veľmi užitočné. Naše pozvanie prijali študenti Gymnázia Štefana Moysesa a žiaci Základnej Školy na ulici Československej Armády. Venovali sme sa najvýnosnejšiemu a zároveň najrýchlejšie rastúcemu nelegálnemu obchodu na svete, a to obchodovaniu s ľuďmi. Rozsiahlej tematike sme sa venovali dnes s gymnazistami už po druhýkrát. Zo žiakmi Základnej Školy budeme debatovať o danej problematike aj na našom ďalšom stretnutí." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2525663057511425?__xts__[0]=68.ARBhFLQsgmMdwIJDmeWc8vnRaUnujBjPr6YV8vGUGsIdJ-x2tlij1zjC-XQannbldaOYilPlsvpcsi-Qr8u0moAKEt4yk5yvDXgixPmcoBpywhwgm4b0IAs5MBAcC7tIvSXPUDqoZATHmVjihUZVJz-mjBO8Csh-h_pT2le2_nascWDKdn-aNTPl5FLcPdPlsxfCBx192JBo0zOPjNyqznXNYa0-xvJpuBh4WDwkJzRRUMUGSn1H_tW3WPbbRVN1kJMglhf4oAHKXz1hCFGbydfCsePeTBWN6VW0sBZhzq-gN2j_N5GMfMgn52YVb3bK9x6oKwI5bat2YYwnRP7MJhuTMA&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "foto.jpg",
+    "nazov": "Foto",
+    "autor": "rm",
+    "datum": "15.10.32019",
+    "text": [ "Fotografické triky nás bavia! Dnes, 15. októbra 2019, nás bolo síce pomenej, no zábavy bolo určite dosť. Aj takéto niečo sme si dnes vyskúšali na fotografickom krúžku." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2523865037691227?__xts__[0]=68.ARD4Vmdsz_m9BlcN3YkNxy6zT6GTHEgI3sPK0UhN5ckRdB4QI-TREIjSbGMehzEKk3VnMBWHU0uLpMuD24lQqya_l1kGPjyowBJA5rNk8ZnBUctJKDTq-cMFi1Juu-_LIwVvmgH8tUU675s77B2PoWf4TeQBZSYU61mSzZ7ma4fEKQGQmt2Lh0_G9ZO533MMTsqQt3NfpGnA8OXk5xJIjSZ-HNSOKHffFn2cAYdMNR9yPsCpFS3hmaWLk2j9bOsKGY-4KUntO_or9bxKhdoUUsaBrNojgi27FyN7FIe99M_SCl2bt584aykZiQAQZRxptvKRiHo-0vvC9W1niHz8S_I8fA&__tn__=-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "uluv.png",
+    "nazov": "V krajine remesiel 2019",
+    "autor": "mt",
+    "datum": "10.10.2019",
+    "text": [ "Krásny výlet si dnes, 10. októbra 2019, užili dievčatká z Dielničky, ktoré si išli do Košíc prevziať cenu v súťaži V krajine remesiel 2019. Po ceste vláčikom sa hneď na stanici posilnili chutnou pizzou a tak im cesta na Hlavnú ulicu ubehla rýchlo a príjemne. Tam sa trochu túlali a pozreli si miesta, ku ktorým im teta Marika porozprávala staré povesti. V cukrárni AIDA si zamaškrtili na koláčiku a vybrali sa do ÚĽUV-u. Vyhodnotenie výstavy navštívil aj samotný kráľ remesiel a z jeho rúk si za všetky dievčatá prevzala cenu Larka. Po slávnosti všetkých čakala krásna výstava víťazných prác, recepcia a po nej aj prekvapenie v podobe čítania rozprávky od Pavla Dobšinského. Do rozprávky o Mechúrikovi - Koščúrikovi sa zapojili aj naše dievčatá. Potom krátko venovali interview rádiu Regina a ponáhľali sa na vláčik. Deň na jednotku s hviezdičkou, plný pohody, zážitkov, zastavení, spomienok... Ďakujeme dievčatám za vzornú reprezentáciu CVrČka a tete Marike ďakujeme, že ich na tú súťaž úspešne pripravila. PS: Nedá nám nespomenúť, že v celoslovenskej súťaži medzi ocenenými bol náš CVrČek jediné CVČ."],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2513549778722753&__xts__%5B0%5D=68.ARBPgU2piHcYm7m86gHbl5yeA8KbKeGcJWg-R2aW4tN67DJyjKnJnAsz56B-No5a3t0yCCEcnoE7rQdo-OFpem0z_oEo4rqp-gA_YgE0rHAYeGK1vp431OY2NQPV3XMmyXxaiNo_-iv5KqnOD0JJCqCAw7gsQ1G0JKdfgsFa0cpm5NWun40N3M7FsFDvHXTaJjZPnOHDpVJXXxbCnQFDW_HLqDt4fSLlTAFW3stZj0cHnnuVkB_9aduc9M1LnSgtbov18EH6mCgfcBlI_0xRHZo6aVmRpndGfbLkY8zNg17eCd5tv3sUj5vbBtq2HN4yLp0X_QOHsGHL4tPySlXP5gspaCmHCRxs1uAkIPS1gTO6zuIkzedaXCzTX-adEkkbHo9GUzuE4rUDh_gseb_hclllz1cnsTgS43a1joyTkjakUk5BQ_HMjuX2qepV1U-bc3boDbVvQW8gWl2jyfbA&__tn__=-UC-R" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "drobcek1.png",
+    "nazov": "Pohybovka",
+    "autor": "dd",
+    "datum": "10.10.2019",
+    "text": [ "Telocvičňa plná detí zahreje pri srdiečku. Sme radi milí rodičia, že Vám tiež záleží na tom, aby si deti vypestovali vzťah k pohybu a považovali šport za prirodzenú súčasť života. Ďakujeme Vám za prejavenú dôveru." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2513776932033371/?type=3&theater" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "list.jpg",
+    "nazov": "Ročné obdobia - Jeseň",
+    "autor": "rm",
+    "datum": "10.10.2019",
+    "text": [ "Dnes sme zahájili škôlkárske stretnutia na tému jeseň. Detičky z MŠ Stonôžka si vypočuli rozprávku o deduškovi Večerníčkovi, ktorý upratoval popadané lístie. V našej telocvični sa ozývali melódie detských pesničiek, pri ktorých všetci cvičili veselo a smelo. Nakoniec si vyrobili rozprávkového ježka. Tešíme sa na nich opäť v zime!" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2513107202100344?__xts__[0]=68.ARCh3dq8t2JYf5DspsTJD8dxeHeHzV1K6J45QX4cI3bzWorPQS8Z7kOU6eIFxglCBhvffIMSyWZsEH6GflCMyxSKPAH-Pkk7RK0LoW_DSExhFQZ3V84a86lc5NFNyuA0QkOEW7BNOx8rbVTiT8pT3lV0V3qqN6TqmeDOpPHnqtLYUZsVIJPUpxuwNYnqNvLDpxSt_NkGyAOG-BkLjwlLe3Oy2GZ3550hOdIG0wKgPKqf9ahJwf1O4qUFGZDEtsEbFTgeRamjrWadh5APtR3iDJc3rA-qhUx8KQVUQAmruJ05sdjJA9UwQ7F96dcu4FfkhIaccSYbEkv1sGOzlbYz57HwrH-q5lFK7lGPTH0B4TLHCT3E20HTHF8n469q40-ZWkhOVsiax1hggnB9e07Whoe69IkJJ6xi1Gvzl7MOZWF9BzAAvTrkop8ub5SSn76KeJ6M_HiQdzPS_q73rUWL&__tn__=-R" ]
+  },
+  {
+    "id": 143,
+    "obrazok": "dielna1.png",
+    "nazov": "Dielnička",
+    "autor": "mt",
+    "datum": "9.10.2019",
+    "text": [ "Kvety a lány levandule sú neskutočne krásne a voňavé. Ich unikátne účinky pozná každý z nás. Ale že sú aj skvelým tvorivým materiálom, o tom vás presvedčia naši Dielničkári, ktorý z nich 9. októbra 2019 vyrábali voňavé a roztomilé „panenky“. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2511835382227526/?type=3&theater" ]
+  }, 
+  {
+    "id": 145,
+    "obrazok": "vajce.jpg",
+    "nazov": "Cvrlikanie - Obchodovanie s ľuďmi",
+    "autor": "dd",
+    "datum": "9.10.2019",
+    "text": [ "Dnešným dňom sme otvorili brány aj našim Cvrlikaniam - preventívnym workshopom. 9.októbra 2019 ku nám zavítali študenti 4.A triedy Gymnázia Štefana Moysesa. Rozprávali sme sa o tom, ako bezpečne vycestovať a pracovať v zahraničí a zároveň sme poukázali aj na najväčšie nebezpečenstvá, s ktorými sa môžeme v zahraničí stretnúť. Našou hlavnou témou bolo obchodovanie s ľuďmi. Nakoľko je tematika bohatá a rozsiahla, budeme sa ňou zaoberať aj na našom ďalšom stretnutí. Tešíme sa na Vás." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2511134185630979&__xts__%5B0%5D=68.ARB2mssgFVfF1_UhXmwmrkjWMshehRQFWkN1_9koKPYHZu-PClid4Y2OcWCee-jdSLkHn16NfnQXkVuuSvw8QZ6k1iSjzj1bbHr2HaeJSmeC470j_WfVWM6qRSlH_mclEmtwzuC2eMccQcU_2m4R7pkT_FOTfWvr-v8tM5HGR_wDXxk_QDimsccuZxB6Bdx8f0h8FasNRu44BU2o995sbTQDJQc4p8cYXyO9T29VH5Eb4SRT5davWOzj_wBHzG-sMn_oPqYWO61D7EGzOgTY62xyvlz3gNOOAhD0BMd9LNOWUOEWlTvXmOWnjsz9aNA8fwuvWdt4NrcF9xffSa0v4GkdNUhHVxvcqWh-JgBzv2QjBVY15gT0fEeov3JHKaLrzO5lWbQwJb2uk7ohRrXLpC9IKNYl00LT2I5FrJ3H3vzdVa2xoXstwArBiPv33hp93uFtW5pms7Fdp9pbnuJH&__tn__=-UC-R" ]
+  },
+  {
+    "id": 144,
+    "obrazok": "plavanie.jpg",
+    "nazov": "Plávanie",
+    "autor": "dd",
+    "datum": "6.10.2019",
+    "text": [ "Dnešným dnom sme otvorili brány aj plaveckých krúžkov. Deti čakajú každý víkend zábavné a pestré tréningy s množstvom pohybových aktivít, ktoré sú pripravená tak, aby sa predchádzalo stresujúcim situáciám zo strachu z vody. Odteraz budú víkendy patriť vode a zábavným hrám v nej. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2505513626193035/?type=3&theater" ]
+  },
+  {
+    "id": 143,
+    "obrazok": "dielna1.png",
+    "nazov": "Dielnička",
+    "autor": "mt",
+    "datum": "2.10.2019",
+    "text": [ "Na prvom stretnutí s deťmi sme na krúžku Dielnička vyrábali tieto nebezpečne krásne dekorácie - muchotrávky. Však sú milé? A vôbec nie sú jedovaté. Pozrite si obrázky." ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2498161430261588&__xts__%5B0%5D=68.ARDj3E1FrwCIB9c-IgcTEAlCz1STPbMlfpRFBIodWOg-_TZ5zHYleRy8Yn4KN3fJscT-rAsikSyf1x2z3rsLUdbgZkcx-y3O8sqafOa2rcrOLdL7nTBOSMWigz2duSWqsJL_BiAA_wgaUc7T4Q9W8tI-88Dzc-EJxzQ7iVEDeay_dg-DQCGrfYN5ejBzxA4n2dEk9n9IPNRMAeVoi-gQvUWFBJ3X5tMf-9JAKPia8JR8NxrnfmBi3UcRDajXh9fo2tphhcSjvnkewFkOOP0tl2_vIvl4XVUC4CwdEkDx0KNHehFa_N0kgAho-hS0f8q8uspfqV03EE-TXQ6xgo1s8IQe2Uvcy4fyNxMyZb10aLrjDN5NKMS7SuD-jXex5yQr8zLsEI9qwW8-oyd6hMNMzOZJzplZPLOTd-LLWHBA2Yum4zZom3c-n9d3gJJqk4BdwPWuvpgJ_bU84GtNrJq_bQT-zFCIWFerMPQIrHVqdn_mJLa321B8pyzQ0sVlqeP3AYcQr_BEzF3U2Es5H2F-N4yfKWZNB5xc6yv74qasRA&__tn__=-UC-R" ]
+  }, 
+{
+  "id": 142,
+  "obrazok": "stvorlistok.jpg",
+  "nazov": "Začíname",
+  "autor": "mt",
+  "datum": "1.10.2019",
+  "text": [ "Na známosť sa dáva, dôležitá správa, 1. októbra 2019 CVrČek brány otvára! Milí rodičia, poplatky za záujmové útvary, ktoré navštevujú vaše deti, môžete uhradiť na číslo účtu SK73 0200 0000 0017 4487 2754 a do správy pre prijímateľa uveďte meno dieťaťa a názov záujmového útvaru. Ďakujeme!" ],
+  "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2482929588451439/?type=3&theater" ]
+},
+  {
+    "id": 141,
+    "obrazok": "etm2019.png",
+    "nazov": "Prejdime sa spolu!",
+    "autor": "mt",
+    "datum": "22.9.2019",
+    "text": [ "Centrum voľného času CVrČek v Moldave nad Bodvou, ako koordinátor kampane ETM 2019 vo svojom meste, prijalo výzvu a pripojilo sa k propagácii myšlienky Prejdime sa spolu! vytvorením fotky po vzore the Beatles. Kde? No predsa na moldavských zebričkách! Kto? No predsa CVrČkov tím!" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2474863065924758/?type=3&theater" ]
+  },
+  {
+    "id": 140,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Deň bez áut",
+    "autor": "mt",
+    "datum": "22.9.2019",
+    "text": [ "Dnes bol posledný deň ETM 2019 v našom meste. :-) V tomto roku sa do tejto kampane zapojilo 3 003 miest v Európe a 58 miest a obcí na Slovensku, medzi nimi Moldava nad Bodvou už po 9 krát. Dnešný deň bol výnimočný - bol to Deň bez áut. V celej Európe sa v tento deň uzavrú ulice či parkoviská a pripravujú sa na nich aktivity pre peších. Aj my sme takú prichystali. :-) Zorganizovali sme CVrČkovo šachové kráľovstvo - zápas dvoch šachistov so živými šachovými figúrkami. Ďakujeme našim aktérom, deťom zo ZŠ ČSA – živým figúrkam, zvládli to skvelo! Ďakujeme pani zástupkyni, pani učiteľkám, rodičom a vám divákom, že ste tu s nami boli! Ďakujeme mestu Moldava nad Bodvou, ktoré poskytlo finančné prostriedky na zakúpenie rekvizít! Ďakujeme našim šachistom, že nám pomohli zrealizovať dnešné krásne predpoludnie!" ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452230041521394/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2478432815567783&__xts__%5B0%5D=68.ARAdgK1I2MbQ5GS6zp_MkBVYPYaTiWfCPIW3IV8_N1mYVBEdpDEiTRnLfc0BCXn3a8igpKasQ77f7v0SgYyU5paMJ0Kw3LVbg1OD2nzxCVqcUMQ7o7twwFOOWE7eFsHRs5aCZ7a6nirVciQb1h3sIo3NjogE1WCGkltbin2yn6upYoTVvI_LaXRpALAolFgwQSa4bUn9yppJYKsj7j_au3sSIVbsLUoFidk6oMnH75VZ9d0i9qtaAhpl9aElhpZl_0NFG0dltSTAJWomiJtU179TFU1oZp_Uvzvr6P7PWQCAZKb27Cf9gNfAYcWcTPGISN-zl7JZCgKahUO2JliOL5VcxBFI_iH0TjmW5YJNFgQsYuRAQRxFRoSFx-KT5XTdXlQHrPya2M7Du57NYQO8rgd_L1hSsND-jHWls9XYEyk4DbCgqsj5kCLkMTe32FMQeVDQfdKbNwDOzebLSZSfqTSDNGIBNgB4oEi5CvKC24wO_z45ljHJKH5g8J_UXM3bHhy3rtCJS3U3fiI115RiDuQBIfFR9YOAj4qXuY2eTg&__tn__=-UC-R" ]
+  },
+  {
+    "id": 139,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Hýbme sa spolu",
+    "autor": "mt",
+    "datum": "21.9.2019",
+    "text": [ "V rámci Európskeho týždňa mobility v našom meste zorganizovala Materská škola Stonožka perfektné preteky na detských odrážadlách, kolobežkách a bicykloch. 36 súťažiacich detí za búrlivého povzbudzovania rodičov si zápolenie náramne užili, každý dostal účastnícku medailu, od medveďa Haribo cukríky a víťazi krásne ceny. A my, koordinátori ETM v meste sme dostali prísľub, že toto skvelé podujatie môžeme zaradiť medzi tradičné každoročné podujatia našej kampane. :-) Tešíme sa!" ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452219664855765/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2476518329092565&__xts__%5B0%5D=68.ARCnXOVjUoPw1jaq5R1zMdrpB9F_RQRjXm0-MxVeA7cWPaMGDbRINwmi0Em3Cvfch8LNKul0ULPqVz48jw6bVj4j8aNVqnFjlAxQuZsiFDL6roEBEJsIUM-m9GnAcXCQXMXR3YTLNw7wJJ1kMc91SRQiGj7j4FNWhGg1veLrZJrZi55qjNo--GADWnenGULXWEv98jkLefHZdqiu7AwVDEn8tOvawHvQ8p0imi8FUQlkp4net_LOAhhVOZ4029KaQP4-mGl_D79WNu4z1m4hb8grjWQz36oPJogiBbmiQT6bS3yDyQMVRsPFlZokT-SP5NHfgy17Eco4bhme3vyU3ZU8SJvcNt2acUqBRuIDntEzAJAxRO1OrdBownaKKGQGpDsR4Y57Aq48dJrTAOCBTt_kQ5y0ox4RuDLa3M_2YVb0_D-uMW0BFoh3lgX9d4FZTI9srsMI2yrmSEmNzzt0fXvU-d5a5xrqey40pG5-9gxwrjT7qxLPIWPUCwkbbCewIHhUSGql4onqvvTOqsob4GUQCNLZ0j2NCvwWxS7pyRs&__tn__=-UC-R" ]
+  },
+  {
+    "id": 138,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Maľované zebričky",
+    "autor": "mt",
+    "datum": "20.9.2019",
+    "text": [ "Aj naše zaľúbené zebričky - maľovaný priechod pri CVrČkovi - dostali nový šat. Zebričky sú usmiate a veselé a my dúfame, že usmiati a veselí budú všetci, ktorí sa po nich prejdú! Prejdite sam spolu! ETM 2019 " ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452210291523369/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2474829155928149&__xts__%5B0%5D=68.ARDCEKNwTxLf-eyrahAnCktMFUy2oVEu0rQEWr5vG12f7Fv7Ns5Vw4Gs10B4MppAJwtcK_HL3ou7CIjP1CiHx0qpjyf7lvF4qBZ7cbKbNhqfzdGyN8U_GwXeNGHdCUzprdCxjezTlAlidRR1UUWhSSt_S-aKcWWcpP8eZigf8KQKgpH2GqF3l_XS-lIO8g9yXkBuO4YDMU0jM7I0vOy-TiBE7h62WMAYhwlp4jd427vkn03QmVC-dO4MzawOBhlyCDxzTneFdJrrRfhCWAwAAHCBRTEr2F5Sa9rFET2UcwUgpIiA8cvFtOa8yUq8INuXOnquEgrFUOlgsK-OiExg55Iu3KOm8Bh8a18epPyjFgO7mj3y9kp2JOxgayWT7pF8s2IRP0-kw-cHLI2qfl2qcFXR5ulQB4kRYgjY0xpwgJ671IIwJbRuyoH04gdeqz5fGjGyCCONly-v6yl-_ye-&__tn__=-UC-R" ]
+  },
+  {
+    "id": 137,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Maľovaný chodník",
+    "autor": "mt",
+    "datum": "20.9.2019",
+    "text": [ "V dnešné studené ráno premrznuté prsty šikovných maliarov ohrievali veselí smajlíci, ktorí odteraz budú zdobiť frekventovaný maľovaný chodníček na Školskej ulici. Nás, autorov, veľmi teší, že sa naši veselí kamaráti okoloidúcim páčili a že každý, kto sa na našom chodníčku prejde, splní výzvu Európskeho týždňa mobility - Prejdime sa spolu! :-) Ďakujeme všetkým spoluorganizátorom za pomoc a spoluprácu. Bez vás by to nebolo také vydarené predpoludnie." ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452210291523369/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2474800992597632&__xts__%5B0%5D=68.ARBPErTxyxdxqE-pb4vKu8I1SmZPrK638aAURGca2aOJZA25qc2_274Z0_4lYSIuXHi9WADIY5E84DGjAV-2uhyNJ_bkL0o2XnGcOok5I6thm5_gHR68G7u953y1mIhDh7BjDHdrPC8GaKOEL1ukpGbI5Zq8iEMu1kaKwza7jzUdTYd1jkFDt7cZN7tMZIMArlM2FNIAT4ieOH9_BW-QYYdqNyfDdgo8xNy-12_GNkQLZ-sRvYHqAP2-_XHbwJF7Nms3cRCwR6C1dP6TIuSpWEghz6diwBtuHodVnkvd_8X8LCIZtWe4xLxI4FtyCylus450vBczifUp6j3cTITZ23wVmjGkviaFzdqWEHNcsm_eKI1t0GtaWO1YGFg8cN2Li8EOkG6i9QP4i8-9EFLeXlNQ6ZW3UggMbwvGwzl4H2r6BA9jU0lL3SXpAQci3NZ78EWPAm1Kih7Ggp4qzU0j&__tn__=-UC-R" ]
+  },
+
+  {
+    "id": 136,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Prejdime sa spolu a spoznajme svoje mesto!",
+    "autor": "mt",
+    "datum": "18.9.2019",
+    "text": [ "Výzvu Európskeho týždňa mobility (ETM) – Prejdime sa spolu! sme dnes naplnili úplne skvelo. Počas aktivity Prejdime sa spolu a spoznajme svoje mesto!, v zábavno-poznávacej hre v uliciach nášho mesta, žiaci plnili rôzne vedomostné úlohy, spoznali naše kultúrne a prírodné pamiatky a spolu prešli neuveriteľných 31 625 krokov. Spočítať kroky bola úloha v rámci ETM 2019. Hlavnými organizátormi boli zamestnanci Mestského kultúrneho strediska a vychovávatelia Centra voľného času CVrČek. Ďakujeme zúčastneným školám, pedagógom a žiakom za skvelé predpoludnie." ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452197361524662/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2470781762999555?__xts__[0]=68.ARBUgf7jNv1r-n11ll2QHoiTjkyP17MCzAYIrEqJtdorE1NPgvC5eHndkd9sAEeCSZCPgDmFc8FzGexmrPaPn-0t4tcEfqVsfI2kN61Mw-59Q3mTFekYW7FwD_Ih3JF-hstXR2BcveRIp7__D3WyMS2-PUbV3FKfem9LAQCkAbFSOupRnSib9JQc5I10E2a5XzpY5pYqIpBnOAtAhJRH1GaGL4G57NgioEGxyKxzk_8_CklZQILRzF_p6BJEZ0g2LSNqk5Q0PQb9mWlpCrRiv2jHDB9vvZLInuWGjXaMuEPQJQWdKYbfW_lQxDP_Wrs6VQwiopGnN4JuXumnYFS7Ng186w&__tn__=-R" ]
+  },
+  {
+    "id": 135,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Na kolesách za zdravím",
+    "autor": "mt",
+    "datum": "17.9.2019",
+    "text": [ "Cyklistika je nesporne jeden z najpopulárnejších športov, ktorý môžete robiť od malička až do staroby. Je to však aj veľmi ekologický spôsob prepravy. O tom nás presvedčili organizátori aktivity Na kolesách za zdravím, ktorá je súčasťou Európskeho týždňa mobility (ETM) v našom meste už po 7x. Podujatie sa uskutočnilo na sídlisku, dnes 17. septembra 2019. Hlavným organizátorom, ZŠ Severnej, pedagógom, rodičom a deťom ďakujeme, že podporili myšlienku ETM a prešli sa spolu na bicykli. " ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452188524858879/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2469316619812736?__xts__[0]=68.ARC0ZZjm63y3QKbiGLx9QYevKW9TRBu1fy-TlDOHJx6DzZm7Nf66U37L2pk2PH4gksBG5-7R7AnkzLlbFL_S3eyNIv_hpy7IgicBm1FIv8jVLGlG8z3XdmzsiFrXF990T6we1R2SudY-SJloX8lAvCFbRvmUq6efaHwbBr_giH3oOSH36wHmD9HEz17B5wSnBrLwOnBpODDvoVKIU-Sp7xkbaw4_5wx-YxKZVbCiCh1Virb6jvLCOIhAg8gjLCfAktMiV7tLgtEAX_QiXQdADN09Sz40qs4_UcCiVc4JaXuaUoMcrH0g3rBVEFTbjU0XDp5Pb9jN6nChxufOn7qbW2DZ5w&__tn__=-R" ]
+  },
+  {
+    "id": 134,
+    "obrazok": "etm2019.png",
+    "nazov": "ETM 2019 - Beh pre všetkých-beh pre každého",
+    "autor": "mt",
+    "datum": "16.9.2019",
+    "text": [ "Beh je pre človeka prirodzeným spôsobom presunu z miesta na miesto. Práve preto sme dnes, 16. septembra 2019, symbolickým behom cez mesto, odštartovali v našom meste deviaty ročník Európskeho týždňa mobility (ETM). Masovou aktivitou sme vyjadrili svoju spolupatričnosť, radosť z pohybu a podporili myšlienky ETM. Beh pre všetkých – beh pre každého sa v našom meste uskutočnil po 7x. Svojou účasťou toto podujatie poctil aj primátor nášho mesta, JUDr. Ing. Slavomír Borovský. Po krátkom príhovore, v rámci programu, sa deťom zo záujmového útvaru Piloxing, podarilo rozhýbať svojich kamarátov a spolužiakov. Po skončení slávnostného otvorenia ETM sa účastníci vrátili do škôl v duchu výzvy – Prejdime sa spolu! Prvý deň ETM máme úspešne za sebou, ďakujeme všetkým spoluorganizátorom za pomoc." ],
+    "prilohy": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2452180388193026/?type=3&theater" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2467165680027830?__xts__[0]=68.ARDi_Ujjd9rxTUr3yoP5wIDdrJM89DLPG6wbpTuVKCk4Qorbh74n6pNy7aSyULxt3GAFm7kTYuvFav8_tZAqyfr7hQbj5akZqeyz1cWPFp1bdLTfcX74TtiVpH8gmJc-OcpGpoShYR8T8D6PJgSMuEuaov1uCGiVzQL2Jwk18S8SX542cifKuT8xv88lBXH2VPhhC8pST2I_KHFHfrcWiYa01f_gxT0uHlYTuemhpWQrLN17tEjVAX1ol9pFkJ076-4WWIECW7mHzuH3hsNQFoj6H-RrLHsNZklisgOKzkjPR2o25JOANYIkld9YtMVU7snP5wqeqOEtRha3rvvNL7BxJg&__tn__=-R" ]
+  },
+  {
+    "id": 133,
+    "obrazok": "babkovedivadlo.jpg",
+    "nazov": "Výlet do bábkového divadla",
+    "autor": "mt",
+    "datum": "29.9.2019",
+    "text": [ "Milí kamaráti, ktorí máte radi rozprávky. CVrČek vás pozýva na výlet, v nedeľu 29. septembra 2019 v popoludňajších hodinách, do bábkového divadla v Košiciach na Podmorskú rozprávku. V hre je hlavným hrdinom žralok Zelenáč, ktorý sa pred spolužiakmi v žraločej škole preriekne, že nejedáva ryby, ale riasy, planktón či morskú trávu. Žraločí spolužiaci sa mu za to vysmievajú a tak sa žralok Zelenáč vydáva na náročnú výpravu za Zlatou rybkou. Dúfa, že rybka mu splní jeho jediné želanie – stať sa skutočným, rybožravým žralokom. Viac vám ale neprezradíme. Ak máte záujem, dajte nám čím skôr vedieť, aby sme stihli rezervovať vstupenky." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2449199838491081/?type=3&theater" ]
+  },
+  {
+    "id": 132,
+    "obrazok": "../najcvrcek/6m.jpg",
+    "nazov": "Zápis",
+    "autor": "mt",
+    "datum": "8.9.2019",
+    "text": [ "Tých, ktorí sa ešte neprihlásili, očakávame v týždni od 9. septembra 2019 do 13. septembra 2019 denne od 8:00 do 18:00. V piatok, 13. septembra 2019, sa zápis končí! Veríme, že to stihnú všetci. " ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2448213998589665/?type=3&theater" ]
+  },
+  {
+    "id": 0,
+    "obrazok": "cvrcky.jpg",
+    "nazov": "Famil day",
+    "autor": "mt",
+    "datum": "14.9.2019",
+    "text": [ "Skvelý manažment, perfektní zamestnanci a ich šikovné deti, krásne jesenné počasie, veľa bezchybných atrakcií a k tomu, CVrČkov tím. Taký bol dnes, 14. septembra 2019, Family day akciovej spoločnosti CRH Slovensko. Ďakujeme Edina, rodičia a deťúrence, boli ste dokonalí!" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2463825957028469?__xts__[0]=68.ARDEruqyhG5a8Tg9prZAduqzCkxCuXLk_PxJlTuPD-tYKz6elt8ge4HUCEaGEH-ySc75BYGdhn2FrFS8xwW9BT1OzuykD_AH1OWQwFHdCpX2ULDuCJ3TAHbrHdLEyJLSRp_Ch9l2yQnGL4m7Zwi_qeo2k8j-FvD_5UesdDXPaPcEpdfymcKEwEbnKc9wyKdy267rmGiV1eXteVeQmwbVImj7y_vidDfSYJQx2x1iO5uJt9koKOmXLuWDHd45yjJFeH6j-eDEqvyM6ARVCPILoitCQse_QOwBQXJJz1_M62YGZ_h7yMuEe7Osjc-HPQ5EScsUR5tsSLNSjWw7MpJ3WAy5Cg&__tn__=-R" ]
+  },
+  {
+    "id": 131,
+    "obrazok": "balerinky.jpg",
+    "nazov": "Bilancujeme",
+    "autor": "mt",
+    "datum": "25.8.2019",
+    "text": [ "Zajtra to bude rok, keď sme zverejnili fotografiu Annamárie na stupienku víťazov v balerínkach. Netušili sme, čo spôsobí. Fotografia sa stala „virálna“. A my sme vzali na seba záväzok – pomôcť napredovať talentovanému dievčaťu. A tak bilancujeme... Za ten rok poctivej práce/tréningov zo strany Annamárie a nezištnej/každodennej pomoci zo strany zamestnancov Centra voľného času CVrČek, sa naša chránenkyňa môže popýšiť mnohými prvými miestami na majstrovstvách Východného Slovenska, krajských kolách bežeckých súťaží, na halových majstrovstvách SR, víťazstvom v behu o Pohár Bodvy, piatym miestom na Slovensku a mnohými ďalšími. Kto by to bol pred rokom povedal. :-) Sme radi, my všetci v CVrČkovi!" ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2426551474089251?__xts__[0]=68.ARD1UzJhNtlWEdaFanDpvcbl1syPcuY169TAmBxGnshN_d9rUmCIfe_E8K9XtdCxryKXWdKLuX78AIXUL4dN4H08NZpznQVgmWiKd2aSchJK4r7uZ_NO8L5BDMcoqf8kr3ZAGe0i7jvic8Ybw9lrBrbi3yMtDl9ubjlYKFZH8TVAv-e4GgcZjErWjC7oISZuwn1G0bqnUUTcSA0VX7wYE5myHvf3L2UswgkX8oMAkALpqm-Cw05RZG15GDmTchg_KPI848L7ti3Oa6LKuQESWEv5S1WzjKKFlMPE1Z6s4ERcSbF72EKrHx4yhfARpFiQ-APO0BZB018wfSLY9X0-o-cUIg&__tn__=-R" ]
+  },
+  {
+    "id": 130,
+    "obrazok": "jarne.png",
+    "nazov": "Ponuka krúžkov",
+    "autor": "mt",
+    "datum": "15.9.2019",
+    "text": [ "Milé deti, milí rodičia, predkladáme vám ponuku záujmových útvarov - krúžkov, na nový školský rok 2019/2020. Budeme radi, ak si za spoločníka pre voľné chvíle vyberiete opäť nás!" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2335369569874109" ]
+  },
+  {
+    "id": 129,
+    "obrazok": "dielnicka.png",
+    "nazov": "LETO S CVRČKOM",
+    "autor": "mt",
+    "datum": "28.8.2019",
+    "text": [ "Aby prázdniny neboli prázdne - ponuka na leto 2019! :-) Milé deti, strávte prázdninové dni s nami, v našich pobytových a prímestských táboroch! Tešíme sa na vás! Informácie nájdete pod f-kom." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2265652876845779?__xts__[0]=68.ARB2i4meqHiLh6YGpp1n-Yuagz0lkUNI7RZHdoNXIgvWFoNHqT36yvxleJVkNme56z_0ZiidZeZdHmQnYxo32vjq5Cc2oytC8NsqkIOyOgJSJELzv2qPweBzAqnRAPFPxqBPwPJta3kS5qd5_AgVmKbyh1AMkmaqlwUq2ZC7NNtMgN1lJJ3tJBjIe15KK-s73LrvT3fwY8r428yKJSLNUQJYjdWpqo3NeDVBG9DbKg5dHgpOSlEgR0mbBJxel6QUFyG-kXMRSc2QQTde5bkuX4uQUY9w5lNruWt9B7IOcpI2gJ3s17exSEPW6kRJYSgHDX_hDUim-CPS6XvKijRqa7u3jg&__tn__=-R" ]
+  },
+  {
+    "id": 128,
     "obrazok": "../najcvrcek/18m.jpg",
     "nazov": "Oznam",
     "autor": "mt",
@@ -23,24 +395,7 @@
     "text": [ "V dňoch od 1. do 26. júla 2019 zorganizoval CVrČek pre deti štyri tábory, v nich bolo celkovo 320 detí. Ich cieľom bolo poskytnúť deťom možnosť oddýchnuť si a zrekreovať sa. Deti získavali nové poznatky, skúsenosti, kompetencie, veľa sa zabávali, športovali, tvorili, fotografovali a šantili. Vychovávatelia sa postarali, aby ich prázdniny neboli prázdne! Od 29. júla 2019 bude CVrČek zatvorený a svoju bránu otvorí 26. augusta 2019. Vidíme sa!" ],
     "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2378204472257285/?type=3&theater" ]
   },
-  {
-    "id": 0,
-    "obrazok": "jarne.png",
-    "nazov": "Ponuka krúžkov",
-    "autor": "mt",
-    "datum": "15.9.2019",
-    "text": [ "Milé deti, milí rodičia, predkladáme vám druhú ponuku záujmových útvarov - krúžkov, na nový školský rok 2019/2020. Budeme radi, ak si za spoločníka pre voľné chvíle vyberiete opäť nás!" ],
-    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2335369569874109" ]
-  },
-  {
-    "id": 128,
-    "obrazok": "dielnicka.png",
-    "nazov": "LETO S CVRČKOM",
-    "autor": "mt",
-    "datum": "26.7.2019",
-    "text": [ "Aby prázdniny neboli prázdne - ponuka na leto 2019! :-) Milé deti, strávte prázdninové dni s nami, v našich pobytových a prímestských táboroch! Tešíme sa na vás! Informácie nájdete pod f-kom." ],
-    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2265652876845779?__xts__[0]=68.ARB2i4meqHiLh6YGpp1n-Yuagz0lkUNI7RZHdoNXIgvWFoNHqT36yvxleJVkNme56z_0ZiidZeZdHmQnYxo32vjq5Cc2oytC8NsqkIOyOgJSJELzv2qPweBzAqnRAPFPxqBPwPJta3kS5qd5_AgVmKbyh1AMkmaqlwUq2ZC7NNtMgN1lJJ3tJBjIe15KK-s73LrvT3fwY8r428yKJSLNUQJYjdWpqo3NeDVBG9DbKg5dHgpOSlEgR0mbBJxel6QUFyG-kXMRSc2QQTde5bkuX4uQUY9w5lNruWt9B7IOcpI2gJ3s17exSEPW6kRJYSgHDX_hDUim-CPS6XvKijRqa7u3jg&__tn__=-R" ]
-  },
+  
   {
     "id": 127,
     "obrazok": "slnko 5.jpg",
@@ -143,15 +498,24 @@
     "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2326104707467262/?type=3&theater" ]
   },
   {
-    "id": 115,
-    "obrazok": "oznam.jpg",
-    "nazov": "Oznam",
+    "id": 128,
+    "obrazok": "dielnicka.png",
+    "nazov": "LETO S CVRČKOM",
     "autor": "mt",
-    "datum": "28.6.209",
-    "text": [ "Milí priatelia, z dôvodu, že niektorí vychovávatelia CVrČka sú s Vašimi deťmi v táboroch a iní čerpajú dovolenku, nás nebudete môcť v priestoroch CVrČka nájsť. Od 15. do 26. júla 2019, počas pracovných dní, tam budeme od 7:00 do 16:00, ak nebudeme práve na plánovaných výletoch v rámci prímestských táborov. V mesiaci august 2019 budeme všetci čerpať dovolenku a priestory CVrČka sa budú upratovať. Stretneme sa 26. augusta 2019. Ďakujeme za porozumenie. Kolektív CVrČka. " ],
-    "facebook": [ "https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2326321077445625/?type=3&theater" ]
-  }, 
+    "datum": "26.7.2019",
+    "text": [ "Aby prázdniny neboli prázdne - ponuka na leto 2019! :-) Milé deti, strávte prázdninové dni s nami, v našich pobytových a prímestských táboroch! Tešíme sa na vás! Informácie nájdete pod f-kom." ],
+    "facebook": [ "https://www.facebook.com/cvcmoldava/posts/2265652876845779?__xts__[0]=68.ARB2i4meqHiLh6YGpp1n-Yuagz0lkUNI7RZHdoNXIgvWFoNHqT36yvxleJVkNme56z_0ZiidZeZdHmQnYxo32vjq5Cc2oytC8NsqkIOyOgJSJELzv2qPweBzAqnRAPFPxqBPwPJta3kS5qd5_AgVmKbyh1AMkmaqlwUq2ZC7NNtMgN1lJJ3tJBjIe15KK-s73LrvT3fwY8r428yKJSLNUQJYjdWpqo3NeDVBG9DbKg5dHgpOSlEgR0mbBJxel6QUFyG-kXMRSc2QQTde5bkuX4uQUY9w5lNruWt9B7IOcpI2gJ3s17exSEPW6kRJYSgHDX_hDUim-CPS6XvKijRqa7u3jg&__tn__=-R" ]
+  },
   {
+    "id": 0,
+    "obrazok": "balerinky.jpg",
+    "nazov": "Moldavský pohár Bodvy ",
+    "autor": "mt",
+    "datum": "30.6.2019",
+    "text": [ "Naša Annamária si dnes takto dobehla po svoje víťazstvo v behu na 1 000 m časom 3:23min počas bežeckých pretekov o Moldavský pohár Bodvy. Bola to paráda! (Y) Tešíme sa a srdečne blahoželáme! Bež, dievčatko, bež!" ],
+    "facebook": [ "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2327994173944982&__xts__%5B0%5D=68.ARC6uX60Kwvi6eTaRvlruUM2B6LTtZdS0j08fv4YSVZWARvcPsh7X9nzgBOYzTbUCNqheyiKNSXogrg4BzjKSO_IGzBqGAzHe5dMS1IVeYEGJMbXYrhraQFTooy5zapz1-Ioc3gSHyorfG9ukRW-0bhOok7qGaEfu5i1JMHmV9ccjCF7ZvyHWQwQmgsaQ9TY3aVynI1T3Fq64tJec7jrnlGtbUrxOg_yF5rm-lGWmi3PlVjVgeb90gSBLvhoerwUQO656mYahFjvJxLGrp0xIPoEQYm1J-zxNY8cA9MqjJUayet0GZfR78I1CRS1JpKsE-k_GMe3YEm2MxlylxAqf1JmaeJVXFXyMF0jO9V-nCrMQ9zLQOhljUEQAh-uScJL_32TAFL5AQbuZAAhE1TJd5Wm3uevSdD0NrQ6LCtXCVwto9tvWSQ22RjCg7ilRSMCtW1oodGWjDVTKr9JXKLG&__tn__=-UC-R" ]
+  },
+    {
     "id": 0,
     "obrazok": "rodicia.jpg",
     "nazov": "Rodičovské združenie",

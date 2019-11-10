@@ -17,30 +17,30 @@ Vue.component('kruzok', {
   data: function() {
     return {
       detaily: false
-    }
+    };
   },
   methods: {
-    zobrazDetaily: function () {
+    zobrazDetaily: function() {
       this.detaily = !this.detaily;
     },
-    casMiesto: function (kedyKde) {
+    casMiesto: function(kedyKde) {
       return kedyKde.join('<br />');
     },
-    obrazokVeduceho: function (veduci) {
+    obrazokVeduceho: function(veduci) {
       if (!veduci || veduci == 'cvc') {
         return 'obrazky/cvrcek.svg';
       } else {
         return 'obrazky/zamestnanci/' + veduci + '.svg';
       }
     },
-    linkVeduceho: function (veduci) {
+    linkVeduceho: function(veduci) {
       if (!veduci || veduci == 'cvc') {
         return 'informacie.html?id=zamestnanci';
       } else {
         return 'informacie.html?id=' + veduci;
       }
     },
-    menoVeduceho: function (veduci) {
+    menoVeduceho: function(veduci) {
       if (!veduci || veduci == 'cvc') {
         return 'CVČ';
       } else if (veduci == 'mt') {
@@ -48,9 +48,9 @@ Vue.component('kruzok', {
       } else if (veduci == 'kb') {
         return 'Teta Katka';
       } else if (veduci == 'dd') {
-        return 'Teta Diana';
-      } else if (veduci == 'rm') {
-        return 'Teta Radka';
+        return 'Teta Diana D.';
+      } else if (veduci == 'dk') {
+        return 'Teta Diana K.';
       } else if (veduci == 'np') {
         return 'Ujo Norbi';
       } else if (veduci == 'pf') {
@@ -66,7 +66,7 @@ Vue.component('kruzok', {
       }
     }
   }
-})
+});
 
 var app = new Vue({
   el: '#app',
@@ -74,20 +74,20 @@ var app = new Vue({
     kruzky: null
   },
   methods: {
-    prazdnePole: function (pole) {
+    prazdnePole: function(pole) {
       return !pole || pole.length == 0;
     }
   },
   mounted: function() {
-    $.getJSON('/data/kruzky.json', function (json) {
+    $.getJSON('/data/kruzky.json', function(json) {
       app.kruzky = json;
 
-      $(document).ready(function () {
-        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+      $(document).ready(function() {
+        if ('ontouchstart' in document.documentElement || 'ontouchstart' in window) {
           $('#app').addClass('touch');
         }
         inicializuj();
       });
     });
   }
-})
+});

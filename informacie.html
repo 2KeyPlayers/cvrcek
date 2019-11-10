@@ -1,107 +1,107 @@
 <!DOCTYPE html>
 <html lang="sk">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
 
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-  <meta name="format-detection" content="telephone=no" />
+    <title>CVČ CVrČek » Informácie</title>
+    <meta name="description" content="To najlepšie miesto pre deti a mládež" />
+    <meta name="keywords" content="CVrČek, CVČ, centrum, voľného, času, Moldava, Moldava nad Bodvou" />
+    <meta name="author" content="2 Key Players" />
 
-  <title>CVČ CVrČek » Informácie</title>
-  <meta name="description" content="To najlepšie miesto pre deti a mládež">
-  <meta name="keywords" content="CVrČek, CVČ, centrum, voľného, času, Moldava, Moldava nad Bodvou">
-  <meta name="author" content="2 Key Players">
+    <meta property="og:title" content="CVČ CVrČek" />
+    <meta property="og:description" content="To najlepšie miesto pre deti a mládež" />
+    <meta property="og:url" content="http://www.cvcmoldava.edu.sk" />
+    <meta property="og:image:width" content="279" />
+    <meta property="og:image:height" content="279" />
+    <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/og-image.jpg" />
+    <meta property="fb:app_id" content="159482424129512" />
+    <meta name="twitter:card" content="summary" />
 
-  <meta property="og:title" content="CVČ CVrČek" />
-  <meta property="og:description" content="To najlepšie miesto pre deti a mládež" />
-  <meta property="og:url" content="http://www.cvcmoldava.edu.sk" />
-  <meta property="og:image:width" content="279" />
-  <meta property="og:image:height" content="279" />
-  <meta property="og:image" content="http://www.cvcmoldava.edu.sk/obrazky/og-image.jpg" />
-  <meta property="fb:app_id" content="159482424129512" />
-  <meta name="twitter:card" content="summary" />
+    <link rel="canonical" href="http://www.cvcmoldava.edu.sk/informacie" />
 
-  <link rel="canonical" href="http://www.cvcmoldava.edu.sk/informacie">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#666666" />
+    <meta name="msapplication-TileColor" content="#00aba9" />
+    <meta name="theme-color" content="#ffffff" />
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-  <link rel="manifest" href="/site.webmanifest" />
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#666666" />
-  <meta name="msapplication-TileColor" content="#00aba9" />
-  <meta name="theme-color" content="#ffffff" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="semantic/dist/semantic.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css" />
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script> -->
+    <!-- development version, includes helpful console warnings -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
+    <!-- production version, optimized for size and speed -->
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  </head>
 
-  <!-- <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script> -->
-  <!-- development version, includes helpful console warnings -->
-  <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
-  <!-- production version, optimized for size and speed -->
-  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-</head>
-
-<body>
-
-  <div id="app" class="informacie pusher">
-    <div class="ui top segment">
-      <div class="ui container">
-        <img class="logo" src="obrazky/cvrcek.svg" alt="CVrČek" />
-        <h1 class="ui header">
-          <span class="cvrcek">
-            <span class="centrum">C</span>
-            <span class="volneho">V</span>
-            <span>r</span>
-            <span class="casu">Č</span>
-            <span>e</span>
-            <span>k</span>
-          </span>
-          <span class="cvc">Centrum voľného času</span>
-        </h1>
-        <img class="logo zadok" src="obrazky/cvrcek-zadok.svg" alt="CVrČek" />
-      </div>
-    </div>
-
-    <div class="ui vzdelavanie modal">
-      <div class="header"><i class="graduation cap icon"></i> {{ zamestnanec.meno }}</div>
-      <div class="content">
-        <table class="ui table">
-          <thead>
-            <tr>
-              <th>Vzdelávanie</th>
-              <th class="pocettt collapsing">Kredity</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="kredit in zamestnanec.kredity">
-              <td>{{ kredit.nazov }}</td>
-              <td class="pocettt">{{ (kredit.pocet ? kredit.pocet : '-') }}</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <div class="actions">
-        <div class="ui ok button">OK</div>
-      </div>
-    </div>
-
-    <div class="ui big borderless main menu">
-      <div class="ui container">
-        <a class="first item" href="/"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
-        <a class="active second item" href="/informacie"><i class="info icon"></i><span>Informácie</span></a>
-        <a class="third item" href="/financie"><i class="euro icon"></i><span>Financie</span></a>
-        <a class="fourth item" href="/archiv"><i class="archive icon"></i><span>Archív</span></a>
-        <a class="fifth item" href="/kontakt"><i class="pencil icon"></i><span>Kontakt</span></a>
-        <div class="right menu">
-          <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"><i class="facebook icon"></i><span>Facebook</span></a>
+  <body>
+    <div id="app" class="informacie pusher">
+      <div class="ui top segment">
+        <div class="ui container">
+          <img class="logo" src="obrazky/cvrcek.svg" alt="CVrČek" />
+          <h1 class="ui header">
+            <span class="cvrcek">
+              <span class="centrum">C</span>
+              <span class="volneho">V</span>
+              <span>r</span>
+              <span class="casu">Č</span>
+              <span>e</span>
+              <span>k</span>
+            </span>
+            <span class="cvc">Centrum voľného času</span>
+          </h1>
+          <img class="logo zadok" src="obrazky/cvrcek-zadok.svg" alt="CVrČek" />
         </div>
       </div>
-    </div>
 
-    <div class="ui vertical stripe main segment">
-      <!-- <div class="ui container">
+      <div class="ui vzdelavanie modal">
+        <div class="header"><i class="graduation cap icon"></i> {{ zamestnanec.meno }}</div>
+        <div class="content">
+          <table class="ui table">
+            <thead>
+              <tr>
+                <th>Vzdelávanie</th>
+                <th class="pocettt collapsing">Kredity</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="kredit in zamestnanec.kredity">
+                <td>{{ kredit.nazov }}</td>
+                <td class="pocettt">{{ kredit.pocet ? kredit.pocet : '-' }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="actions">
+          <div class="ui ok button">OK</div>
+        </div>
+      </div>
+
+      <div class="ui big borderless main menu">
+        <div class="ui container">
+          <a class="first item" href="/"><i class="calendar alternate icon"></i><span>CVrČkoviny</span></a>
+          <a class="active second item" href="/informacie"><i class="info icon"></i><span>Informácie</span></a>
+          <a class="third item" href="/financie"><i class="euro icon"></i><span>Financie</span></a>
+          <a class="fourth item" href="/archiv"><i class="archive icon"></i><span>Archív</span></a>
+          <a class="fifth item" href="/kontakt"><i class="pencil icon"></i><span>Kontakt</span></a>
+          <div class="right menu">
+            <a class="facebook item" href="https://www.facebook.com/cvcmoldava/" target="_blank"
+              ><i class="facebook icon"></i><span>Facebook</span></a
+            >
+          </div>
+        </div>
+      </div>
+
+      <div class="ui vertical stripe main segment">
+        <!-- <div class="ui container">
         <div class="ui second olive message">
           <i class="close icon"></i>
           <div class="header">
@@ -112,93 +112,114 @@
           <p>Tlačivá nájdete <a href="prilohy/Vyhlasenie-2018.pdf"><i class="paperclip icon"></i></a> a <a href="prilohy/Potvrdenie-2018.pdf"><i class="paperclip icon"></i></a>, ale budú k dispozícii aj v CVrČkovi. Ak sa rozhodnete darovať 2% nám, je potrebné do 15. februára 2019 požiadať zamestnávateľa o vydanie potvrdenia o zaplatení dane z príjmov.</p>
         </div>
       </div> -->
-    
-      <div class="ui main container">
-        <a id="onas" name="onas"></a>
-        <h4 class="ui horizontal header divider">
-          <i class="comment alternate icon"></i>
-          O nás
-        </h4>
-        <div class="margined">
-          <p>Centrum voľného času <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek
-            (CVČ) je moderné, efektívne a úspešné školské zariadenie, orientované na dieťa, podporujúce jeho
-            tvorivosť, aktivitu a rozvíjanie jeho kľúčových kompetencií. Ponúka širokú paletu voľno časových aktivít
-            smerujúcich k rozvoju talentu dieťaťa, pri ktorých môže každý zažiť pocit úspechu a mať radosť z toho, čo
-            robí. Ponúka deťom v oblasti voľného času právo voľby a súčasne naučí dieťa povedať nie nevhodným ponukám
-            trávenia voľného času. Je to miesto, ktoré je kvalitou poskytovaných služieb a poznaním potrieb cieľovej
-            skupiny spoľahlivým partnerom pre deti a mládež, ich rodičov a zriaďovateľa. Poskytuje starostlivosť
-            nadaným deťom, ale aj deťom vyžadujúcim osobitnú starostlivosť a je schopné poskytnúť kvalifikovanú pomoc
-            deťom a mládeži v oblasti prevencie sociálno-patologických javov, sociálnej výchovy a reedukácie ich
-            správania.</p>
-          <p>Každoročne otvára viac ako 30 záujmových útvarov rôzneho zamerania v rámci pravidelnej záujmovej
-            činnosti a eviduje v nich v priemere 300 členov. Spomenieme záujmové útvary Bábkové divadlo, Dielnička,
-            Break dance, Mažoretky, Hip hop, Piloxing, Gazdinky, Moderné dievčatá, Grafiti, Flórbal, Gymnastika a
-            iné. V oblasti príležitostných aktivít pripravuje a organizuje ročne okolo 50 podujatí, súťaží,
-            vystúpení, výletov a iných akcií, na ktorých sa zúčastňuje cca 5 000 osôb. K tradičným aktivitám patria
-            Európsky týždeň mobility, environmentálne cyklické podujatia strEtKO, vystúpenia pre rodičov, výlety a
-            súťaže v tvorbe obrázkov na počítači. Ďalšími činnosťami CVČ sú aktivity podporujúce prevenciu
-            sociálno-patologických javov, nazvané Cvrlikanie, spolupráca s orgánmi štátnej správy v školstve pri
-            uskutočňovaní postupových súťaží Pekná maďarská reč a Poznaj slovenskú reč.</p>
-          <p>Problematika voľného času detí a mládeže je oblasťou pestrou a zaujímavou, podnetnou a prínosnou, avšak
-            aj neľahkou a mnohokrát nedocenenou. Snahou kolektívu vychovávateľov nášho CVČ je každodenne pomáhať
-            deťom prežiť šťastné detstvo a z CVČ <span class="centrum">C</span><span class="volneho">V</span>r<span
-              class="casu">Č</span>ek
-            vytvoriť &quot;to najlepšie miesto pre deti a mládež&quot;.</p>
-          <p><span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>kovi všetci
-            spoločne želáme, aby ešte veľmi dlho a úspešne cvrlikal :-)</p>
-          <p style="text-align: right">Mgr. Mária Tóthová, riaditeľka <span class="centrum">C</span><span class="volneho">V</span>r<span
-              class="casu">Č</span>ka</p>
-        </div>
-        <a id="zamestnanci" name="zamestnanci"></a>
-        <h4 class="ui horizontal header divider">
-          <i class="users icon"></i>
-          Zamestnanci
-        </h4>
-        <div class="ui fluid olive card">
-          <div class="center aligned content">Interní</div>
-        </div>
-        <div class="ui four doubling olive zamestnanci cards">
 
-          <div v-if="prazdnePole(interni)" class="ui active centered inline big loader"></div>
-          <zamestnanec v-on:zobraz-zamestnanca="zobrazZamestnanca" v-for="(udaje, index) in interni" v-bind:udaje="udaje" v-bind:key="udaje.id"></zamestnanec>
-
-        </div>
-        <div class="ui fluid olive card" style="margin-top: 5em">
-          <div class="center aligned content">Externí</div>
-        </div>
-        <div class="ui four doubling olive cards">
-
-          <div v-if="prazdnePole(externi)" class="ui active centered inline big loader"></div>
-          <zamestnanec v-on:zobraz-zamestnanca="zobrazZamestnanca" v-for="(udaje, index) in externi" v-bind:udaje="udaje" v-bind:key="udaje.id"></zamestnanec>
-
-        </div>
-        <div style="text-align: center; padding-top: 2em">
-          <div class="ui pointing label">Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a>
-            from
-            <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"
-              title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
+        <div class="ui main container">
+          <a id="onas" name="onas"></a>
+          <h4 class="ui horizontal header divider">
+            <i class="comment alternate icon"></i>
+            O nás
+          </h4>
+          <div class="margined">
+            <p>
+              Centrum voľného času <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu"
+                >Č</span
+              >ek (CVČ) je moderné, efektívne a úspešné školské zariadenie, orientované na dieťa, podporujúce jeho
+              tvorivosť, aktivitu a rozvíjanie jeho kľúčových kompetencií. Ponúka širokú paletu voľno časových aktivít
+              smerujúcich k rozvoju talentu dieťaťa, pri ktorých môže každý zažiť pocit úspechu a mať radosť z toho, čo
+              robí. Ponúka deťom v oblasti voľného času právo voľby a súčasne naučí dieťa povedať nie nevhodným ponukám
+              trávenia voľného času. Je to miesto, ktoré je kvalitou poskytovaných služieb a poznaním potrieb cieľovej
+              skupiny spoľahlivým partnerom pre deti a mládež, ich rodičov a zriaďovateľa. Poskytuje starostlivosť
+              nadaným deťom, ale aj deťom vyžadujúcim osobitnú starostlivosť a je schopné poskytnúť kvalifikovanú pomoc
+              deťom a mládeži v oblasti prevencie sociálno-patologických javov, sociálnej výchovy a reedukácie ich
+              správania.
+            </p>
+            <p>
+              Každoročne otvára viac ako 30 záujmových útvarov rôzneho zamerania v rámci pravidelnej záujmovej činnosti
+              a eviduje v nich v priemere 300 členov. Spomenieme záujmové útvary Bábkové divadlo, Dielnička, Break
+              dance, Mažoretky, Hip hop, Piloxing, Gazdinky, Moderné dievčatá, Grafiti, Flórbal, Gymnastika a iné. V
+              oblasti príležitostných aktivít pripravuje a organizuje ročne okolo 50 podujatí, súťaží, vystúpení,
+              výletov a iných akcií, na ktorých sa zúčastňuje cca 5 000 osôb. K tradičným aktivitám patria Európsky
+              týždeň mobility, environmentálne cyklické podujatia strEtKO, vystúpenia pre rodičov, výlety a súťaže v
+              tvorbe obrázkov na počítači. Ďalšími činnosťami CVČ sú aktivity podporujúce prevenciu
+              sociálno-patologických javov, nazvané Cvrlikanie, spolupráca s orgánmi štátnej správy v školstve pri
+              uskutočňovaní postupových súťaží Pekná maďarská reč a Poznaj slovenskú reč.
+            </p>
+            <p>
+              Problematika voľného času detí a mládeže je oblasťou pestrou a zaujímavou, podnetnou a prínosnou, avšak aj
+              neľahkou a mnohokrát nedocenenou. Snahou kolektívu vychovávateľov nášho CVČ je každodenne pomáhať deťom
+              prežiť šťastné detstvo a z CVČ <span class="centrum">C</span><span class="volneho">V</span>r<span
+                class="casu"
+                >Č</span
+              >ek vytvoriť &quot;to najlepšie miesto pre deti a mládež&quot;.
+            </p>
+            <p>
+              <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>kovi všetci
+              spoločne želáme, aby ešte veľmi dlho a úspešne cvrlikal :-)
+            </p>
+            <p style="text-align: right">
+              Mgr. Mária Tóthová, riaditeľka <span class="centrum">C</span><span class="volneho">V</span>r<span
+                class="casu"
+                >Č</span
+              >ka
+            </p>
+          </div>
+          <a id="zamestnanci" name="zamestnanci"></a>
+          <h4 class="ui horizontal header divider">
+            <i class="users icon"></i>
+            Zamestnanci
+          </h4>
+          <div class="ui fluid olive card">
+            <div class="center aligned content">Interní</div>
+          </div>
+          <div class="ui four doubling olive zamestnanci cards">
+            <div v-if="prazdnePole(interni)" class="ui active centered inline big loader"></div>
+            <zamestnanec
+              v-on:zobraz-zamestnanca="zobrazZamestnanca"
+              v-for="(udaje, index) in interni"
+              v-bind:udaje="udaje"
+              v-bind:key="udaje.id"
+            ></zamestnanec>
+          </div>
+          <div class="ui fluid olive card" style="margin-top: 5em">
+            <div class="center aligned content">Externí</div>
+          </div>
+          <div class="ui four doubling olive cards">
+            <div v-if="prazdnePole(externi)" class="ui active centered inline big loader"></div>
+            <zamestnanec
+              v-on:zobraz-zamestnanca="zobrazZamestnanca"
+              v-for="(udaje, index) in externi"
+              v-bind:udaje="udaje"
+              v-bind:key="udaje.id"
+            ></zamestnanec>
+          </div>
+          <div style="text-align: center; padding-top: 2em">
+            <div class="ui pointing label">
+              Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from
+              <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+            </div>
           </div>
         </div>
       </div>
-    </div>
 
-    <div class="ui vertical stripe secondary quote center aligned segment">
-      <div class="ui center aligned text container">
-        <p>V centre mesta centrum stojí,<br />
-          a <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek tam vyhráva,<br />
-          kto sa doma veľmi nudí,<br />
-          ten nech sa tam ponáhľa.</p>
+      <div class="ui vertical stripe secondary quote center aligned segment">
+        <div class="ui center aligned text container">
+          <p>
+            V centre mesta centrum stojí,<br />
+            a <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek tam vyhráva,<br />
+            kto sa doma veľmi nudí,<br />
+            ten nech sa tam ponáhľa.
+          </p>
+        </div>
       </div>
-    </div>
 
-    <div class="ui vertical stripe main segment">
-      <div class="ui container">
-        <a id="fokty" name="rada"></a>
-        <h4 class="ui horizontal header divider">
-          <i class="photo icon"></i>
-          Fotky
-        </h4>
-        <!-- <div class="ui stackable grid"> -->
+      <div class="ui vertical stripe main segment">
+        <div class="ui container">
+          <a id="fokty" name="rada"></a>
+          <h4 class="ui horizontal header divider">
+            <i class="photo icon"></i>
+            Fotky
+          </h4>
+          <!-- <div class="ui stackable grid"> -->
           <!-- <div class="four wide column"> -->
           <div class="ui custom images">
             <img class="ui image" src="obrazky/priestory/male/budova.jpg" alt="Budova CVrČka" />
@@ -218,218 +239,241 @@
             <img class="ui image" src="obrazky/priestory/male/riaditelna.jpg" alt="Riaditeľňa" />
             <img class="ui image" src="obrazky/priestory/male/zborovna.jpg" alt="Zborovňa" />
           </div>
-        <!-- </div> -->
-      </div>
-    </div>
-
-    <div class="ui vertical stripe secondary quote center aligned segment">
-      <div class="ui center aligned text container">
-        <p><span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek mal už málo
-          miesta.<br />
-          Kde? Na Školskej 5.<br />
-          A tak hľadal a aj našiel. Čo?<br />
-          No predsa Superflek.</p>
-        <p>Už sa tešia veľkí, malí<br />
-          a aj celkom najmenší.<br />
-          Veď mať miesto pre záľuby,<br />
-          každé srdce poteší.</p>
-        <p>Superflek je skvelý nápad,<br />
-          Biloš liga môže šľapať.<br />
-          Superflek už všetkým hlási<br />
-          pre šachistov zlaté časy.<br />
-          Superflek má super šance:<br />
-          joga, break-dance, hip-hop tance.<br />
-          Superflek má zopár stromov,<br />
-          kúsok zelene,<br />
-          to je pre vzťah ku prírode ako stvorené.</p>
-        <p>Superflek spĺňa všetko,<br />
-          o čom sme kedy snívali.<br />
-          Prečo? Predsa preto,<br />
-          že patrí deťom, mládeži a <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>kovi!</p>
-        <div class="ui pointing label">činnosť v Superflek-u ukončená z finančných dôvodov 31.12.2013</div>
-      </div>
-    </div>
-
-    <div class="ui vertical stripe main segment">
-      <div class="ui text container">
-        <a id="rada" name="rada"></a>
-        <h4 class="ui horizontal header divider">
-          <i class="users icon"></i>
-          Rada školy
-        </h4>
-        <div class="ui center aligned margined container">
-          <div class="ui list">
-            <div class="item"><strong>Mgr. Diana Dókušová</strong> - volený zástupca pedagogických zamestnancov</div>
-            <div class="item"><strong>Mária Hiblárová</strong> - volený zástupca nepedagogických zamestnancov</div>
-            <div class="item"><strong>Mária Šimková</strong> - volený zástupca rodičov</div>
-            <div class="item"><strong>Zdenka Valkovská</strong> - volený zástupca rodičov</div>
-            <div class="item"><strong>Ing. Ján Csala</strong> - delegovaný zástupca zriaďovateľa</div>
-          </div>
+          <!-- </div> -->
         </div>
-        <a id="spravy" name="spravy"></a>
-        <h4 class="ui horizontal header divider">
-          <i class="folder icon"></i>
-          Správy o činnosti
-        </h4>
-        <div class="ui center aligned margined container">
-          <div class="ui horizontal link list">
-            <a class="item" href="prilohy/soc_2018.pdf"><i class="file pdf icon"></i>2018</a>
-            <a class="item" href="prilohy/soc_2017.pdf"><i class="file pdf icon"></i>2017</a>
-            <a class="item" href="prilohy/soc_2016.pdf"><i class="file pdf icon"></i>2016</a>
-            <a class="item" href="prilohy/soc_2015.pdf"><i class="file pdf icon"></i>2015</a>
-            <a class="item" href="prilohy/soc_2014.pdf"><i class="file pdf icon"></i>2014</a>
-            <a class="item" href="prilohy/soc_2013.pdf"><i class="file pdf icon"></i>2013</a>
-            <a class="item" href="prilohy/soc_2012.pdf"><i class="file pdf icon"></i>2012</a>
-            <a class="item" href="prilohy/soc_2011.pdf"><i class="file pdf icon"></i>2011</a>
-            <a class="item" href="prilohy/soc_2010.pdf"><i class="file pdf icon"></i>2010</a>
-            <a class="item" href="prilohy/soc_2009.pdf"><i class="file pdf icon"></i>2009</a>
-            <a class="item" href="prilohy/soc_2008.pdf"><i class="file pdf icon"></i>2008</a>
-            <a class="item" href="prilohy/soc_2007.pdf"><i class="file pdf icon"></i>2007</a>
-            <a class="item" href="prilohy/soc_2006.pdf"><i class="file pdf icon"></i>2006</a>
-          </div>
+      </div>
+
+      <div class="ui vertical stripe secondary quote center aligned segment">
+        <div class="ui center aligned text container">
+          <p>
+            <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu">Č</span>ek mal už málo
+            miesta.<br />
+            Kde? Na Školskej 5.<br />
+            A tak hľadal a aj našiel. Čo?<br />
+            No predsa Superflek.
+          </p>
+          <p>
+            Už sa tešia veľkí, malí<br />
+            a aj celkom najmenší.<br />
+            Veď mať miesto pre záľuby,<br />
+            každé srdce poteší.
+          </p>
+          <p>
+            Superflek je skvelý nápad,<br />
+            Biloš liga môže šľapať.<br />
+            Superflek už všetkým hlási<br />
+            pre šachistov zlaté časy.<br />
+            Superflek má super šance:<br />
+            joga, break-dance, hip-hop tance.<br />
+            Superflek má zopár stromov,<br />
+            kúsok zelene,<br />
+            to je pre vzťah ku prírode ako stvorené.
+          </p>
+          <p>
+            Superflek spĺňa všetko,<br />
+            o čom sme kedy snívali.<br />
+            Prečo? Predsa preto,<br />
+            že patrí deťom, mládeži a <span class="centrum">C</span><span class="volneho">V</span>r<span class="casu"
+              >Č</span
+            >kovi!
+          </p>
+          <div class="ui pointing label">činnosť v Superflek-u ukončená z finančných dôvodov 31.12.2013</div>
         </div>
-        <a id="dokumenty" name="dokumenty"></a>
-        <h4 class="ui horizontal header divider">
-          <i class="folder icon"></i>
-          Dokumenty
-        </h4>
-        <div class="ui center aligned container">
-          <div>
+      </div>
+
+      <div class="ui vertical stripe main segment">
+        <div class="ui text container">
+          <a id="rada" name="rada"></a>
+          <h4 class="ui horizontal header divider">
+            <i class="users icon"></i>
+            Rada školy
+          </h4>
+          <div class="ui center aligned margined container">
+            <div class="ui list">
+              <div class="item"><strong>Mgr. Diana Dókušová</strong> - volený zástupca pedagogických zamestnancov</div>
+              <div class="item"><strong>Mária Hiblárová</strong> - volený zástupca nepedagogických zamestnancov</div>
+              <div class="item"><strong>Mária Šimková</strong> - volený zástupca rodičov</div>
+              <div class="item"><strong>Zdenka Valkovská</strong> - volený zástupca rodičov</div>
+              <div class="item"><strong>Ing. Ján Csala</strong> - delegovaný zástupca zriaďovateľa</div>
+            </div>
+          </div>
+          <a id="spravy" name="spravy"></a>
+          <h4 class="ui horizontal header divider">
+            <i class="folder icon"></i>
+            Správy o činnosti
+          </h4>
+          <div class="ui center aligned margined container">
             <div class="ui horizontal link list">
-              <a class="item" href="prilohy/smernica.pdf"><i class="file pdf icon"></i>Smernica</a>
-              <a class="item" href="prilohy/Vyrocna-sprava-2018.pdf"><i class="file pdf icon"></i>Výročná správa Rady školy 2018</a>
-              <a class="item" href="prilohy/VSRS.pdf"><i class="file pdf icon"></i>Výročná správa Rady školy 2017</a>
-              <a class="item" href="prilohy/VP_2017.pdf"><i class="file pdf icon"></i>Výchovný program</a>
-              <a class="item" href="prilohy/Skolsky_poriadok_2016.pdf"><i class="file pdf icon"></i>Školský poriadok</a>
-              <a class="item" href="prilohy/informacnapovinnost.pdf"><i class="file pdf icon"></i>Ochrana osobných
-                údajov</a>
+              <a class="item" href="prilohy/soc_2018.pdf"><i class="file pdf icon"></i>2018</a>
+              <a class="item" href="prilohy/soc_2017.pdf"><i class="file pdf icon"></i>2017</a>
+              <a class="item" href="prilohy/soc_2016.pdf"><i class="file pdf icon"></i>2016</a>
+              <a class="item" href="prilohy/soc_2015.pdf"><i class="file pdf icon"></i>2015</a>
+              <a class="item" href="prilohy/soc_2014.pdf"><i class="file pdf icon"></i>2014</a>
+              <a class="item" href="prilohy/soc_2013.pdf"><i class="file pdf icon"></i>2013</a>
+              <a class="item" href="prilohy/soc_2012.pdf"><i class="file pdf icon"></i>2012</a>
+              <a class="item" href="prilohy/soc_2011.pdf"><i class="file pdf icon"></i>2011</a>
+              <a class="item" href="prilohy/soc_2010.pdf"><i class="file pdf icon"></i>2010</a>
+              <a class="item" href="prilohy/soc_2009.pdf"><i class="file pdf icon"></i>2009</a>
+              <a class="item" href="prilohy/soc_2008.pdf"><i class="file pdf icon"></i>2008</a>
+              <a class="item" href="prilohy/soc_2007.pdf"><i class="file pdf icon"></i>2007</a>
+              <a class="item" href="prilohy/soc_2006.pdf"><i class="file pdf icon"></i>2006</a>
             </div>
           </div>
-          <div style="margin-top: 1em">
-            <div class="colors">
-              <div class="ui teal label" data-content="RGB: 181, 204, 24">#00b5ad</div>
-              <div class="ui olive label" data-content="RGB: 0, 181, 173">#b5cc18</div>
-              <div class="ui orange label" data-content="RGB: 242, 113, 28">#b1a8a2</div>
+          <a id="dokumenty" name="dokumenty"></a>
+          <h4 class="ui horizontal header divider">
+            <i class="folder icon"></i>
+            Dokumenty
+          </h4>
+          <div class="ui center aligned container">
+            <div>
+              <div class="ui horizontal link list">
+                <a class="item" href="prilohy/smernica.pdf"><i class="file pdf icon"></i>Smernica</a>
+                <a class="item" href="prilohy/Vyrocna-sprava-2018.pdf"
+                  ><i class="file pdf icon"></i>Výročná správa Rady školy 2018</a
+                >
+                <a class="item" href="prilohy/VSRS.pdf"><i class="file pdf icon"></i>Výročná správa Rady školy 2017</a>
+                <a class="item" href="prilohy/VP_2017.pdf"><i class="file pdf icon"></i>Výchovný program</a>
+                <a class="item" href="prilohy/Skolsky_poriadok_2016.pdf"
+                  ><i class="file pdf icon"></i>Školský poriadok</a
+                >
+                <a class="item" href="prilohy/informacnapovinnost.pdf"
+                  ><i class="file pdf icon"></i>Ochrana osobných údajov</a
+                >
+              </div>
             </div>
-          </div>
-          <div style="margin-top: 1em">
-            <div class="ui horizontal docs link list">
-              <a class="item" href="obrazky/cvrcek-logo.svg"><i class="file image icon"></i>Logo (SVG)</a>
-              <a class="item" href="obrazky/cvrcek-logo.png"><i class="file image icon"></i>Logo (PNG)</a>
-              <a class="item" href="obrazky/cvrcek-logo-stvorec.svg"><i class="file image icon"></i>Logo - štvorec
-                (SVG)</a>
-              <a class="item" href="obrazky/cvrcek-logo-stvorec.png"><i class="file image icon"></i>Logo - štvorec
-                (PNG)</a>
-              <a class="item" href="obrazky/cvrcek-hlavicka.png"><i class="file image icon"></i>Logo - hlavička
-                (PNG)</a>
+            <div style="margin-top: 1em">
+              <div class="colors">
+                <div class="ui teal label" data-content="RGB: 181, 204, 24">#00b5ad</div>
+                <div class="ui olive label" data-content="RGB: 0, 181, 173">#b5cc18</div>
+                <div class="ui orange label" data-content="RGB: 242, 113, 28">#b1a8a2</div>
+              </div>
+            </div>
+            <div style="margin-top: 1em">
+              <div class="ui horizontal docs link list">
+                <a class="item" href="obrazky/cvrcek-logo.svg"><i class="file image icon"></i>Logo (SVG)</a>
+                <a class="item" href="obrazky/cvrcek-logo.png"><i class="file image icon"></i>Logo (PNG)</a>
+                <a class="item" href="obrazky/cvrcek-logo-stvorec.svg"
+                  ><i class="file image icon"></i>Logo - štvorec (SVG)</a
+                >
+                <a class="item" href="obrazky/cvrcek-logo-stvorec.png"
+                  ><i class="file image icon"></i>Logo - štvorec (PNG)</a
+                >
+                <a class="item" href="obrazky/cvrcek-hlavicka.png"
+                  ><i class="file image icon"></i>Logo - hlavička (PNG)</a
+                >
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
 
-    <div class="ui vertical secondary footer segment">
-      <div class="ui center aligned container">
-        <div class="ui stackable inverted divided grid">
-          <div class="eight wide column">
-            <h4 class="ui header">Kontakt</h4>
-            <div class="ui kontakt list">
-              <div class="item">
-                <div class="content">
-                  <div class="title"><i class="building icon"></i></div>
-                  Centrum voľného času CVrČek
+      <div class="ui vertical secondary footer segment">
+        <div class="ui center aligned container">
+          <div class="ui stackable inverted divided grid">
+            <div class="eight wide column">
+              <h4 class="ui header">Kontakt</h4>
+              <div class="ui kontakt list">
+                <div class="item">
+                  <div class="content">
+                    <div class="title"><i class="building icon"></i></div>
+                    Centrum voľného času CVrČek
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title">&nbsp;</div>
+                    Školská 5
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title">&nbsp;</div>
+                    Moldava nad Bodvou
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title">&nbsp;</div>
+                    045 01
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title"><i class="map marker alternate icon"></i></div>
+                    <a
+                      href="https://www.google.com/maps/place/Centrum+Voľného+Času/@48.6127937,20.9976012,16z/data=!4m12!1m6!3m5!1s0x0:0xcab51584d69de972!2zQ2VudHJ1bSBWb8S-bsOpaG8gxIxhc3U!8m2!3d48.6127976!4d20.9988956!3m4!1s0x0:0xcab51584d69de972!8m2!3d48.6127976!4d20.9988956"
+                      target="_blank"
+                      >48.6127937, 20.9976012</a
+                    >
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title"><i class="phone icon"></i></div>
+                    <a href="tel:00421905815083">+421 (905) 815 083</a>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title">&nbsp;</div>
+                    <a href="tel:00421554607253">+421 (55) 460 7253</a>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="content">
+                    <div class="title"><i class="mail icon"></i></div>
+                    <a href="mailto:cvrcek@cvcmoldava.edu.sk">cvrcek@cvcmoldava.edu.sk</a>
+                  </div>
                 </div>
               </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title">&nbsp;</div>
-                  Školská 5
+            </div>
+            <div class="eight wide column">
+              <h4 class="ui header">Dôležité údaje</h4>
+              <div class="ui informacie list">
+                <div class="item">
+                  <div class="content">
+                    <div class="title"><strong>IBAN</strong></div>
+                    SK73 0200 0000 0017 4487 2754
+                  </div>
                 </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title">&nbsp;</div>
-                  Moldava nad Bodvou
+                <div class="item">
+                  <div class="title"><strong>IČO</strong></div>
+                  35544236
                 </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title">&nbsp;</div>
-                  045 01
+                <div class="item">
+                  <div class="title"><strong>DIČ</strong></div>
+                  2021638630
                 </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title"><i class="map marker alternate icon"></i></div>
-                  <a href="https://www.google.com/maps/place/Centrum+Voľného+Času/@48.6127937,20.9976012,16z/data=!4m12!1m6!3m5!1s0x0:0xcab51584d69de972!2zQ2VudHJ1bSBWb8S-bsOpaG8gxIxhc3U!8m2!3d48.6127976!4d20.9988956!3m4!1s0x0:0xcab51584d69de972!8m2!3d48.6127976!4d20.9988956"
-                    target="_blank">48.6127937,
-                    20.9976012</a>
-                </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title"><i class="phone icon"></i></div>
-                  <a href="tel:00421905815083">+421 (905) 815 083</a>
-                </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title">&nbsp;</div>
-                  <a href="tel:00421554607253">+421 (55) 460 7253</a>
-                </div>
-              </div>
-              <div class="item">
-                <div class="content">
-                  <div class="title"><i class="mail icon"></i></div>
-                  <a href="mailto:cvrcek@cvcmoldava.edu.sk">cvrcek@cvcmoldava.edu.sk</a>
+                <div class="item">
+                  <img src="obrazky/cvrcek-mini.svg" class="ui centered tiny image" />
                 </div>
               </div>
             </div>
           </div>
-          <div class="eight wide column">
-            <h4 class="ui header">Dôležité údaje</h4>
-            <div class="ui informacie list">
-              <div class="item">
-                <div class="content">
-                  <div class="title"><strong>IBAN</strong></div>
-                  SK73 0200 0000 0017 4487 2754
-                </div>
-              </div>
-              <div class="item">
-                <div class="title"><strong>IČO</strong></div>
-                35544236
-              </div>
-              <div class="item">
-                <div class="title"><strong>DIČ</strong></div>
-                2021638630
-              </div>
-              <div class="item">
-                <img src="obrazky/cvrcek-mini.svg" class="ui centered tiny image" />
-              </div>
+          <div class="ui section divider"></div>
+          <div class="ui horizontal small centered list">
+            <div class="autori item">
+              <p>
+                <i class="code icon"></i> <a href="http://2keyplayerscom">2 Key Players</a>
+                <span style="padding-left:1em"></span>
+                <i class="settings icon"></i> <a href="https://vuejs.org">Vue.js</a> +
+                <a href="https://semantic-ui.com">Semantic UI</a>
+              </p>
+              <p>
+                <i class="copyright icon"></i><span class="copyright"></span>
+                <a href="http://www.cvcmoldava.edu.sk">CVČ CVrČek</a>
+              </p>
             </div>
-          </div>
-        </div>
-        <div class="ui section divider"></div>
-        <div class="ui horizontal small centered list">
-          <div class="autori item">
-            <p><i class="code icon"></i> <a href="http://2keyplayerscom">2 Key Players</a>
-              <span style="padding-left:1em"></span>
-              <i class="settings icon"></i> <a href="https://vuejs.org">Vue.js</a> + <a href="https://semantic-ui.com">Semantic
-                UI</a></p>
-            <p><i class="copyright icon"></i><span class="copyright"></span> <a href="http://www.cvcmoldava.edu.sk">CVČ CVrČek</a></p>
           </div>
         </div>
       </div>
+
+      <div class="ui center aligned hore container">
+        <a href="javascript:hore()"><i class="angle up icon"></i> Hore <i class="angle up icon"></i></a>
+      </div>
     </div>
 
-    <div class="ui center aligned hore container">
-      <a href="javascript:hore()"><i class="angle up icon"></i> Hore <i class="angle up icon"></i></a>
-    </div>
-  </div>
-
-  <script src="js/skripty.js"></script>
-  <script src="js/informacie.js"></script>
-
-</body>
-
+    <script src="js/skripty.js"></script>
+    <script src="js/informacie.js"></script>
+  </body>
 </html>

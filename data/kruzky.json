@@ -2,32 +2,32 @@
   {
     "nazov": "Aerobkáčik",
     "veduci": "dd",
-    "kedyKde": [ "Pondelok 16:00, Cvičebňa" ]
-  },
-  {
-    "nazov": "Atletika",
-    "veduci": "np",
-    "kedyKde": [ "Pondelok 14:00, ZŠ ČSA", "Utorok 14:00, ZŠ ČSA", "Streda 14:00, ZŠ ČSA", "Piatok 14:00, ZŠ ČSA" ]
+    "kedyKde": [ "Utorok 16:00, Cvičebňa" ]
   },
   {
     "nazov": "Bábkové divadlo",
     "veduci": "mt",
-    "kedyKde": [ "Pondelok 14:00, Bábkovňa", "Utorok 14:00, Bábkovňa" ]
+    "kedyKde": [ "Štvrtok 14:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Basketbal",
+    "veduci": "np",
+    "kedyKde": [ "Pondelok 16:00, Telocvičňa ZŠ ČSA" ]
   },
   {
     "nazov": "Break dance",
     "veduci": "pf",
-    "kedyKde": [ "Utorok 16:00, Bábkovňa" ]
+    "kedyKde": [ "Utorok 15:30, Bábkovňa" ]
   },
   {
     "nazov": "CVrČkov parlament",
-    "veduci": "rm",
-    "kedyKde": [ "Utorok 14:00, Herňa" ]
+    "veduci": "dk",
+    "kedyKde": [ "Utorok 16:00, Herňa" ]
   },
   {
     "nazov": "Cvrlikanie pre ZŠ",
     "veduci": "cvc",
-    "kedyKde": [ "Piatok 10:00, Klubovňa" ]
+    "kedyKde": [ "Streda 10:00, Klubovňa" ]
   },
   {
     "nazov": "Dielnička",
@@ -35,9 +35,14 @@
     "kedyKde": [ "Streda 14:00, Herňa" ]
   },
   {
-    "nazov": "Detská atletika",
+    "nazov": "Detská atletika 1",
     "veduci": "dd",
-    "kedyKde": [ "Štvrtok 16:00, Telocvičňa ZŠ s VJM" ]
+    "kedyKde": [ "Štvrtok 15:30, Telocvičňa ZŠ s VJM" ]
+  },
+  {
+    "nazov": "Detská atletika 2",
+    "veduci": "dk",
+    "kedyKde": [ "Štvrtok 15:30, Telocvičňa ZŠ s VJM" ]
   },
   {
     "nazov": "Drobček",
@@ -45,59 +50,74 @@
     "kedyKde": [ "Piatok 16:00, Herňa" ]
   },
   {
-    "nazov": "Foto - video",
-    "veduci": "rm",
-    "kedyKde": [ "Streda 14:00, Herňa" ]
-  },
-  {
-    "nazov": "Flórbal",
-    "veduci": "np",
-    "kedyKde": [ "Pondelok 16:00, Telocvičňa ZŠ ČSA" ]
-  },
-  {
-    "nazov": "Gazdinky",
-    "veduci": "rm",
-    "kedyKde": [ "Pondelok 14:00, Herňa" ]
+    "nazov": "Foto",
+    "veduci": "dk",
+    "kedyKde": [ "Utorok 14:00, Herňa" ]
   },
   {
     "nazov": "Gymnastika",
-    "veduci": "dd",
-    "kedyKde": [ "Štvrtok 14:00, Cvičebňa" ]
+    "veduci": "np",
+    "kedyKde": [ "Utorok 14:00, Cvičebňa" ]
   },
   {
     "nazov": "Hip hop",
-    "veduci": "rm",
-    "kedyKde": [ "Pondelok 16:00, Bábkovňa", "Štvrtok 14:00, Bábkovňa" ]
-  },
-  {
-    "nazov": "Mažoretky",
-    "veduci": "dd",
+    "veduci": "dk",
     "kedyKde": [ "Streda 14:00, Bábkovňa" ]
   },
   {
-    "nazov": "Malí vedci",
-    "veduci": "dd",
-    "kedyKde": [ "Piatok 14:00, Chodba" ]
+    "nazov": "Hraj na tie nohy 1",
+    "veduci": "np",
+    "kedyKde": [ "Pondelok 14:00, ZŠ ČSA", "Streda 14:00, ZŠ ČSA", "Piatok 14:00, ZŠ ČSA" ]
   },
   {
-    "nazov": "Moderné dievčatá",
-    "veduci": "rm",
-    "kedyKde": [ "Piatok 14:00, Herňa" ]
+    "nazov": "Hraj na tie nohy 2",
+    "veduci": "np",
+    "kedyKde": [ "Streda 15:00, ZŠ ČSA", "Piatok 15:00, ZŠ ČSA" ]
+  },
+  {
+    "nazov": "Klub mamičiek",
+    "veduci": "np",
+    "kedyKde": [ "Utorok 9:00, Cvičebňa" ]
+  },
+  {
+    "nazov": "Kreslenie",
+    "veduci": "dk",
+    "kedyKde": [ "Pondelok 16:00, Bábkovňa" ]
+  },
+  {
+    "nazov": "Ledies",
+    "veduci": "dd",
+    "kedyKde": [ "Utorok 14:00, Herňa" ]
+  },
+  {
+    "nazov": "Moderný tanec",
+    "veduci": "dk",
+    "kedyKde": [ "Pondelok 14:00, Bábkovňa" ]
   },
   {
     "nazov": "Montessori",
     "veduci": "dd",
-    "kedyKde": [ "Streda 16:00, Chodba" ]
+    "kedyKde": [ "Pondelok 16:00, Klubovňa" ]
   },
   {
-    "nazov": "Piloxing",
+    "nazov": "Piloxing 1",
     "veduci": "dd",
     "kedyKde": [ "Pondelok 14:00, Cvičebňa" ]
   },
   {
-    "nazov": "Pohybovka",
+    "nazov": "Piloxing 2",
     "veduci": "dd",
-    "kedyKde": [ "Utorok 16:00, Telocvičňa ZŠ ČSA" ]
+    "kedyKde": [ "Streda 14:00, Cvičebňa" ]
+  },
+  {
+    "nazov": "Pohybovka 1",
+    "veduci": "dd",
+    "kedyKde": [ "Štvrtok 16:30, Telocvičňa ZŠ ČSA" ]
+  },
+  {
+    "nazov": "Pohybovka 2",
+    "veduci": "dk",
+    "kedyKde": [ "Štvrtok 16:30, Telocvičňa ZŠ ČSA" ]
   },
   {
     "nazov": "Poľovníček",
@@ -105,9 +125,14 @@
     "kedyKde": [ "Utorok 14:00, Klubovňa" ]
   },
   {
-    "nazov": "Plávanie",
+    "nazov": "Plávanie 1",
     "veduci": "np",
-    "kedyKde": [ "Plaváreň Drienovec", "2x mesačne" ]
+    "kedyKde": [ "Plaváreň Drienovec", "sobota" ]
+  },
+  {
+    "nazov": "Plávanie 2",
+    "veduci": "dd",
+    "kedyKde": [ "Plaváreň Drienovec", "sobota" ]
   },
   {
     "nazov": "Rybárik",
@@ -115,7 +140,7 @@
     "kedyKde": [ "Utorok 16:00, Herňa" ]
   },
   {
-    "nazov": "strEtKO pre ZŠ",
+    "nazov": "Ročné obdobia pre MŠ",
     "veduci": "cvc",
     "kedyKde": [ "Štvrtok 10:00, Klubovňa" ]
   },
@@ -125,13 +150,13 @@
     "kedyKde": [ "Pondelok 14:00, Klubovňa", "Štvrtok 14:00, Klubovňa" ]
   },
   {
-    "nazov": "Tancujúce nôžky",
-    "veduci": "rm",
-    "kedyKde": [ "Streda 16:00, Bábkovňa" ]
+    "nazov": "Volejbal 1",
+    "veduci": "np",
+    "kedyKde": [ "Streda 16:30, Telocvičňa ZŠ ČSA", "Piatok 16:30, Telocvičňa ZŠ ČSA" ]
   },
   {
-    "nazov": "Volejbal",
+    "nazov": "Volejbal 2 ",
     "veduci": "np",
-    "kedyKde": [ "Streda 16:30, Telocvičňa ZŠ ČSA", "Štvrtok 18:00, Telocvičňa ZŠ ČSA", "Piatok 16:30, Telocvičňa ZŠ ČSA" ]
+    "kedyKde": [ "ŠTVRTOK 18:00, Telocvičňa ZŠ ČSA" ]
   }
 ]
