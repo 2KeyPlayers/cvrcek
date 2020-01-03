@@ -448,9 +448,7 @@
     "nazov": "Deň Zeme",
     "autor": "mt",
     "datum": "23.4.2010",
-    "text": [
-      "Aj naše deti v záujmových útvaroch oslávili Deň Zeme. Pozrite si ako..."
-    ],
+    "text": ["Aj naše deti v záujmových útvaroch oslávili Deň Zeme. Pozrite si ako..."],
     "fotky": ["obrazky/foto/denzeme/1.jpg"]
   },
   {
@@ -560,10 +558,7 @@
     "text": [
       "Pre našich bilošistov bol aj tento víkend rušný. V sobotu, 6. marca 2010, odohralo naše A-čko dramatický zápas v domácom prostredís prešovským tímom Horses. Bilošisti ho vyhrali 5:4. V nedeľu, 7. marca 2010, cestovalo naše B-čko do Prešova, kde podľahlo domácemu tímu Tatran 1:8.21.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_5')\" onmouseout=\"skryDetaily(this, '26_5')\">&gt; zobraziť &lt;</span>Túto sobotu, 20. februára 2010, odohral svoj ďalší zápas aj náš najskúsenejší tím BK Bilošisti. Vo vyrovnanom zápase,v ktorom sa však dvom bilošistom vôbec nedarilo, nakoniec zdolali domáci tím ŠPV-BK Košice tesne v pomere 5:4.14.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_4')\" onmouseout=\"skryDetaily(this, '26_4')\">&gt; zobraziť &lt;</span>Tento piatok, 12. februára 2010, odohral svoj druhý zápas aj tím BKB \"B\". V domácom prostredí prehrali bilošistis tímom BK 66 Prešov 7:2. Dva body uhral Tomáš Benický.7.2.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_3')\" onmouseout=\"skryDetaily(this, '26_3')\">&gt; zobraziť &lt;</span>Aj tento víkend zasiahli bilošisti do bojov v II. slovenskej biliardovej lige.V sobotu, 6. februára 2010, zvíťazil tím BK Bilošisti v domácom prostredí nad tímom ZPL Prešov v pomere 9:0.V nedeľu, 7. februára 2010, odohrali svoj druhý zápas aj BKB &quot;Little Kings&quot;. Tesne v ňom podľahli domácemutímu Silverstar Prešov 5:4.23.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_2')\" onmouseout=\"skryDetaily(this, '26_2')\">&gt; zobraziť &lt;</span>Túto sobotu, 23. januára 2010, odohrali naše 3 tími úvodné stretnutia v II. slovenskej biliardovej lige.Dva z nich na seba natrafili vo vzájomnom zápase, v ktorom BK Bilošisti porazili BKB &quot;Little Kings&quot; 8:1.Tím BKB &quot;B&quot; prehral v Poprade s Club 24 výsledkom 8:1.18.1.2010 <span class=\"detaily\" onmouseover=\"zobrazDetaily(this, '26_1', 4)\" onmouseout=\"skryDetaily(this, '26_1', 4)\">&gt; zobraziť &lt;</span>Biliardový klub Bilošisti (BKB) v aktuálnom ročníku II. slovenskej biliardovej ligy postavil3 družstvá. CVrČka a mestské farby budú obhajovať:<a href=\"http://www.sbiz.sk/LIGA/2ligaE1.htm\">BKB</a> - Patrik Tóth, Ján Dugas a Marek Tóth<a href=\"http://www.sbiz.sk/LIGA/2ligaE2.htm\">BKB &quot;B&quot;</a> - Jozef Than, Zoltán Lukács a Tomáš Benický<a href=\"http://www.sbiz.sk/LIGA/2ligaE1.htm\">BKB &quot;Little Kings&quot;</a> - Kristián Janíčko, Tibor Béreš a Miroslav Görcsös."
     ],
-    "detaily": [
-      "http://www.sbiz.sk/LIGA/2ligaE1.htm",
-      "http://www.sbiz.sk/LIGA/2ligaE2.htm"
-    ]
+    "detaily": ["http://www.sbiz.sk/LIGA/2ligaE1.htm", "http://www.sbiz.sk/LIGA/2ligaE2.htm"]
   },
   {
     "id": 14,
@@ -668,9 +663,7 @@
     "nazov": "Šmolko hop",
     "autor": "zs",
     "datum": "15.1.2010",
-    "text": [
-      "Na záujmovom útvare Šmolko hop pre deti z MŠ je vždy veselo. Presvedčtesa sami."
-    ],
+    "text": ["Na záujmovom útvare Šmolko hop pre deti z MŠ je vždy veselo. Presvedčtesa sami."],
     "fotky": ["obrazky/foto/smolkohop/1.jpg"]
   },
   {
