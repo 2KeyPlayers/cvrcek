@@ -18,10 +18,10 @@ Vue.component('cvrckovina', {
     </div>
   </div>`,
   methods: {
-    obrazok: function (obrazok) {
+    obrazok: function(obrazok) {
       return 'obrazky/aktuality/' + obrazok;
     },
-    linkAutora: function (autor) {
+    linkAutora: function(autor) {
       // if (!autor || autor == 'cvc') {
       //   return 'informacie.html?id=zamestnanci';
       // } else if (autor == '2kp') {
@@ -35,7 +35,7 @@ Vue.component('cvrckovina', {
         return 'informacie.html?id=zamestnanci';
       }
     },
-    menoAutora: function (autor) {
+    menoAutora: function(autor) {
       // if (!autor || autor == 'cvc') {
       //   return 'CVČ';
       // } else if (autor == '2kp') {
@@ -65,7 +65,7 @@ Vue.component('cvrckovina', {
       }
     }
   }
-})
+});
 
 var app = new Vue({
   el: '#app',
@@ -83,14 +83,14 @@ var app = new Vue({
     hladat: null
   },
   methods: {
-    prazdnePole: function (pole) {
+    prazdnePole: function(pole) {
       return !pole || pole.length == 0;
     },
-    nastavFilter: function (f) {
+    nastavFilter: function(f) {
       this.filter = f;
       this.hladat = '';
     },
-    ikonaFiltra: function () {
+    ikonaFiltra: function() {
       if (this.filter == 'pripravovane') {
         return 'calendar alternate icon';
       } else if (this.filter == 'uskutocnene') {
@@ -101,7 +101,7 @@ var app = new Vue({
         return 'thumbtack icon';
       }
     },
-    zobrazitDalsie: function (pauza) {
+    zobrazitDalsie: function(pauza) {
       if (pauza == undefined) {
         pauza = 1000;
       }
@@ -119,25 +119,25 @@ var app = new Vue({
     var href = window.location.href; //window.location.pathname;
     var url = new URL(href);
 
-    this.roky = ['2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009'];
+    this.roky = ['2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009'];
     this.rok = url.searchParams.get('rok');
     if (!this.rok && href.indexOf('-') >= 0) {
       this.rok = href.substring(href.lastIndexOf('-') + 1);
     }
     if (!this.rok) {
-      this.rok = '2018';
+      this.rok = this.roky[0];
     }
-    $.getJSON('/data/archiv/archiv' + this.rok + '.json', function (json) {
+    $.getJSON('/data/archiv/archiv' + this.rok + '.json', function(json) {
       app.najnovsie = json;
-    
+
       if (app.najnovsie.length > 2) {
         app.starsie = app.najnovsie.splice(2);
         app.cvrckoviny = [];
         app.zobrazitDalsie(0);
       }
 
-      $(document).ready(function () {
-        if (('ontouchstart' in document.documentElement) || ('ontouchstart' in window)) {
+      $(document).ready(function() {
+        if ('ontouchstart' in document.documentElement || 'ontouchstart' in window) {
           $('#app').addClass('touch');
         }
         $('.ui.pocet.dropdown').dropdown();
@@ -145,4 +145,4 @@ var app = new Vue({
       });
     });
   }
-})
+});
