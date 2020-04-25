@@ -12,52 +12,55 @@
   },
 
   {
-    "id": 29,
-    "obrazok": "psr.jpg",
-    "nazov": "Poznaj slovenskú reč",
+    "id": 40,
+    "obrazok": "oznam.jpg",
+    "nazov": "Oznam",
     "autor": "mt",
-    "datum": "24.2.2020",
+    "datum": "12.3.2020",
     "text": [
-      "Okresné kolo súťaže Poznaj slovenskú reč sa bude konať dňa 24. februára 2020 o 8:30 hod. v priestoroch Centra voľného času CVrČek, Školská 5, 04501 Moldava nad Bodvou. Viac informácií získate pod ikonkami."
-    ],
-    "facebook": ["https://www.facebook.com/cvcmoldava/photos/pcb.2701131176631278/2701129453298117/?type=3&theater"],
-    "detaily": ["http://www.statpedu.sk/sk/sutaze/poznaj-slovensku-rec/"]
+      "Na základe záverov zo zasadnutia krízového štábu Centrum voľného času CVrČek prerušuje prevádzku od dňa 13.3.2020. Informácie budeme aktualizovat priebežne. Ďakujeme za pochopenie. Mgr. Mária Tóthová."
+    ]
   },
   {
-    "id": 28,
-    "obrazok": "kvapka.jpg",
-    "nazov": "Metodický deň",
+    "id": 39,
+    "obrazok": "oznam.jpg",
+    "nazov": "Oznam",
     "autor": "mt",
-    "datum": "2.3.2020",
+    "datum": "9.3.2020",
     "text": [
-      "V prvý deň Jarných prázdnin CVrČek pripravuje Metodické stretnutie pre vychovávateľov.V prípade Vášho záujmu nám dajte vedieť. Ďakujeme. "
+      "V súvislosti so šírením respiračného ochorenia vyvolaného novým koronavírusom COVID-19 riaditeľstvo Centra voľného času CVrČek v Moldave nad Bodvou (CVČ) po konzultácii so zriaďovateľom oznamuje, že výchovno-vzdelávací proces – pravidelná záujmová činnosť v záujmových útvaroch bude v CVČ bez obmedzení (okrem záujmového útvaru Plávanie), všetka príležitostná a prázdninová činnosť bude momentálne pozastavená. Činnosť bude prebiehať za dôsledného dodržiavania všeobecných preventívnych ochranných opatrení, ktoré si môžete pozrieť na našom FB. "
     ],
-    "facebook": ["https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2766765460067849/?type=3&theater"]
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2838613482883046?__xts__[0]=68.ARDHhGkoo5XeBW4WTHPSDFm3tlzSIsYu6Ki68iM5FJtWOCfxtdbcAs6oXscW5MmF2gj0PDleiF7dCNhMfsa_k2WUcoRpeaxKU93XopQp6AfqYFBaeJ_VpZ51oDzr8pmMWmcDDMwUf7xl2xPZyMt2-MEReSo4M38fe3Rt9LBmGRxL3siTzDQDPL9zhVzwS-PTK6LsJSz788mDXUk4lTmxJWSD_9DxCP3IRH7rSpmfq2efGGbxSLcVy0E4fdDiFygzTPFWsIZoIW-5Vm1LTlczTznGjPTKs4uLT92AI058O2Z2gl7ZrYJorPTvxJRXteU4RHfhBpUWFbR1m9CyR-uBylcPtw&__tn__=-R"
+    ],
+    "prilohy": [
+      "https://www.facebook.com/cvcmoldava/posts/2832319126845815?__xts__[0]=68.ARAcvcukaQp3tVUEml0pt8S9DCU7gwWxTvtUbGMb7oHBmvYb1zNYBxwe3bR8IL1ob2mM_V1ZFohatlaJyqMaykOoR7_u54BBm8esotlBUfnMIgmE7OE4YnqJojqR3hV6-0VdP67J8Esr_PP4glbFS53SH_16pPVKauIYlHZcSLkGAHHFRc80BfVGzXB-bw7dHgF3WBxgsP4BX0Luy-dRL-s_1n-Ti9H7y7fU8sajSo_6DKZR8ttVUj2kaDAIS8-p2oCjNS4jUtIfuuDFaqHeNJV-S4MbVux_UVLoKSJsp9lmcDo0Sf3dx6ue5g8WZkjcqwAJX0kjLAyKcpPtGswvypJFvCDzng7mVx32Xz6ylpf9_diXUzjs7iC4zzwLHbrvLWlo6jQlr0SunsUPvVK1ZYx7UI8lZE4hw0KDzGAo9dF3Kpwabsm65hEZU61RLm1vfjvNfNzuDTJzU8l4hW2mO8s9HGZylQyVpUFWCTcaAaphWD5kByjwIwEs&__tn__=H-R"
+    ]
   },
   {
-    "id": 27,
-    "obrazok": "divadlohu.jpg",
-    "nazov": "Budapešť",
-    "autor": "dd",
-    "datum": "3.3.2020",
+    "id": 38,
+    "obrazok": "zemkvapka.jpg",
+    "nazov": "Svetový deň vody",
+    "autor": "mt",
+    "datum": "22.3.2020",
     "text": [
-      "Jarné prázdniny predstavujú vhodný čas na relax a oddych. Môžeme však počas nich zažiť aj kopec dobrodružstva, napríklad aj v hlavnom meste Maďarska, kde Ťa teraz pozývame aj my. Neváhajte a prihláste sa čím skôr, aby ste nezmeškali dobrodružný Palác zázrakov v Budapešti. Potrebujete len platný cestovný pas, prípadne občiansky preukaz a uistiť sa u rodičov, že Vám potrebné poplatky za krúžky u nás v CVrČkovi už uhradili do konca školského roka."
+      "Svetový deň vody, ktorý sa každý rok koná 22. marca od roku 1993, sa zameriava na význam sladkej vody. Pitnú vodu si musíme chrániť a vážiť. Voda je naše spoločné bohatstvo. Preto sme sa v CVrČkovi rozhodli, že v týždni od 16. - 20. marca 2020 si dôležitosť ochrany pitnej vody pripomenieme podľa možnosti na každom záujmovom útvare."
     ],
-    "facebook": ["https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2772290199515375/?type=3&theater"]
+    "prilohy": ["https://www.facebook.com/cvcmoldava/photos/pcb.2826229587454769/2826225274121867/?type=3&theater"]
   },
   {
-    "id": 26,
-    "obrazok": "deti.jpg",
-    "nazov": "Jarné prázdniny",
-    "autor": "dd",
-    "datum": "4.3.2020",
+    "id": 35,
+    "obrazok": "hodinazeme1.jpg",
+    "nazov": "Hodina Zeme",
+    "autor": "mt",
+    "datum": "28.3.2020",
     "text": [
-      "Počas jarných prázdnin CVrČek pripravuje pre prázdninujúce deti Tanečný deň - 4. marca 2020 a Športový deň - 5. marca 2020."
+      "Hodina Zeme je najväčšou celosvetovou kampaňou zameranou na zvýšenie povedomia verejnosti v oblasti klimatických zmien. Zhasnutím svetla na 60 minút vytvára symboliku spoločnej zodpovednosti za budúcnosť našej planéty a vyzýva ľudí, aby si uvedomili, že k zlepšeniu môže prispieť každý z nás. CVrČek sa do tejto aktivity zapája každý rok od roku 2013. "
     ],
-    "facebook": ["https://www.facebook.com/cvcmoldava/photos/pcb.2787891404621921/2787888131288915/?type=3&theater"]
+    "detaily": ["http://hodinazeme.svetelneznecistenie.sk/"]
   },
   {
-    "id": 25,
+    "id": 33,
     "obrazok": "folklor.png",
     "nazov": " Studnica našich predkov",
     "autor": "mt",
@@ -68,7 +71,112 @@
     "facebook": ["https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2762733267137735/?type=3&theater"]
   },
   {
+    "id": 0,
+    "obrazok": "balerinky.jpg",
+    "nazov": "Vicemajsterka Slovenska",
+    "autor": "mt",
+    "datum": "8.3.2019",
+    "text": [
+      "Takto sa to v septembri v roku 2018 začalo. Prvými bežeckými topánkami. 👟 A dnes, 8. marca 2020, na Halových majstrovstvách SR starších žiakov a starších žiačok v Bratislave, naša Annamária získala striebornú medailu! 🥈Stala sa druhou najrýchlejšou pretekárkou na 2000 m! "
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2836635959747465?__xts__[0]=68.ARBAkYZcG3O54Hzn0_ymuxgdX15VD40TcYYXg7EZBejLiYVorJjLaTiUAkulsoUCoBw3edoFHlxipanFv-8hnO7tXFkFJ_84j7-M7jazfuKxoDvtDU0IaJ72_wO5irGURJgyFyViqD-_BCILuHzOIiufKjmJ1gq8HVUup-f0nvuFn102zELJmxSp55wESl4eT5EHgpq9idVOGM8AHSiQO5eGzk1sOd44xkzJK7nGv3-2TOV24RlNvjELvN7kNDMblN39Dyveg6GSiyNNJm0gkT9-wptvUdZRkuLR6wzWmNZ3qTQ7EWQsAhnwKSN1i_odKWGe&__tn__=-R-R-R"
+    ]
+  },
+  {
+    "id": 32,
+    "obrazok": "deti.jpg",
+    "nazov": "Jarné prázdniny - Športový deň",
+    "autor": "np",
+    "datum": "5.3.2020",
+    "text": [
+      "Dnešným dňom máme za sebou športový deň, plný pohybových a zábavných aktivít, pri ktorých si deťúrence z jednotlivých záujmových útvarov mohli zmerať svoje sily. Športový deň prebiehal v telocvični ZŠ na ulici ČSA a samozrejme, prázdninový čas sme strávili aj v našich obľúbených priestoroch CVrČka. Počas celého dňa sa účastníci dobre zabávali a utužovali priateľstvá. "
+    ],
+    "prilohy": ["https://www.facebook.com/cvcmoldava/photos/pcb.2787891404621921/2787888131288915/?type=3&theater"],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2830727693671625?__xts__[0]=68.ARC0cPwaphT3pT88R_XmYJfO4TzBwgjr2ElHHKbPX_uxUfvoySoZHWHNHLOGj3Qoa9oBWEnGi9NNu9z9LsqpqSgDUkf0TVkJf485rMXiZUHGwfB8fDdCGnmC-Qp2RbUQYa4gut-7efFUa5KnNi_LaNuvZY3E9wHwtJkr9Zt8hGZ3mYvjXiRjT_ATWUb2bM8SvErlwDxR0cPgrutGclIb9XqYvRRIyOaQ1WagPc-mMrS8A5noLH1z7OFRoi4TDebubr8dtfxZgKggtyVQnJfHB9e-PFlLd0TGguP4a6xZl_xYs_k6p-_kjNZ09lZBm7JfDrkOsefOpuLI96_HkIEny2c_5w&__tn__=-R"
+    ]
+  },
+  {
+    "id": 31,
+    "obrazok": "deti.jpg",
+    "nazov": "Jarné prázdniny - Tanečný deň",
+    "autor": "dd",
+    "datum": "4.3.2020",
+    "text": [
+      "Ako len ten čas letí sme zistili aj dnes, 4. marca 2020, kedy nám prvý prázdninový deň v CVrČkovi ubehol tak rýchlo, že sme sa nestihli ani len začudovať. To bolo asi tým, že sme sa cítili všetci skvelo. Máme za sebou príjemný deň plný zábavy, hier a dobrej nálady, doladenej príjmenými melódiami našich oblúbených pesničiek. "
+    ],
+    "prilohy": ["https://www.facebook.com/cvcmoldava/photos/pcb.2787891404621921/2787888131288915/?type=3&theater"],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2828304703913924?__xts__[0]=68.ARD-aKnCjqhv2QJXCfny2ymlrmahYL_CpefrCtsgr0_Nx4B0YhtyD1P7CIAxfHfncKouRI4na1gw06DXJqbwYS7nwHXmNPDKYKgXtdHZqm8kV46fQKxwlWubk-DJqwNt9XdDhNVqnkwn0aWr6ezU6WnlHdjqjUGh8n9aye-uX4D5zptl_x-I09zWXs7jXUzVjTL-IoCPx9f52r5UuNmvFkhGEnpf_xR8PVCJupN7HHE9Id6oz4wLHxJdyjQ965FSzx2TT5G3idMMVVu7Z3g2iXoFT-59OhmIbHcYmgjfPlne9O_AD7Q9izKjYph1AEX4bGFd4nGuFWvxvtcKQ8H54DZTJA&__tn__=-R"
+    ]
+  },
+  {
     "id": 30,
+    "obrazok": "kvapka.jpg",
+    "nazov": "Metodický deň",
+    "autor": "mt",
+    "datum": "2.3.2020",
+    "text": [
+      "V prvý deň Jarných prázdnin CVrČek pripravil aktualizačné vzdelávanie pre vychovávateľov na tému Aplikácia tém environmentálnej výchovy do výchovy mimo vyučovania. Prioritne sme sa zamerali na aktivity na Deň vody. "
+    ],
+    "facebook": ["https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2766765460067849/?type=3&theater"]
+  },
+  {
+    "id": 29,
+    "obrazok": "snezienka.jpg",
+    "nazov": "Ročné obdobia - Jar",
+    "autor": "dk",
+    "datum": "27.2.2020",
+    "text": [
+      "Teplo, teplo, teplúčko, už vykúka slniečko, hreje naše líca malé, aha pozrite tam sú kvietky krásne. Dnes k nám zavítali deti z materskej školy Veselá zebra, ich príchodom vykuklo aj slniečko. Deň si spríjemnili predpoludňajšími aktivitami a to krásnou rozprávkou o snežienke, cvičením a tvorením."
+    ],
+    "prilohy": ["https://www.facebook.com/cvcmoldava/photos/pcb.2791344224276639/2791340230943705/?type=3&theater"],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2814737018604026?__xts__[0]=68.ARAVn1wonVyqiIhDtufrPO2yn9cVilAP-_GoxjFAYR0YafKGVwwTLqsaetGl_CuvxUHwWyjj3a91gT0_AuLq0C7rTNdae8kTMnMWGdLqdg5ngZQPfLdTWakY9Ro21mDZoXTkR5ja-iY7KwNg92gYlrKpfVLy0YNBUfuahGsPL5Nov15H03MtEpcV0rRc3YbbgIPUu2T7NB5nEwc387NUeamy578kadFuJKvpl8fH7Dhrf873sleOOjN1JKE8qFfWwY-fsrd1Ks-N3lR_ixeuVSJrtHoU3UkpZqQTIacZQvoJfl9i8hgr26L_unXS8E83juvKgN4UIaYg6Mv2nldsmWAyUQ&__tn__=-R"
+    ]
+  },
+  {
+    "id": 28,
+    "obrazok": "kybersikana.jpg",
+    "nazov": "Cvrlikanie - Kyberšikana",
+    "autor": "dd",
+    "datum": "26.2.2020",
+    "text": [
+      "Kyberšikanovanie je patologickým prejavom v medziľudských vzťahoch, preto aj prevencia jeho výskytu vychádza zo zlepšovania týchto vzťahov. Hlavný dôraz by mal byť kladený na rozvoj sociálnych zručností a sebapoznania. Deti sa potrebujú učiť, ako lepšie rozoznávať,pomenovávať svoje emócie a prežívanie, ako lepšie zvládať záťažové a konfliktné situácie,ako byť vnímavejšie voči ostatným. Dnes, sme sa tematike Kyberšikanovania venovali zo žiakmi 6.A a 6.B triedy zo ZŠ Severná."
+    ],
+    "facebook": [
+      "https://www.facebook.com/cvcmoldava/posts/2812534248824303?__xts__[0]=68.ARAwrPkuSgI2v25rh-BYllUfwWxqPAeGx6cjdA7IMsbk3psxgSHU747c2gXHZLTxEBgNKTs-XL3FJK78d-lCBNl3MK5SOwKGUw8oxoZD_50qnjoGfBijECfnLl3O5ipsjld1N6jrvdq8MhLyW4fTjBwEoTp_K_hdOtxN0GMQOpBHE-n1XvZIzB7jxjt-jHL5EoGBwg1DF7ciJBbLhC5chR2_InZT9GpT8hQLqutl8srKrPFe2hwpQtLkmd3-A85Noi62f58V66_CCEH6BO8hyL-Cz6G6V17UDoVj7FyuKg7iVmeAVuzj4sETyoa2wPZaaJzkaMH5CbL5Mh-D3L5qXX_IDQ&__tn__=-R"
+    ]
+  },
+  {
+    "id": 27,
+    "obrazok": "divadlohu.jpg",
+    "nazov": "Budapešť",
+    "autor": "dd",
+    "datum": "24.2.2020",
+    "text": [
+      "Milí rodičia, milé deti. S ľútosťou vám oznámujeme, že autobus do Budapešti sa nezaplnil. Tým, ktorí poplatok za výlet uhradili na CVrČkov účet, peniaze vrátime späť ešte v priebehu tohto týždňa."
+    ],
+    "facebook": ["https://www.facebook.com/cvcmoldava/photos/a.167329870011434/2772290199515375/?type=3&theater"]
+  },
+  {
+    "id": 26,
+    "obrazok": "psr.jpg",
+    "nazov": "Poznaj slovenskú reč",
+    "autor": "mt",
+    "datum": "24.2.2020",
+    "text": [
+      "Už po 17. krát Centrum voľného času CVrČek organizovalo okresné kolo súťaže Poznaj slovenskú reč. Postupová súťaž je určená deťom zo základných škôl s vyučovacím jazykom maďarským z okresov Košice, Košice okolie a Rožňava. Slovenský jazyk je v Slovenskej republike nástrojom dorozumievania. Jeho ovládanie je dôležitou spoločenskou požiadavkou. Cieľom jazykovej súťaže Poznaj slovenskú reč, ktorej vyhlasovateľom je Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky je rozvíjať kľúčové kompetencie žiakov, pestovať pozitívne postoje k slovenskému jazyku, posilniť kladný vzťah k slovenskej kultúre, k histórii slovenského národa, k učeniu sa štátneho jazyka. Všetkým víťazom srdečne blahoželáme a želáme veľa úspechov v krajskom kole súťaže."
+    ],
+    "prilohy": ["https://www.facebook.com/cvcmoldava/photos/pcb.2701131176631278/2701129453298117/?type=3&theater"],
+    "detaily": ["http://www.statpedu.sk/sk/sutaze/poznaj-slovensku-rec/"],
+    "facebook": [
+      "https://www.facebook.com/pg/cvcmoldava/photos/?tab=album&album_id=2808506945893700&__xts__%5B0%5D=68.ARCMiO775cKKNMjYcWFsqrQvU6_rLXS1C7sFZG9ZD-aZ0mp7ZIvEyy6kdhvpWc7J3NtZCy2DZyCCifjKPQ3hNtYmbSVuCigOWcIenryzHzZcZzPdWILEPrpiEetKwxeePQH-Cc_1TMUwAxFNk7Y0nBZRW4XAq5YnYtDRVWStcnzeesz2SYnHTa6J0u0YcD4we6B3154TPjoXMwAmThNii8N77Gzr8mmWMd_m9M1z7lumjgtrCHcKnIznGF9QKsSzu4Y9ZfDIFQq5ZN4azNGAEtiiSBA1h1C8UQyb6Y3qKJlXXKuw_hVpcoIWqCnGeAqshkb5QEvNDs3H-gR-YR4I8xAcGx__Lb9Iai8QVOqUc3_lT4uAVHFhnYKa7E__Kj4qg0LpZfLFN0YWgVEKALL5Lu6rzrBd_OmG00asKwWzOTB9AFE4jqy9f2A-DC3ASSiXV6r6d1Hcny2yeShqB3FfDeQ0S81CieqYCwZRT_3x4EDoFOIBw0lsMyh_fOiNygCkYToB05pznp-UTRAaxkGbRfDr9JgEUjB7xaYiDVYGQg&__tn__=-UC-R"
+    ]
+  },
+  {
+    "id": 25,
     "obrazok": "valentin.jpg",
     "nazov": "Valentínsky mix",
     "autor": "np",
@@ -113,7 +221,7 @@
   {
     "id": 22,
     "obrazok": "kniha1.gif",
-    "nazov": "Ži svoj sen",
+    "nazov": "Cvrlikanie - Ži svoj sen",
     "autor": "mt",
     "datum": "21.2.2020",
     "text": [
@@ -197,7 +305,7 @@
     "obrazok": "snezienka.jpg",
     "nazov": "Ročné obdobia - Jar",
     "autor": "dk",
-    "datum": "30.1.2020",
+    "datum": "6.2.2020",
     "text": [
       "Dnes, 30. januára 2020 boli u nás na návšteve detičky z MŠ Hviezdoslavova. Prvom rade si vypočuli rozprávku o snehuliakovi, ktorá sa im veľmi páčila. Po rozprávke predviedli svoju kreativitu pri vytváraní snehuliačikov na papier. Pri tvorení nás odmenili pesničkou o snehuliakovi, ktorá nás naladila na tieto zimné dni. "
     ],
@@ -337,7 +445,7 @@
   {
     "id": 5,
     "obrazok": "charita1.png",
-    "nazov": "Cvrlikanie",
+    "nazov": "Cvrlikanie - Bulímia a anorexia",
     "autor": "dd",
     "datum": "15.1.2020",
     "text": [
