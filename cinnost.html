@@ -78,7 +78,7 @@
       </div>
 
       <div class="ui vertical stripe main segment">
-        <div class="ui container">
+        <!-- <div class="ui container">
           <div class="ui second olive message">
             <i class="close icon"></i>
             <div class="header">
@@ -107,7 +107,7 @@
               >.
             </p>
           </div>
-        </div>
+        </div> -->
 
         <div class="ui main container">
           <a id="pravidelna" name="pravidelna"></a>
@@ -115,7 +115,7 @@
             <i class="calendar check icon"></i>
             Pravidelná činnosť
           </h4>
-          <div class="ui four doubling stackable olive cinnosti cards" style="margin-bottom: 4em">
+          <div class="ui four doubling stackable olive cinnosti cards" style="margin-bottom: 4em;">
             <div v-if="prazdnePole(kruzky)" class="ui active centered inline big loader"></div>
             <kruzok v-for="(data, index) in kruzky" v-bind:data="data" v-bind:key="index"></kruzok>
           </div>
@@ -168,7 +168,7 @@
               </div>
             </div>
           </div>
-          <div class="ui center aligned container" style="margin-top: 2em">
+          <div class="ui center aligned container" style="margin-top: 2em;">
             <a class="ui basic button" href="/">+ množstvo ďalších aktivít</a>
           </div>
         </div>
@@ -262,7 +262,7 @@
             <div class="autori item">
               <p>
                 <i class="code icon"></i> <a href="http://2keyplayerscom">2 Key Players</a>
-                <span style="padding-left:1em"></span>
+                <span style="padding-left: 1em;"></span>
                 <i class="settings icon"></i> <a href="https://vuejs.org">Vue.js</a> +
                 <a href="https://semantic-ui.com">Semantic UI</a>
               </p>
