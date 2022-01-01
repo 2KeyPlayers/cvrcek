@@ -48,33 +48,10 @@
     ]
   },
   {
-    "id": "kb",
-    "prezyvka": "Teta Katka",
-    "meno": "Katarína Brúgóšová",
-    "pozicia": "vychovávateľka",
-    "kredity": [
-      {
-        "nazov": "Aktivizujúce metódy vo výchove (inovačné vzdelávanie)",
-        "pocet": 24
-      },
-      {
-        "nazov": "Interaktívna tabuľa a multimédiá vo vzdelávaní (inovačné vzdelávanie)",
-        "pocet": 15
-      },
-      {
-        "nazov": "Vstupný vzdelávací program pre pracovníkov s mládežou - Štartér - Osvedčenie s celoštátnou platnosťou"
-      },
-      {
-        "nazov": "Kurz prvej pomoci - Potvrdenie"
-      }
-    ],
-    "pn": "materská dovolenka"
-  },
-  {
     "id": "dd",
     "prezyvka": "Teta Diana D.",
     "meno": "Mgr. Diana Dókušová",
-    "pozicia": "vychovávateľka",
+    "pozicia": "vychovávateľka na rodičovskej dovolenke",
     "kredity": [
       {
         "nazov": "Školské projekty a medzinárodné partnestvá cez internet (aktualizačné vzdelávanie)",
@@ -89,20 +66,14 @@
       {
         "nazov": "Rozhodca atletiky I. stupňa - Osvedčenie"
       }
-    ]
+    ],
+    "pn": "materská dovolenka"
   },
   {
-    "id": "dk",
-    "prezyvka": "Teta Diana K.",
-    "meno": "Diana Kováčová",
+    "id": "el",
+    "prezyvka": "Teta Eva",
+    "meno": "Ing. Eva Lacušková",
     "pozicia": "vychovávateľka",
-    "kredity": []
-  },
-  {
-    "id": "np",
-    "prezyvka": "Ujo Norbi",
-    "meno": "Bc. Norbert Pecze",
-    "pozicia": "vychovávateľ",
     "kredity": []
   },
   {
@@ -112,17 +83,24 @@
     "pozicia": "upratovačka"
   },
   {
-    "id": "pf",
+    "id": "pb",
     "prezyvka": "Ujo Peťo",
-    "meno": "Peter Fazekaš",
+    "meno": "Peter Budai",
     "pozicia": "vedúci záujmového útvaru Break dance",
+    "ext": 1
+  },
+  {
+    "id": "rh",
+    "prezyvka": "Ujo Rolo",
+    "meno": "Roland Horváth",
+    "pozicia": "vedúci záujmového útvaru Street dance",
     "ext": 1
   },
   {
     "id": "ms",
     "prezyvka": "Teta Marcela",
     "meno": "Mgr. Marcela Štarková",
-    "pozicia": "vedúca záujmového útvaru Poľovníček",
+    "pozicia": "vedúca záujmového útvaru Priatelia prírody a poľovníctva",
     "ext": 1
   },
   {

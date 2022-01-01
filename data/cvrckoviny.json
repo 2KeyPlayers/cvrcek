@@ -1,33 +1,21 @@
-[ {
+[
+  {
   "id": 0,
   "obrazok": "",
   "nazov": "",
   "autor": "",
   "datum": "",
   "text": [""],
-  "facebook": [""],
-  "prilohy": [""],
-  "detaily": [""]
+  "facebook": [""]
 },
   
- 
-
-
-  {
-    "id": 2,
-    "obrazok": "oznam.jpg",
-    "nazov": "Oznam",
-    "autor": "mt",
-    "datum": "30.12.2020",
-    "text": ["Riaditeľstvo CVČ CVrČek oznamuje, že e-mailová schránka cvrcek(zavináč)cvcmoldava(bodka)edu(bodka)sk naďalej nefunguje. Svoje e-maily adresujte na matothova(zavináč)centrum(bodka)sk. Ďakujeme. "]
-  },
-  {
-    "id": 1,
-    "obrazok": "ohnostroj.jpg",
-    "nazov": "Poďakovanie",
-    "autor": "mt",
-    "datum": "31.12.2020",
-    "text": ["V posledný deň v roku 2020 sa chceme úprimne poďakovať našim členom za členstvo, partnerom za partnerstvo, priateľom za priateľstvo a sponzorom za sponzorstvo. Veríme, že až toto smutné obdobie raz skončí, opäť sa stretneme. Zároveň vám všetkým ďakujeme za pomoc a podporu počas celého roka 2020 a želáme vám pokojného Silvestra."],
-    "facebook": ["https://www.facebook.com/cvcmoldava/posts/3629578957119824"]
-  }
+{
+  "id": 1,
+  "obrazok": "cvrcky.jpg",
+  "nazov": "Novoročný vinš",
+  "autor": "mt",
+  "datum": "1.1.2022",
+  "text": ["Aby dobrých ľudí bolo dosť, aby sme žili iným pre radosť, aby deti netrpeli, aby mladí neumreli, aby zdravie zvíťazilo, aby sme sa správali k sebe milo, aby sme mali veľa síl, aby sme zažili veľa pekných chvíľ, aby sme vedeli pomocnú ruku dať a aby sme sa nezabudli smiať."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/408899351022939"]
+}  
 ]

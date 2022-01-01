@@ -119,7 +119,7 @@ var app = new Vue({
     var href = window.location.href; //window.location.pathname;
     var url = new URL(href);
 
-    this.roky = ['2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009'];
+    this.roky = ['2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009'];
     this.rok = url.searchParams.get('rok');
     if (!this.rok && href.indexOf('-') >= 0) {
       this.rok = href.substring(href.lastIndexOf('-') + 1);

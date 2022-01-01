@@ -53,7 +53,9 @@ Vue.component('kruzok', {
         return 'Teta Diana K.';
       } else if (veduci == 'np') {
         return 'Ujo Norbi';
-      } else if (veduci == 'pf') {
+      } else if (veduci == 'el') {
+        return 'Teta Eva';
+      } else if ((veduci == 'pf') || (veduci == 'pb')) {
         return 'Ujo Peťo';
       } else if (veduci == 'ms') {
         return 'Teta Marcela';
@@ -61,6 +63,8 @@ Vue.component('kruzok', {
         return 'Teta Mia';
       } else if (veduci == 'jh') {
         return 'Ujo Jano';
+      } else if (veduci == 'rh') {
+        return 'Ujo Rolo';
       } else {
         return '???';
       }
