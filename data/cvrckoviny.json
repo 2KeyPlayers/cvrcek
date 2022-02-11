@@ -8,7 +8,107 @@
   "text": [""],
   "facebook": [""]
 },
-  
+ 
+
+{
+  "id": 12,
+  "obrazok": "jarne.png",
+  "nazov": "Jarné prázdniny",
+  "autor": "mt",
+  "datum": "7.2.2022",
+  "text": ["V mesiaci február nás čakajú aj Jarné prázdniny. Pre prázdninujúce deti CVrČek pripravil program na tri dni. Jednotlivé dni budú plné zábavy, hier, biliardu, stolného futbalu, tvorenia a prekvapení. Uzávierka prihlášok je 16.2.2022 o 12:00. Kontaktovať nás môžete mailom alebo správou cez FB. Počet detí na jeden deň je limitovaný na 15. V prípade, ak sa prihlási na ten ktorý deň menej ako 10 detí, aktivita sa neuskutoční."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/432813148631559"]
+},
+{
+  "id": 11,
+  "obrazok": "fasiangy.png",
+  "nazov": "Fašiangy",
+  "autor": "mt",
+  "datum": "4.2.2022",
+  "text": ["Prázdninový fašiangový deň s trinástimi skvelými deťmi máme úspešne za sebou. Od rána sa na ňom zoznamovalo, hrali sa detské ľudové hry, tancovalo sa, rozprávalo sa o Fašiangových tradíciách, premietala sa rozprávka, tvorili sa fašiangové klobúčiky a škrabošky, spievalo sa, až prišiel čas obeda a jedla sa pizza. Poobede boli deti na vychádzke a zacvičili si v Cvičebni. Super deň so super partiou."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/430787188834155","https://www.facebook.com/cvcmoldava/videos/2027378974103034/","https://www.facebook.com/cvcmoldava/posts/431356732110534"]
+},
+{
+  "id": 10,
+  "obrazok": "pmr.jpg",
+  "nazov": "Pekná maďarská reč",
+  "autor": "mt",
+  "datum": "3.2.2022",
+  "text": ["Na základe telefonátu od pani Mgr. Kataríny Kaňuchovej, odbornej metodičky Regionálneho úradu školskej správy v Košiciach, je potrebné školské kolo súťaže Pekná maďarská reč uskutočniť do 15.02.2022. Z toho dôvodu by sme prezenčnú formu okresného kola, za prísnych epidemiologických opatrení, platných v školách a školských zariadeniach, chceli uskutočniť 14.02.2022 od 9:00 v priestoroch CVČ CVrČek na Školskej 5, v Moldave nad Bodvou. Ak to nebude možné, okresné kolo prebehne dištančnou formou. Chceme preto poprosiť školy s vyučovacím jazykom maďarským z okresov Košice, Košice - okolie a Rožňava, aby svoj záujem obratom, najneskôr do piatku, 08.02.2022 nahlásili CVČ mailom. Ďakujeme."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/429967962249411"]
+},
+{
+  "id": 9,
+  "obrazok": "cvrcek8.jpg",
+  "nazov": "CVrČkoviny",
+  "autor": "mt",
+  "datum": "23.1.2022",
+  "text": ["V týždni od 17. januára 2022 do 21. januára 2022 sa streli všetky záujmové útvary (okrem Klubu mamičiek). Deti aj dospelí sa na stretnutia tešili a spoločné chvíle si užívali. Dúfame, že budeme môcť v našej činnosti pokračovať naďalej. Pod ikonkou FB nájdete fotografie zo stretnutí."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/420647173181490","https://www.facebook.com/cvcmoldava/posts/420648713181336","https://www.facebook.com/cvcmoldava/posts/420834739829400","https://www.facebook.com/cvcmoldava/posts/417568183489389","https://www.facebook.com/cvcmoldava/posts/421514403094767","https://www.facebook.com/cvcmoldava/posts/421530216426519","https://www.facebook.com/cvcmoldava/posts/421533149759559"]
+},
+{
+  "id": 8,
+  "obrazok": "klubhracov.jpg",
+  "nazov": "Aktualizačné vzdelávanie",
+  "autor": "el",
+  "datum": "21.1.2022",
+  "text": ["Dňa 21. januára 2022 zorganizovala Asociácia CVČ SR aktualizačné vzdelávanie pre vychovávateľov CVČ o programe CANVA. Zúčastnila sa na ňom aj naša pani vychovávateľka, Ing. Eva Lacušková."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/422075979705276"]
+},
+{
+  "id": 7,
+  "obrazok": "dakujeme.jpg",
+  "nazov": "Poďakovanie",
+  "autor": "mt",
+  "datum": "14.1.2022",
+  "text": ["V roku 2021 nám okrem nášho zriaďovateľa, mesta Moldava nad Bodvou, poskytli finančné prostriedky na našu činnosť aj iné obce. Za deti, ktoré z týchto obcí navštevovali naše CVČ, nám poslali peniaze Mokrance, Medzev,  Buzica, Jasov, Krajná Bystrá, Háj a Drienovec. Veľmi pekne ďakujeme! "],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/417568183489389"]
+},
+{
+  "id": 6,
+  "obrazok": "deti1.jpg",
+  "nazov": "Otvárame",
+  "autor": "mt",
+  "datum": "13.1.2022",
+  "text": ["Od 17. januára 2022 pri dodržaní platných proti-epidemiologických pokynov otvára svoje brány aj Centrum voľného času CVrČek. Pokyny budú rodičom zaslané do skupín."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/416808516898689"]
+},
+{
+  "id": 5,
+  "obrazok": "sikanovanie.jpg",
+  "nazov": "Webinár",
+  "autor": "mt",
+  "datum": "13.1.2022",
+  "text": ["Pod názvom Cvrlikanie prebiehajú už roky preventívne aktivity v našom CVrČkovi. Vždy mali dobré meno a spätnú väzbu zo strany detí aj pedagógov. Aby tomu bolo tak aj v budúcnosti, tak sa dnes podvečer pani riaditeľka, Mgr. Mária Tóthová, zúčastnila na podnetnom a užitočnom webinári na aktuálnu tému Ako riešiť šikanu. Poznatky z webinára určite uplatní v praxi, keď už bude možné opäť cvrlikať."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/417039486875592"]
+},
+{
+  "id": 4,
+  "obrazok": "parlament.jpg",
+  "nazov": "Porada riaditeľov CVČ",
+  "autor": "mt",
+  "datum": "13.1.2022",
+  "text": ["Dnes sa naša pani riaditeľka, Mgr. Mária Tóthová, zúčastnila na neformálnom online stretnutí riaditeľov CVČ, kde bol predstavený nový Štátny vzdelávací program pre CVČ, bola podaná informácia o zmenách vo vyhláške o CVČ a odzneli ďalšie aktuálne novinky, týkajúce sa školských zariadení."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/416780076901533"]
+},
+{
+  "id": 3,
+  "obrazok": "uluv.png",
+  "nazov": "Krajina remesiel",
+  "autor": "mt",
+  "datum": "12.1.2022",
+  "text": ["Dnes sme dostali balík s odmenami pre dievčatká Evku, Sofiku a Alexku, ktoré zaslali svoje práce do celoslovenskej tvorivej súťaže Krajina remesiel a získali krásne 3. miesto. Odmeny im odovzdáme hneď, keď opäť otvoríme."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/416193763626831"]
+},
+{
+  "id": 2,
+  "obrazok": "dielna1.png",
+  "nazov": "Aktualizačné vzdelávanie",
+  "autor": "mt",
+  "datum": "10.1.2022",
+  "text": ["10. januára 2022 sa pani riaditeľka zúčastnila  na  aktualizačnom webinári pod názvom Počúvaj, čo kreslím. Detská kresba. Svoje nadobudnuté vedomosti veľmi rada zúročí pri práci v Dielničke, ale aj v Klube mamičiek."],
+  "facebook": ["https://www.facebook.com/cvcmoldava/posts/416785146901026"]
+},
 {
   "id": 1,
   "obrazok": "cvrcky.jpg",
@@ -17,5 +117,5 @@
   "datum": "1.1.2022",
   "text": ["Aby dobrých ľudí bolo dosť, aby sme žili iným pre radosť, aby deti netrpeli, aby mladí neumreli, aby zdravie zvíťazilo, aby sme sa správali k sebe milo, aby sme mali veľa síl, aby sme zažili veľa pekných chvíľ, aby sme vedeli pomocnú ruku dať a aby sme sa nezabudli smiať."],
   "facebook": ["https://www.facebook.com/cvcmoldava/posts/408899351022939"]
-}  
+}
 ]
