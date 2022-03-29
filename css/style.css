@@ -132,7 +132,7 @@
 .ui.main.menu:before {
   background: linear-gradient(to right, #00b5ad 33%, #b5cc18 66%, #f2711c 100%);
   position: absolute;
-  content: '';
+  content: "";
   height: 2px;
   right: 0;
   left: 0;
@@ -338,8 +338,12 @@ span.icon {
 .ui.list > .odkazy.item .header .icon {
   color: #3b5998;
 }
-.ui.list > .keyplayers.item .header,
-.ui.list > .keyplayers.item .header .icon {
+.ui.list > .gdpr.item .header,
+.ui.list > .gdpr.item .header .icon {
+  color: #666666;
+}
+.ui.list > .crz.item .header,
+.ui.list > .crz.item .header .icon {
   color: #262626;
 }
 .ui.list > .inactive.item .header,
