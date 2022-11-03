@@ -4,7 +4,7 @@
   "description": "Centrum voľného času CVrČek",
   "main": "index.html",
   "dependencies": {
-    "semantic-ui": "^2.4.2"
+    "semantic-ui": "^2.5.0"
   },
   "devDependencies": {},
   "scripts": {
